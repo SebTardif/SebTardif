@@ -17,14 +17,22 @@ jobs:
         with:
           script: |
             const fs = require('fs');
+            // Fetch more PRs than needed so we can deduplicate by repo
             const { data: prs } = await github.rest.search.issuesAndPullRequests({
               q: 'type:pr author:SebTardif is:merged sort:created-desc',
-              per_page: 6
+              per_page: 30
             });
-            const lines = prs.items.map(pr => {
+            // Pick the most recent merged PR per repo, up to 6 repos
+            const seen = new Set();
+            const lines = [];
+            for (const pr of prs.items) {
               const repo = pr.repository_url.split('/').slice(-2).join('/');
-              return `- [${pr.title}](${pr.html_url}) in **${repo}**`;
-            });
+              if (repo.startsWith('SebTardif/')) continue; // skip own repos
+              if (seen.has(repo)) continue;
+              seen.add(repo);
+              lines.push(`- [${pr.title}](${pr.html_url}) in **${repo}**`);
+              if (lines.length >= 6) break;
+            }
             let readme = fs.readFileSync('README.md', 'utf8');
             const updated = readme.replace(
               /<!-- RECENT-PRS-START -->[\s\S]*<!-- RECENT-PRS-END -->/,

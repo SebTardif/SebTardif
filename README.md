@@ -56,10 +56,16 @@ Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu),
 
 ## Certifications
 
-- Oracle Certified Master, Java EE 6 Enterprise Architect
-- AWS Certified Solutions Architect (Associate)
-- AWS Certified Security (Specialty)
+- NVIDIA Certified Associate: Generative AI LLMs
+- Microsoft Certified: Azure AI Engineer Associate
+- Claude Code in Action (Anthropic)
+- Agentic AI with LangGraph, CrewAI, AutoGen (IBM)
+- GitHub Copilot (Microsoft)
+- MLOps with Vertex AI (Google Cloud)
+- AIOps on AWS (Amazon Web Services)
+- CompTIA Security+
 - Certified Kubernetes Application Developer (CKAD)
+- AWS Certified Solutions Architect & Security Specialty
 
 ## Connect
 

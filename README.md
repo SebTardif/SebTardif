@@ -61,10 +61,6 @@ Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu),
 - AWS Certified Security (Specialty)
 - Certified Kubernetes Application Developer (CKAD)
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SebTardif&show_icons=true&theme=default&hide_border=true&count_private=true)
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sebastien-tardif)

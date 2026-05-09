@@ -1,8 +1,8 @@
-# Hi, I'm Sebastien
+# Building at the intersection of AI and infrastructure
 
-**Staff Software Engineer** | San Francisco, CA | AI Agents, Cloud Infrastructure, Security
+**Staff Software Engineer** | San Francisco, CA
 
-20+ years shipping production systems, from enterprise Java to Kubernetes-native architectures. Now building at the intersection of agentic AI and cloud infrastructure: contributing to AI agent frameworks, hardening open source security, and integrating LLMs into real-world engineering workflows. Technical reviewer for *Spring AI in Action*.
+20+ years shipping production systems, from enterprise Java to Kubernetes-native architectures. Now contributing to AI agent frameworks, hardening open source security, and integrating LLMs into real-world engineering workflows. Technical reviewer for *Spring AI in Action*.
 
 ## Tech Stack
 

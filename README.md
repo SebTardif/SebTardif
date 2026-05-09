@@ -63,7 +63,7 @@ Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu),
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebTardif&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=SebTardif&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ## Connect
 

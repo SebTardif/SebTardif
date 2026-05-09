@@ -1,0 +1,40 @@
+name: Update README
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Update recent PRs
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const { data: prs } = await github.rest.search.issuesAndPullRequests({
+              q: 'type:pr author:SebTardif is:merged sort:created-desc',
+              per_page: 6
+            });
+            const lines = prs.items.map(pr => {
+              const repo = pr.repository_url.split('/').slice(-2).join('/');
+              return `- [${pr.title}](${pr.html_url}) in **${repo}**`;
+            });
+            let readme = fs.readFileSync('README.md', 'utf8');
+            const updated = readme.replace(
+              /<!-- RECENT-PRS-START -->[\s\S]*<!-- RECENT-PRS-END -->/,
+              `<!-- RECENT-PRS-START -->\n${lines.join('\n')}\n<!-- RECENT-PRS-END -->`
+            );
+            if (updated !== readme) {
+              fs.writeFileSync('README.md', updated);
+              console.log('README updated with ' + lines.length + ' PRs');
+            } else {
+              console.log('No changes needed');
+            }
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git diff --quiet || (git add README.md && git commit -m "chore: update recent PRs" && git push)

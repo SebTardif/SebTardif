@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix(android): reject pending callbacks on device close](https://github.com/microsoft/playwright/pull/40722) in **microsoft/playwright**
 - [fix(server): add path traversal checks to static file serving routes](https://github.com/microsoft/playwright/pull/40715) in **microsoft/playwright**
-- [fix(ci): prevent shell injection via CI event data](https://github.com/microsoft/playwright/pull/40684) in **microsoft/playwright**
-- [fix(trace-viewer): sanitize snapshot renderer against XSS](https://github.com/microsoft/playwright/pull/40655) in **microsoft/playwright**
-- [fix(security): prevent Zip Slip path traversal in harUnzip](https://github.com/microsoft/playwright/pull/40623) in **microsoft/playwright**
-- [Align DocumentBuilderFactory configuration](https://github.com/spring-projects/spring-boot/pull/50282) in **spring-projects/spring-boot**
-- [Add startup progress indicators](https://github.com/openclaw/openclaw/pull/71720) in **openclaw/openclaw**
+- [fix: fix broken links and typo in ROADMAP.md](https://github.com/kubeflow/kubeflow/pull/7754) in **kubeflow/kubeflow**
+- [fix(ci): prevent shell injection via CI event data in gitCommitInfoPlugin](https://github.com/microsoft/playwright/pull/40684) in **microsoft/playwright**
+- [fix(trace-viewer): strip event handlers and neutralize IFRAME srcdoc/sandbox in snapshot renderer](https://github.com/microsoft/playwright/pull/40676) in **microsoft/playwright**
+- [fix(cli): prevent shell injection in --only-changed ref argument](https://github.com/microsoft/playwright/pull/40657) in **microsoft/playwright**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

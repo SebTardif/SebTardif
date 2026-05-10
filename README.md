@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(android): reject pending callbacks on device close](https://github.com/microsoft/playwright/pull/40722) in **microsoft/playwright**
+- [fix(server): use fs.promises.rm to delete temp upload directories](https://github.com/microsoft/playwright/pull/40755) in **microsoft/playwright**
 - [fix: fix broken links and typo in ROADMAP.md](https://github.com/kubeflow/kubeflow/pull/7754) in **kubeflow/kubeflow**
 - [Recognize ANTHROPIC_AUTH_TOKEN in setup verification](https://github.com/nanocoai/nanoclaw/pull/2229) in **nanocoai/nanoclaw**
 - [Align DocumentBuilderFactory configuration](https://github.com/spring-projects/spring-boot/pull/50282) in **spring-projects/spring-boot**

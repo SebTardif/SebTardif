@@ -45,11 +45,11 @@
 
 <!-- RECENT-PRS-START -->
 - [fix(server): destroy stream in WritableStreamDispatcher._onDispose](https://github.com/microsoft/playwright/pull/40764) in **microsoft/playwright**
+- [operator: use read lock for read-only ReconciliationTracker methods](https://github.com/prometheus-operator/prometheus-operator/pull/8561) in **prometheus-operator/prometheus-operator**
 - [fix: fix broken links and typo in ROADMAP.md](https://github.com/kubeflow/kubeflow/pull/7754) in **kubeflow/kubeflow**
 - [Recognize ANTHROPIC_AUTH_TOKEN in setup verification](https://github.com/nanocoai/nanoclaw/pull/2229) in **nanocoai/nanoclaw**
 - [Align DocumentBuilderFactory configuration](https://github.com/spring-projects/spring-boot/pull/50282) in **spring-projects/spring-boot**
 - [fix: sync install.sh with openclaw/openclaw](https://github.com/openclaw/openclaw.ai/pull/129) in **openclaw/openclaw.ai**
-- [Add startup progress indicators](https://github.com/openclaw/openclaw/pull/71720) in **openclaw/openclaw**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

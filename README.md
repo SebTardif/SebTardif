@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(server): destroy stream in StreamDispatcher._onDispose](https://github.com/microsoft/playwright/pull/40759) in **microsoft/playwright**
+- [fix(server): destroy stream in WritableStreamDispatcher._onDispose](https://github.com/microsoft/playwright/pull/40764) in **microsoft/playwright**
 - [fix: fix broken links and typo in ROADMAP.md](https://github.com/kubeflow/kubeflow/pull/7754) in **kubeflow/kubeflow**
 - [Recognize ANTHROPIC_AUTH_TOKEN in setup verification](https://github.com/nanocoai/nanoclaw/pull/2229) in **nanocoai/nanoclaw**
 - [Align DocumentBuilderFactory configuration](https://github.com/spring-projects/spring-boot/pull/50282) in **spring-projects/spring-boot**

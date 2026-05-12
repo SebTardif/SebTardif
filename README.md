@@ -46,10 +46,10 @@
 <!-- RECENT-PRS-START -->
 - [fix(server): destroy stream in WritableStreamDispatcher._onDispose](https://github.com/microsoft/playwright/pull/40764) in **microsoft/playwright**
 - [Fix AttachedProcess task leak on drop and join() deadlock](https://github.com/kube-rs/kube/pull/1978) in **kube-rs/kube**
+- [🐛 (API): Fix file descriptor leak from defer inside loop in external plugin handler](https://github.com/kubernetes-sigs/kubebuilder/pull/5688) in **kubernetes-sigs/kubebuilder**
 - [operator: use read lock for read-only ReconciliationTracker methods](https://github.com/prometheus-operator/prometheus-operator/pull/8561) in **prometheus-operator/prometheus-operator**
 - [fix: fix broken links and typo in ROADMAP.md](https://github.com/kubeflow/kubeflow/pull/7754) in **kubeflow/kubeflow**
-- [fix: fetch logs from all containers in test pods](https://github.com/helm/helm/pull/32099) in **helm/helm**
-- [Recognize ANTHROPIC_AUTH_TOKEN in setup verification](https://github.com/nanocoai/nanoclaw/pull/2229) in **nanocoai/nanoclaw**
+- [Fix listener leak: move onDidChangeConfiguration out of onDidProgressStep callback](https://github.com/microsoft/vscode/pull/314636) in **microsoft/vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

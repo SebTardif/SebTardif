@@ -49,7 +49,7 @@
 - [Fix AttachedProcess task leak on drop and join() deadlock](https://github.com/kube-rs/kube/pull/1978) in **kube-rs/kube**
 - [🐛 (CLI): Fix panic from unchecked type assertion in printDeprecationWarnings](https://github.com/kubernetes-sigs/kubebuilder/pull/5689) in **kubernetes-sigs/kubebuilder**
 - [operator: use read lock for read-only ReconciliationTracker methods](https://github.com/prometheus-operator/prometheus-operator/pull/8561) in **prometheus-operator/prometheus-operator**
-- [fix: fix broken links and typo in ROADMAP.md](https://github.com/kubeflow/kubeflow/pull/7754) in **kubeflow/kubeflow**
+- [states: Add missing lock in RemoveResourceInstanceObjectFull](https://github.com/opentofu/opentofu/pull/4083) in **opentofu/opentofu**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

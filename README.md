@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: escape YAML data in threat model detail overlay to prevent XSS](https://github.com/openclaw/openclaw.ai/pull/140) in **openclaw/openclaw.ai**
+- [fix: encode author names in onerror fallback to prevent XSS](https://github.com/openclaw/openclaw.ai/pull/142) in **openclaw/openclaw.ai**
 - [Move retryingRoundTripper wrapping to constructor](https://github.com/fluxcd/helm-controller/pull/1485) in **fluxcd/helm-controller**
 - [Fix resource leaks in provisioners and commands](https://github.com/hashicorp/terraform/pull/38585) in **hashicorp/terraform**
 - [Remove compatibility code for EOL dependency versions](https://github.com/spring-projects/spring-boot/pull/50383) in **spring-projects/spring-boot**

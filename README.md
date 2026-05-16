@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: escape YAML data in threat model detail overlay to prevent XSS](https://github.com/openclaw/openclaw.ai/pull/140) in **openclaw/openclaw.ai**
 - [Fix resource leaks in provisioners and commands](https://github.com/hashicorp/terraform/pull/38585) in **hashicorp/terraform**
 - [Remove compatibility code for EOL dependency versions](https://github.com/spring-projects/spring-boot/pull/50383) in **spring-projects/spring-boot**
 - [fix(server): destroy stream in WritableStreamDispatcher._onDispose](https://github.com/microsoft/playwright/pull/40764) in **microsoft/playwright**
 - [Fix AttachedProcess task leak on drop and join() deadlock](https://github.com/kube-rs/kube/pull/1978) in **kube-rs/kube**
 - [🐛 (CLI): Fix panic from unchecked type assertion in printDeprecationWarnings](https://github.com/kubernetes-sigs/kubebuilder/pull/5689) in **kubernetes-sigs/kubebuilder**
-- [operator: use read lock for read-only ReconciliationTracker methods](https://github.com/prometheus-operator/prometheus-operator/pull/8561) in **prometheus-operator/prometheus-operator**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

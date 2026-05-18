@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [[IMPROVED] Replace time.After with reusable timer in snapshot and catchup loops](https://github.com/nats-io/nats-server/pull/8186) in **nats-io/nats-server**
 - [fix: use Header.Set to prevent duplicate Authorization on retry](https://github.com/sigstore/cosign/pull/4870) in **sigstore/cosign**
 - [fix: close Vault response body on RawRequest error to prevent resource leak](https://github.com/cert-manager/cert-manager/pull/8799) in **cert-manager/cert-manager**
-- [server: fix nil pointer dereference in DirJWTStore.Pack filepath.Walk callback](https://github.com/nats-io/nats-server/pull/8173) in **nats-io/nats-server**
 - [fix: check error return from yaml.Encoder.Close() in resolveFile](https://github.com/ko-build/ko/pull/1664) in **ko-build/ko**
 - [fix: close HTTP response body in ExchangeOidcToken](https://github.com/pulumi/pulumi/pull/23224) in **pulumi/pulumi**
 - [fix: encode author names in onerror fallback to prevent XSS](https://github.com/openclaw/openclaw.ai/pull/142) in **openclaw/openclaw.ai**

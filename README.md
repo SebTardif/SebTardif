@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: use Header.Set to prevent duplicate Authorization on retry](https://github.com/sigstore/cosign/pull/4870) in **sigstore/cosign**
 - [fix: close Vault response body on RawRequest error to prevent resource leak](https://github.com/cert-manager/cert-manager/pull/8799) in **cert-manager/cert-manager**
 - [server: fix nil pointer dereference in DirJWTStore.Pack filepath.Walk callback](https://github.com/nats-io/nats-server/pull/8173) in **nats-io/nats-server**
+- [fix: check error return from yaml.Encoder.Close() in resolveFile](https://github.com/ko-build/ko/pull/1664) in **ko-build/ko**
 - [fix: close HTTP response body in ExchangeOidcToken](https://github.com/pulumi/pulumi/pull/23224) in **pulumi/pulumi**
-- [fix: close file descriptor leaked in WriteSignedImageIndexImages loop](https://github.com/sigstore/cosign/pull/4869) in **sigstore/cosign**
 - [fix: encode author names in onerror fallback to prevent XSS](https://github.com/openclaw/openclaw.ai/pull/142) in **openclaw/openclaw.ai**
-- [Move retryingRoundTripper wrapping to constructor](https://github.com/fluxcd/helm-controller/pull/1485) in **fluxcd/helm-controller**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

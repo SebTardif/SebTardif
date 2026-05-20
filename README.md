@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [Fix panic, body leak, and FD leaks in templates_zip.go](https://github.com/pulumi/pulumi/pull/23288) in **pulumi/pulumi**
 - [Fix impossible status code checks in GitHub provider PutSecret](https://github.com/sigstore/cosign/pull/4876) in **sigstore/cosign**
-- [Fix file descriptor leak in ParseFiles](https://github.com/pulumi/pulumi/pull/23281) in **pulumi/pulumi**
 - [[IMPROVED] Replace time.After with reusable timer in snapshot and catchup loops](https://github.com/nats-io/nats-server/pull/8186) in **nats-io/nats-server**
 - [Close leaked file handles in container config, CRIU stats, and playbook read](https://github.com/containers/podman/pull/28724) in **containers/podman**
 - [fix: close Vault response body on RawRequest error to prevent resource leak](https://github.com/cert-manager/cert-manager/pull/8799) in **cert-manager/cert-manager**

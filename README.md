@@ -47,9 +47,9 @@
 - [Fix impossible status code checks in GitHub provider PutSecret](https://github.com/sigstore/cosign/pull/4876) in **sigstore/cosign**
 - [Fix file descriptor leak in ParseFiles](https://github.com/pulumi/pulumi/pull/23281) in **pulumi/pulumi**
 - [[IMPROVED] Replace time.After with reusable timer in snapshot and catchup loops](https://github.com/nats-io/nats-server/pull/8186) in **nats-io/nats-server**
+- [Close leaked file handles in container config, CRIU stats, and playbook read](https://github.com/containers/podman/pull/28724) in **containers/podman**
 - [fix: close Vault response body on RawRequest error to prevent resource leak](https://github.com/cert-manager/cert-manager/pull/8799) in **cert-manager/cert-manager**
 - [rafthttp: close response body on io.ReadAll error in stream dial](https://github.com/etcd-io/etcd/pull/21760) in **etcd-io/etcd**
-- [fix: check error return from yaml.Encoder.Close() in resolveFile](https://github.com/ko-build/ko/pull/1664) in **ko-build/ko**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix(agents): add openai-responses family to non-visible turn retry guard](https://github.com/openclaw/openclaw/pull/85603) in **openclaw/openclaw**
 - [Fix unsafe type assertion in Rego policy evaluation](https://github.com/sigstore/cosign/pull/4882) in **sigstore/cosign**
 - [admission: add missing return after http.Error on marshal failure](https://github.com/prometheus-operator/prometheus-operator/pull/8582) in **prometheus-operator/prometheus-operator**
-- [fix(delivery): log failDelivery errors instead of silently swallowing](https://github.com/openclaw/openclaw/pull/84449) in **openclaw/openclaw**
 - [Fix panic, body leak, and FD leaks in templates_zip.go](https://github.com/pulumi/pulumi/pull/23288) in **pulumi/pulumi**
 - [[IMPROVED] Replace time.After with reusable timer in snapshot and catchup loops](https://github.com/nats-io/nats-server/pull/8186) in **nats-io/nats-server**
 - [Close leaked file handles in container config, CRIU stats, and playbook read](https://github.com/containers/podman/pull/28724) in **containers/podman**

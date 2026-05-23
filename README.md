@@ -45,11 +45,11 @@
 
 <!-- RECENT-PRS-START -->
 - [admission: add missing return after http.Error on marshal failure](https://github.com/prometheus-operator/prometheus-operator/pull/8582) in **prometheus-operator/prometheus-operator**
+- [fix(delivery): log failDelivery errors instead of silently swallowing](https://github.com/openclaw/openclaw/pull/84449) in **openclaw/openclaw**
 - [Fix panic, body leak, and FD leaks in templates_zip.go](https://github.com/pulumi/pulumi/pull/23288) in **pulumi/pulumi**
-- [Fix impossible status code checks in GitHub provider PutSecret](https://github.com/sigstore/cosign/pull/4876) in **sigstore/cosign**
+- [fix: check HTTP status code in LoadFileOrURL](https://github.com/sigstore/cosign/pull/4877) in **sigstore/cosign**
 - [[IMPROVED] Replace time.After with reusable timer in snapshot and catchup loops](https://github.com/nats-io/nats-server/pull/8186) in **nats-io/nats-server**
 - [Close leaked file handles in container config, CRIU stats, and playbook read](https://github.com/containers/podman/pull/28724) in **containers/podman**
-- [fix: close Vault response body on RawRequest error to prevent resource leak](https://github.com/cert-manager/cert-manager/pull/8799) in **cert-manager/cert-manager**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

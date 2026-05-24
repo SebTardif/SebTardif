@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(agents): add openai-responses family to non-visible turn retry guard](https://github.com/openclaw/openclaw/pull/85603) in **openclaw/openclaw**
+- [fix(security): replace regex wildcard matching with linear-time glob in session-visibility](https://github.com/openclaw/openclaw/pull/85849) in **openclaw/openclaw**
 - [Fix unsafe type assertion in Rego policy evaluation](https://github.com/sigstore/cosign/pull/4882) in **sigstore/cosign**
 - [admission: add missing return after http.Error on marshal failure](https://github.com/prometheus-operator/prometheus-operator/pull/8582) in **prometheus-operator/prometheus-operator**
 - [Fix panic, body leak, and FD leaks in templates_zip.go](https://github.com/pulumi/pulumi/pull/23288) in **pulumi/pulumi**

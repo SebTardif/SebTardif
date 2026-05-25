@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [Fix Helm chart cosign signing auth](https://github.com/attune-io/attune/pull/11) in **attune-io/attune**
-- [fix(memory-core): filter REM dreaming candidates to light-staged entries](https://github.com/openclaw/openclaw/pull/86302) in **openclaw/openclaw**
+- [chore: add DCO requirement for contributors](https://github.com/attune-io/attune/pull/18) in **attune-io/attune**
+- [fix(kilocode): normalize string stop param to array in stream wrapper](https://github.com/openclaw/openclaw/pull/86461) in **openclaw/openclaw**
 - [Fix unsafe type assertion in Rego policy evaluation](https://github.com/sigstore/cosign/pull/4882) in **sigstore/cosign**
 - [admission: add missing return after http.Error on marshal failure](https://github.com/prometheus-operator/prometheus-operator/pull/8582) in **prometheus-operator/prometheus-operator**
 - [Fix panic, body leak, and FD leaks in templates_zip.go](https://github.com/pulumi/pulumi/pull/23288) in **pulumi/pulumi**

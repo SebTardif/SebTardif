@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(security): replace regex wildcard matching with linear-time glob in session-visibility](https://github.com/openclaw/openclaw/pull/85849) in **openclaw/openclaw**
+- [Fix Helm chart cosign signing auth](https://github.com/attune-io/attune/pull/11) in **attune-io/attune**
+- [fix(memory-core): filter REM dreaming candidates to light-staged entries](https://github.com/openclaw/openclaw/pull/86302) in **openclaw/openclaw**
 - [Fix unsafe type assertion in Rego policy evaluation](https://github.com/sigstore/cosign/pull/4882) in **sigstore/cosign**
 - [admission: add missing return after http.Error on marshal failure](https://github.com/prometheus-operator/prometheus-operator/pull/8582) in **prometheus-operator/prometheus-operator**
 - [Fix panic, body leak, and FD leaks in templates_zip.go](https://github.com/pulumi/pulumi/pull/23288) in **pulumi/pulumi**
-- [[IMPROVED] Replace time.After with reusable timer in snapshot and catchup loops](https://github.com/nats-io/nats-server/pull/8186) in **nats-io/nats-server**
-- [Close leaked file handles in container config, CRIU stats, and playbook read](https://github.com/containers/podman/pull/28724) in **containers/podman**
+- [Fix wrong variable in check_model_type isinstance check](https://github.com/huggingface/transformers/pull/46080) in **huggingface/transformers**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

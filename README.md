@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [chore: add DCO requirement for contributors](https://github.com/attune-io/attune/pull/18) in **attune-io/attune**
+- [fix(seo): derive canonical URL from page pathname instead of hardcoded homepage](https://github.com/openclaw/openclaw.ai/pull/149) in **openclaw/openclaw.ai**
+- [ci: fix link checker config and broken URL](https://github.com/attune-io/attune/pull/41) in **attune-io/attune**
 - [fix(kilocode): normalize string stop param to array in stream wrapper](https://github.com/openclaw/openclaw/pull/86461) in **openclaw/openclaw**
 - [Fix unsafe type assertion in Rego policy evaluation](https://github.com/sigstore/cosign/pull/4882) in **sigstore/cosign**
 - [admission: add missing return after http.Error on marshal failure](https://github.com/prometheus-operator/prometheus-operator/pull/8582) in **prometheus-operator/prometheus-operator**
-- [Fix panic, body leak, and FD leaks in templates_zip.go](https://github.com/pulumi/pulumi/pull/23288) in **pulumi/pulumi**
-- [Fix wrong variable in check_model_type isinstance check](https://github.com/huggingface/transformers/pull/46080) in **huggingface/transformers**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

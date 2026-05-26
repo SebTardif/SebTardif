@@ -44,11 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: convert logo from JPG to PNG with transparent corners](https://github.com/attune-io/attune/pull/43) in **attune-io/attune**
+- [docs: add DCO sign-off requirement to AGENTS.md](https://github.com/attune-io/attune/pull/45) in **attune-io/attune**
 - [fix(seo): derive canonical URL from page pathname instead of hardcoded homepage](https://github.com/openclaw/openclaw.ai/pull/149) in **openclaw/openclaw.ai**
 - [fix(kilocode): normalize string stop param to array in stream wrapper](https://github.com/openclaw/openclaw/pull/86461) in **openclaw/openclaw**
-- [Fix unsafe type assertion in Rego policy evaluation](https://github.com/sigstore/cosign/pull/4882) in **sigstore/cosign**
-- [alertmanager: return error on invalid SMTP smarthost format](https://github.com/prometheus-operator/prometheus-operator/pull/8586) in **prometheus-operator/prometheus-operator**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

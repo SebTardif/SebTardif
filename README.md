@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: convert logo from JPG to PNG with transparent corners](https://github.com/attune-io/attune/pull/43) in **attune-io/attune**
 - [fix(seo): derive canonical URL from page pathname instead of hardcoded homepage](https://github.com/openclaw/openclaw.ai/pull/149) in **openclaw/openclaw.ai**
-- [ci: fix link checker config and broken URL](https://github.com/attune-io/attune/pull/41) in **attune-io/attune**
 - [fix(kilocode): normalize string stop param to array in stream wrapper](https://github.com/openclaw/openclaw/pull/86461) in **openclaw/openclaw**
 - [Fix unsafe type assertion in Rego policy evaluation](https://github.com/sigstore/cosign/pull/4882) in **sigstore/cosign**
 - [admission: add missing return after http.Error on marshal failure](https://github.com/prometheus-operator/prometheus-operator/pull/8582) in **prometheus-operator/prometheus-operator**

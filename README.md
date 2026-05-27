@@ -44,9 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: add DCO sign-off requirement to AGENTS.md](https://github.com/attune-io/attune/pull/45) in **attune-io/attune**
+- [test: harden RealisticLoad E2E against CI scheduling contention](https://github.com/attune-io/attune/pull/76) in **attune-io/attune**
 - [fix(seo): derive canonical URL from page pathname instead of hardcoded homepage](https://github.com/openclaw/openclaw.ai/pull/149) in **openclaw/openclaw.ai**
-- [fix(kilocode): normalize string stop param to array in stream wrapper](https://github.com/openclaw/openclaw/pull/86461) in **openclaw/openclaw**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

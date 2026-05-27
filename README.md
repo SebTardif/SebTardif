@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: harden RealisticLoad E2E against CI scheduling contention](https://github.com/attune-io/attune/pull/76) in **attune-io/attune**
+- [fix(ci): pin all transitive pip dependencies with hashes](https://github.com/attune-io/attune/pull/85) in **attune-io/attune**
+- [fix(install): skip Homebrew when adequate Node is already present](https://github.com/openclaw/openclaw/pull/86713) in **openclaw/openclaw**
 - [fix(seo): derive canonical URL from page pathname instead of hardcoded homepage](https://github.com/openclaw/openclaw.ai/pull/149) in **openclaw/openclaw.ai**
 <!-- RECENT-PRS-END -->
 

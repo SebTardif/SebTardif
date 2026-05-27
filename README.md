@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(ci): pin all transitive pip dependencies with hashes](https://github.com/attune-io/attune/pull/85) in **attune-io/attune**
+- [test(e2e): add diagnostic logging to waitForPolicyDiscovered and waitForResize](https://github.com/attune-io/attune/pull/88) in **attune-io/attune**
 - [fix(install): skip Homebrew when adequate Node is already present](https://github.com/openclaw/openclaw/pull/86713) in **openclaw/openclaw**
 - [fix(seo): derive canonical URL from page pathname instead of hardcoded homepage](https://github.com/openclaw/openclaw.ai/pull/149) in **openclaw/openclaw.ai**
 <!-- RECENT-PRS-END -->

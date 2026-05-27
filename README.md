@@ -44,9 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test(e2e): add diagnostic logging to waitForPolicyDiscovered and waitForResize](https://github.com/attune-io/attune/pull/88) in **attune-io/attune**
+- [ci: add workflow_dispatch to Scorecard workflow](https://github.com/attune-io/attune/pull/101) in **attune-io/attune**
 - [fix(install): skip Homebrew when adequate Node is already present](https://github.com/openclaw/openclaw/pull/86713) in **openclaw/openclaw**
-- [fix(seo): derive canonical URL from page pathname instead of hardcoded homepage](https://github.com/openclaw/openclaw.ai/pull/149) in **openclaw/openclaw.ai**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix(ci): use SVG logo in OLM bundle and generate icon at build time](https://github.com/attune-io/attune/pull/132) in **attune-io/attune**
 - [fix(tools): pass time parameter to page.evaluate in waitForTimeout](https://github.com/microsoft/playwright/pull/41037) in **microsoft/playwright**
-- [operator [N] attune (0.1.4)](https://github.com/k8s-operatorhub/community-operators/pull/8228) in **k8s-operatorhub/community-operators**
+- [operator [CI] attune (0.1.7)](https://github.com/k8s-operatorhub/community-operators/pull/8231) in **k8s-operatorhub/community-operators**
+- [Replace assert with raise ImportError for optuna/ray dependency checks](https://github.com/huggingface/transformers/pull/46263) in **huggingface/transformers**
 - [Add attune plugin](https://github.com/kubernetes-sigs/krew-index/pull/5788) in **kubernetes-sigs/krew-index**
-- [feat: publish container image to Docker Hub for discoverability](https://github.com/attune-io/attune/pull/102) in **attune-io/attune**
 - [fix(tool-search): skip catalog rebuild when tool set is unchanged](https://github.com/openclaw/openclaw/pull/87172) in **openclaw/openclaw**
-- [Fix inverted assertion in remove_handler](https://github.com/huggingface/transformers/pull/46227) in **huggingface/transformers**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

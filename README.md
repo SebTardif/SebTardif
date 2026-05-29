@@ -44,6 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix(tools): pass time parameter to page.evaluate in waitForTimeout](https://github.com/microsoft/playwright/pull/41037) in **microsoft/playwright**
 - [operator [N] attune (0.1.4)](https://github.com/k8s-operatorhub/community-operators/pull/8228) in **k8s-operatorhub/community-operators**
 - [Add attune plugin](https://github.com/kubernetes-sigs/krew-index/pull/5788) in **kubernetes-sigs/krew-index**
 - [feat: publish container image to Docker Hub for discoverability](https://github.com/attune-io/attune/pull/102) in **attune-io/attune**

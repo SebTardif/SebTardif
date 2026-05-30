@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [refactor: make NewAttunePolicyReconciler the single constructor](https://github.com/attune-io/attune/pull/142) in **attune-io/attune**
+- [test: add E2E (Chainsaw) coverage for orphan recommendation ConfigMap cleanup (closes #144, #145, #146)](https://github.com/attune-io/attune/pull/149) in **attune-io/attune**
 - [fix(tools): pass time parameter to page.evaluate in waitForTimeout](https://github.com/microsoft/playwright/pull/41037) in **microsoft/playwright**
 - [operator [CI] attune (0.1.7)](https://github.com/k8s-operatorhub/community-operators/pull/8231) in **k8s-operatorhub/community-operators**
 - [Replace assert with raise ImportError for optuna/ray dependency checks](https://github.com/huggingface/transformers/pull/46263) in **huggingface/transformers**

@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: exclude cast.ai from lychee link checker](https://github.com/attune-io/attune/pull/162) in **attune-io/attune**
+- [fix: add observability logging for request clamping and NaN/Inf data quality](https://github.com/attune-io/attune/pull/172) in **attune-io/attune**
 - [Close URLClassLoader in ArchitectureCheck](https://github.com/spring-projects/spring-boot/pull/50626) in **spring-projects/spring-boot**
 - [fix(tools): pass time parameter to page.evaluate in waitForTimeout](https://github.com/microsoft/playwright/pull/41037) in **microsoft/playwright**
 - [operator [CI] attune (0.1.7)](https://github.com/k8s-operatorhub/community-operators/pull/8231) in **k8s-operatorhub/community-operators**
 - [Replace assert with raise ImportError for optuna/ray dependency checks](https://github.com/huggingface/transformers/pull/46263) in **huggingface/transformers**
-- [Add attune plugin](https://github.com/kubernetes-sigs/krew-index/pull/5788) in **kubernetes-sigs/krew-index**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,10 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: add UpgradeState unit test for database_backup v0->v1](https://github.com/coolify-terraform/terraform-provider-coolify/pull/469) in **coolify-terraform/terraform-provider-coolify**
-- [test: strengthen safety monitor tests and add coverage for quota list failures](https://github.com/attune-io/attune/pull/239) in **attune-io/attune**
-- [operator attune (0.1.12)](https://github.com/k8s-operatorhub/community-operators/pull/8241) in **k8s-operatorhub/community-operators**
-- [fix(hooks): pass media metadata to internal message_received hook](https://github.com/openclaw/openclaw/pull/88740) in **openclaw/openclaw**
+- [ci: release workflow_run trigger and test mock error handling](https://github.com/coolify-terraform/terraform-provider-coolify/pull/482) in **coolify-terraform/terraform-provider-coolify**
+- [fix: skip Docker build and downstream steps on re-releases](https://github.com/attune-io/attune/pull/244) in **attune-io/attune**
+- [operator attune (0.1.13)](https://github.com/k8s-operatorhub/community-operators/pull/8245) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

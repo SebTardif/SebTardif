@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: release workflow_run trigger and test mock error handling](https://github.com/coolify-terraform/terraform-provider-coolify/pull/482) in **coolify-terraform/terraform-provider-coolify**
-- [fix: skip Docker build and downstream steps on re-releases](https://github.com/attune-io/attune/pull/244) in **attune-io/attune**
+- [feat: migrate cosign signing from deprecated flags to --bundle format](https://github.com/attune-io/attune/pull/248) in **attune-io/attune**
+- [ci: add release approval gate and fix remaining JSON decode suppressions](https://github.com/coolify-terraform/terraform-provider-coolify/pull/484) in **coolify-terraform/terraform-provider-coolify**
 - [operator attune (0.1.13)](https://github.com/k8s-operatorhub/community-operators/pull/8245) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 

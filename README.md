@@ -44,9 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: use oras cp for Docker Hub Helm chart push](https://github.com/attune-io/attune/pull/220) in **attune-io/attune**
-- [ci: add auto-approve workflow for Scorecard compliance](https://github.com/coolify-terraform/terraform-provider-coolify/pull/458) in **coolify-terraform/terraform-provider-coolify**
-- [operator [CI] attune (0.1.11)](https://github.com/k8s-operatorhub/community-operators/pull/8240) in **k8s-operatorhub/community-operators**
+- [docs: add OpenTofu Registry badge to README](https://github.com/coolify-terraform/terraform-provider-coolify/pull/463) in **coolify-terraform/terraform-provider-coolify**
+- [fix: add --use-signing-config=false for cosign old bundle format](https://github.com/attune-io/attune/pull/232) in **attune-io/attune**
+- [operator attune (0.1.12)](https://github.com/k8s-operatorhub/community-operators/pull/8241) in **k8s-operatorhub/community-operators**
+- [fix(hooks): pass media metadata to internal message_received hook](https://github.com/openclaw/openclaw/pull/88740) in **openclaw/openclaw**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

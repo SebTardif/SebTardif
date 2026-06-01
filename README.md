@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: add OpenTofu Registry badge to README](https://github.com/coolify-terraform/terraform-provider-coolify/pull/463) in **coolify-terraform/terraform-provider-coolify**
-- [fix: add --use-signing-config=false for cosign old bundle format](https://github.com/attune-io/attune/pull/232) in **attune-io/attune**
+- [test: add UpgradeState unit test for database_backup v0->v1](https://github.com/coolify-terraform/terraform-provider-coolify/pull/469) in **coolify-terraform/terraform-provider-coolify**
+- [test: strengthen safety monitor tests and add coverage for quota list failures](https://github.com/attune-io/attune/pull/239) in **attune-io/attune**
 - [operator attune (0.1.12)](https://github.com/k8s-operatorhub/community-operators/pull/8241) in **k8s-operatorhub/community-operators**
 - [fix(hooks): pass media metadata to internal message_received hook](https://github.com/openclaw/openclaw/pull/88740) in **openclaw/openclaw**
 <!-- RECENT-PRS-END -->

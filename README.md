@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: add nil UpdateStrategy webhook validation regression test](https://github.com/attune-io/attune/pull/256) in **attune-io/attune**
-- [test: use defer for resp.Body.Close in storage destroy check](https://github.com/coolify-terraform/terraform-provider-coolify/pull/491) in **coolify-terraform/terraform-provider-coolify**
+- [feat: implement OpenShift feature annotations support](https://github.com/attune-io/attune/pull/269) in **attune-io/attune**
+- [ci: parallelize scenario tests with unit tests](https://github.com/coolify-terraform/terraform-provider-coolify/pull/494) in **coolify-terraform/terraform-provider-coolify**
 - [operator attune (0.1.13)](https://github.com/k8s-operatorhub/community-operators/pull/8245) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 

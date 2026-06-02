@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: handle ignored errors in githubapp and storage tests](https://github.com/coolify-terraform/terraform-provider-coolify/pull/490) in **coolify-terraform/terraform-provider-coolify**
-- [fix: rename OLM bundle CSV from attune-operator to attune](https://github.com/attune-io/attune/pull/252) in **attune-io/attune**
+- [test: add nil UpdateStrategy webhook validation regression test](https://github.com/attune-io/attune/pull/256) in **attune-io/attune**
+- [test: use defer for resp.Body.Close in storage destroy check](https://github.com/coolify-terraform/terraform-provider-coolify/pull/491) in **coolify-terraform/terraform-provider-coolify**
 - [operator attune (0.1.13)](https://github.com/k8s-operatorhub/community-operators/pull/8245) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 

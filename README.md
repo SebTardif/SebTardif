@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: revert failure metric, NaN/Inf guard, and validator mutation](https://github.com/attune-io/attune/pull/277) in **attune-io/attune**
-- [test: improve error-path coverage and Read test gaps](https://github.com/coolify-terraform/terraform-provider-coolify/pull/498) in **coolify-terraform/terraform-provider-coolify**
+- [test: improve mock body validation and add Create error test](https://github.com/coolify-terraform/terraform-provider-coolify/pull/507) in **coolify-terraform/terraform-provider-coolify**
+- [ci: use go-version-file instead of hardcoded Go version](https://github.com/attune-io/attune/pull/285) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

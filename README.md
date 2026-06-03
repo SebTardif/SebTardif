@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [refactor: extract enforceAllowDecrease helper to reduce duplication](https://github.com/attune-io/attune/pull/293) in **attune-io/attune**
-- [ci: rename CodeQL job to match required status check names](https://github.com/coolify-terraform/terraform-provider-coolify/pull/511) in **coolify-terraform/terraform-provider-coolify**
+- [test: add ImportParentChild unit tests and update counts](https://github.com/coolify-terraform/terraform-provider-coolify/pull/512) in **coolify-terraform/terraform-provider-coolify**
+- [refactor: extract scaleControlledLimits and setRecommendationGauges helpers](https://github.com/attune-io/attune/pull/294) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

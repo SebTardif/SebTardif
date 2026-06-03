@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: improve mock body validation and add Create error test](https://github.com/coolify-terraform/terraform-provider-coolify/pull/507) in **coolify-terraform/terraform-provider-coolify**
-- [ci: use go-version-file instead of hardcoded Go version](https://github.com/attune-io/attune/pull/285) in **attune-io/attune**
+- [fix: handle PATCH decode error in mock, deduplicate test mux, simplify merge target](https://github.com/coolify-terraform/terraform-provider-coolify/pull/508) in **coolify-terraform/terraform-provider-coolify**
+- [ci: add fallback registries for E2E dependency images](https://github.com/attune-io/attune/pull/288) in **attune-io/attune**
+- [operator attune (0.1.13)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/9875) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

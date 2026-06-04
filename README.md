@@ -44,11 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [readme: remove MSRV badge](https://github.com/patchloom/patchloom/pull/457) in **patchloom/patchloom**
+- [fix: colored diff output, edge-case tests, and clearer error messages](https://github.com/patchloom/patchloom/pull/468) in **patchloom/patchloom**
 - [operator attune (0.1.14)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/9918) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.14)](https://github.com/k8s-operatorhub/community-operators/pull/8285) in **k8s-operatorhub/community-operators**
-- [test: add ImportParentChild unit tests and update counts](https://github.com/coolify-terraform/terraform-provider-coolify/pull/512) in **coolify-terraform/terraform-provider-coolify**
-- [refactor: extract scaleControlledLimits and setRecommendationGauges helpers](https://github.com/attune-io/attune/pull/294) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: add missing subcommands to agent driver subcommand set](https://github.com/patchloom/patchloom/pull/444) in **patchloom/patchloom**
+- [readme: remove MSRV badge](https://github.com/patchloom/patchloom/pull/457) in **patchloom/patchloom**
 - [operator attune (0.1.14)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/9918) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.14)](https://github.com/k8s-operatorhub/community-operators/pull/8285) in **k8s-operatorhub/community-operators**
 - [test: add ImportParentChild unit tests and update counts](https://github.com/coolify-terraform/terraform-provider-coolify/pull/512) in **coolify-terraform/terraform-provider-coolify**

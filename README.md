@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [mcp: improve multi-turn benchmark reliability](https://github.com/patchloom/patchloom/pull/474) in **patchloom/patchloom**
+- [feat: remove all CLI references from MCP-only agent-rules output](https://github.com/patchloom/patchloom/pull/477) in **patchloom/patchloom**
 - [docs(ci): point release publish steps at the new /vsce-publish skill](https://github.com/patchloom/patchloom-vscode/pull/71) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

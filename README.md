@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: structured JSON APIs for batch and transaction MCP tools](https://github.com/patchloom/patchloom/pull/473) in **patchloom/patchloom**
-- [docs: add code coverage badge to README](https://github.com/patchloom/patchloom-vscode/pull/64) in **patchloom/patchloom-vscode**
+- [mcp: improve multi-turn benchmark reliability](https://github.com/patchloom/patchloom/pull/474) in **patchloom/patchloom**
+- [docs(ci): point release publish steps at the new /vsce-publish skill](https://github.com/patchloom/patchloom-vscode/pull/71) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

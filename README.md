@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: skip auto-merge for release PRs](https://github.com/patchloom/patchloom-vscode/pull/90) in **patchloom/patchloom-vscode**
-- [fix(mcp): remove batch/transaction tools for zero-failure agent benchmarks](https://github.com/patchloom/patchloom/pull/481) in **patchloom/patchloom**
+- [fix(bench): use neutral tidy prompt so agents discover batch_tidy](https://github.com/patchloom/patchloom/pull/490) in **patchloom/patchloom**
+- [docs: add Setup Workspace demo GIF to README](https://github.com/patchloom/patchloom-vscode/pull/96) in **patchloom/patchloom-vscode**
+- [fix: use feature-gates+= (append) in k3s config file, not = (replace)](https://github.com/attune-io/attune/pull/300) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

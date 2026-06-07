@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(bench): use neutral tidy prompt so agents discover batch_tidy](https://github.com/patchloom/patchloom/pull/490) in **patchloom/patchloom**
+- [docs: add 'Removing an MCP tool' checklist to AGENTS.md](https://github.com/patchloom/patchloom/pull/499) in **patchloom/patchloom**
 - [docs: add Setup Workspace demo GIF to README](https://github.com/patchloom/patchloom-vscode/pull/96) in **patchloom/patchloom-vscode**
 - [fix: use feature-gates+= (append) in k3s config file, not = (replace)](https://github.com/attune-io/attune/pull/300) in **attune-io/attune**
 <!-- RECENT-PRS-END -->

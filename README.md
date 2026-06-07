@@ -44,9 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: add 'Removing an MCP tool' checklist to AGENTS.md](https://github.com/patchloom/patchloom/pull/499) in **patchloom/patchloom**
-- [docs: add Setup Workspace demo GIF to README](https://github.com/patchloom/patchloom-vscode/pull/96) in **patchloom/patchloom-vscode**
-- [fix: use feature-gates+= (append) in k3s config file, not = (replace)](https://github.com/attune-io/attune/pull/300) in **attune-io/attune**
+- [docs: complete SLO guardrails documentation across all references](https://github.com/attune-io/attune/pull/307) in **attune-io/attune**
+- [fix: resolve CodeQL and AI code quality findings](https://github.com/patchloom/patchloom-vscode/pull/100) in **patchloom/patchloom-vscode**
+- [chore: fix code quality findings from GitHub AI scanner](https://github.com/patchloom/patchloom/pull/518) in **patchloom/patchloom**
+- [fix: multi-perspective improvement cycle 1](https://github.com/coolify-terraform/terraform-provider-coolify/pull/515) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

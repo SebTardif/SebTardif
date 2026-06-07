@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: complete SLO guardrails documentation across all references](https://github.com/attune-io/attune/pull/307) in **attune-io/attune**
-- [fix: resolve CodeQL and AI code quality findings](https://github.com/patchloom/patchloom-vscode/pull/100) in **patchloom/patchloom-vscode**
-- [chore: fix code quality findings from GitHub AI scanner](https://github.com/patchloom/patchloom/pull/518) in **patchloom/patchloom**
+- [feat: expose remaining medium-priority CLI commands as Quick Actions](https://github.com/patchloom/patchloom-vscode/pull/122) in **patchloom/patchloom-vscode**
+- [ci: disable cancel-in-progress on pr-title check](https://github.com/attune-io/attune/pull/311) in **attune-io/attune**
+- [fix(ci): use App token in update-branches to trigger CI on updated PRs](https://github.com/patchloom/patchloom/pull/523) in **patchloom/patchloom**
 - [fix: multi-perspective improvement cycle 1](https://github.com/coolify-terraform/terraform-provider-coolify/pull/515) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

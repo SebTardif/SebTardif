@@ -44,10 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [test: strengthen doc_merge and file_rename assertions in API tests](https://github.com/patchloom/patchloom/pull/532) in **patchloom/patchloom**
+- [docs: add testify %% escaping convention to AGENTS.md](https://github.com/attune-io/attune/pull/316) in **attune-io/attune**
+- [operator attune (0.1.15)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/9949) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.15)](https://github.com/k8s-operatorhub/community-operators/pull/8311) in **k8s-operatorhub/community-operators**
 - [feat: expose remaining medium-priority CLI commands as Quick Actions](https://github.com/patchloom/patchloom-vscode/pull/122) in **patchloom/patchloom-vscode**
-- [ci: disable cancel-in-progress on pr-title check](https://github.com/attune-io/attune/pull/311) in **attune-io/attune**
-- [fix(ci): use App token in update-branches to trigger CI on updated PRs](https://github.com/patchloom/patchloom/pull/523) in **patchloom/patchloom**
-- [fix: multi-perspective improvement cycle 1](https://github.com/coolify-terraform/terraform-provider-coolify/pull/515) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

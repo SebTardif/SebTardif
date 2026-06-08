@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: add error context to backup restore and rename cross-device paths](https://github.com/patchloom/patchloom/pull/543) in **patchloom/patchloom**
+- [docs: add GitHub Pages links to README and Cargo.toml](https://github.com/patchloom/patchloom/pull/550) in **patchloom/patchloom**
 - [fix: add retry and caching to cert-manager manifest download in e2e-nightly](https://github.com/attune-io/attune/pull/324) in **attune-io/attune**
 - [refactor: deduplicate constants and error helper in managedInstall](https://github.com/patchloom/patchloom-vscode/pull/125) in **patchloom/patchloom-vscode**
 - [operator attune (0.1.15)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/9949) in **redhat-openshift-ecosystem/community-operators-prod**

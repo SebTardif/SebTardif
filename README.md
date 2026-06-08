@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: strengthen doc_merge and file_rename assertions in API tests](https://github.com/patchloom/patchloom/pull/532) in **patchloom/patchloom**
+- [test: add API tests for md_insert_after_heading, apply_patch_file, make_write_policy](https://github.com/patchloom/patchloom/pull/535) in **patchloom/patchloom**
 - [docs: add testify %% escaping convention to AGENTS.md](https://github.com/attune-io/attune/pull/316) in **attune-io/attune**
 - [operator attune (0.1.15)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/9949) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.15)](https://github.com/k8s-operatorhub/community-operators/pull/8311) in **k8s-operatorhub/community-operators**

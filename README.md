@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: prevent panic in ParseCopySource on empty input](https://github.com/versity/versitygw/pull/2170) in **versity/versitygw**
+- [fix: prevent nil pointer panic in webhook sendLog](https://github.com/versity/versitygw/pull/2173) in **versity/versitygw**
 - [docs: add GitHub Pages links to README and Cargo.toml](https://github.com/patchloom/patchloom/pull/550) in **patchloom/patchloom**
 - [fix: add retry and caching to cert-manager manifest download in e2e-nightly](https://github.com/attune-io/attune/pull/324) in **attune-io/attune**
 - [refactor: deduplicate constants and error helper in managedInstall](https://github.com/patchloom/patchloom-vscode/pull/125) in **patchloom/patchloom-vscode**

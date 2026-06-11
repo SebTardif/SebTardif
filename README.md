@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(tracing): add missing error handlers to createWriteStream pipes](https://github.com/microsoft/playwright/pull/41227) in **microsoft/playwright**
+- [fix(mcp): add missing .catch() on sessionLog write queue](https://github.com/microsoft/playwright/pull/41234) in **microsoft/playwright**
 - [fix: prevent index-out-of-range panic in s3proxy GetBucketOwnershipControls](https://github.com/versity/versitygw/pull/2175) in **versity/versitygw**
 - [docs: add GitHub Pages links to README and Cargo.toml](https://github.com/patchloom/patchloom/pull/550) in **patchloom/patchloom**
 - [fix: add retry and caching to cert-manager manifest download in e2e-nightly](https://github.com/attune-io/attune/pull/324) in **attune-io/attune**
 - [refactor: deduplicate constants and error helper in managedInstall](https://github.com/patchloom/patchloom-vscode/pull/125) in **patchloom/patchloom-vscode**
-- [operator attune (0.1.15)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/9949) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

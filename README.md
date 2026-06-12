@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(mcp): use optional chaining for nullable browser() in disposal](https://github.com/microsoft/playwright/pull/41237) in **microsoft/playwright**
+- [docs: update stale test count (1,318 to 1,361) in launch announcement](https://github.com/patchloom/patchloom/pull/561) in **patchloom/patchloom**
+- [fix(mcp): pass action timeout to browser_wait_for waitFor calls](https://github.com/microsoft/playwright/pull/41270) in **microsoft/playwright**
 - [fix: prevent index-out-of-range panic in s3proxy GetBucketOwnershipControls](https://github.com/versity/versitygw/pull/2175) in **versity/versitygw**
-- [docs: add GitHub Pages links to README and Cargo.toml](https://github.com/patchloom/patchloom/pull/550) in **patchloom/patchloom**
 - [fix: add retry and caching to cert-manager manifest download in e2e-nightly](https://github.com/attune-io/attune/pull/324) in **attune-io/attune**
 - [refactor: deduplicate constants and error helper in managedInstall](https://github.com/patchloom/patchloom-vscode/pull/125) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->

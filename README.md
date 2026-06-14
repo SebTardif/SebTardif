@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [refactor: extract PopulateBaseCreateInput to eliminate Create boilerplate](https://github.com/coolify-terraform/terraform-provider-coolify/pull/522) in **coolify-terraform/terraform-provider-coolify**
+- [ci: trigger scenario tests on internal/ changes](https://github.com/coolify-terraform/terraform-provider-coolify/pull/538) in **coolify-terraform/terraform-provider-coolify**
 - [fix: use feature-gates= (set) instead of += (append) in k3s v1.32 config](https://github.com/attune-io/attune/pull/326) in **attune-io/attune**
 - [docs: update stale test count (1,318 to 1,361) in launch announcement](https://github.com/patchloom/patchloom/pull/561) in **patchloom/patchloom**
 - [fix(mcp): pass action timeout to browser_wait_for waitFor calls](https://github.com/microsoft/playwright/pull/41270) in **microsoft/playwright**

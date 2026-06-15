@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [ci: replace hmarr/auto-approve-action with gh CLI](https://github.com/attune-io/attune/pull/331) in **attune-io/attune**
+- [ci: replace hmarr/auto-approve-action with gh CLI](https://github.com/patchloom/patchloom-vscode/pull/129) in **patchloom/patchloom-vscode**
 - [ci: trigger scenario tests on internal/ changes](https://github.com/coolify-terraform/terraform-provider-coolify/pull/538) in **coolify-terraform/terraform-provider-coolify**
-- [fix: use feature-gates= (set) instead of += (append) in k3s v1.32 config](https://github.com/attune-io/attune/pull/326) in **attune-io/attune**
 - [docs: update stale test count (1,318 to 1,361) in launch announcement](https://github.com/patchloom/patchloom/pull/561) in **patchloom/patchloom**
 - [fix(mcp): pass action timeout to browser_wait_for waitFor calls](https://github.com/microsoft/playwright/pull/41270) in **microsoft/playwright**
 - [fix: prevent index-out-of-range panic in s3proxy GetBucketOwnershipControls](https://github.com/versity/versitygw/pull/2175) in **versity/versitygw**

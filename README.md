@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [refactor: deduplicate agent-rules text and fix silent config error](https://github.com/patchloom/patchloom/pull/562) in **patchloom/patchloom**
+- [feat: add --whole-line, --range, and --collapse-blanks to replace](https://github.com/patchloom/patchloom/pull/564) in **patchloom/patchloom**
 - [ci: replace hmarr/auto-approve-action with gh CLI](https://github.com/attune-io/attune/pull/331) in **attune-io/attune**
 - [ci: replace hmarr/auto-approve-action with gh CLI](https://github.com/patchloom/patchloom-vscode/pull/129) in **patchloom/patchloom-vscode**
 - [ci: trigger scenario tests on internal/ changes](https://github.com/coolify-terraform/terraform-provider-coolify/pull/538) in **coolify-terraform/terraform-provider-coolify**

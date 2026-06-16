@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: add --whole-line, --range, and --collapse-blanks to replace](https://github.com/patchloom/patchloom/pull/564) in **patchloom/patchloom**
+- [fix: update MCP bench to use individual tool calls](https://github.com/patchloom/patchloom/pull/570) in **patchloom/patchloom**
 - [ci: replace hmarr/auto-approve-action with gh CLI](https://github.com/attune-io/attune/pull/331) in **attune-io/attune**
 - [ci: replace hmarr/auto-approve-action with gh CLI](https://github.com/patchloom/patchloom-vscode/pull/129) in **patchloom/patchloom-vscode**
 - [bootstrap: fix inverted success check in PowerShell download fallback](https://github.com/rust-lang/rust/pull/157879) in **rust-lang/rust**
 - [ci: trigger scenario tests on internal/ changes](https://github.com/coolify-terraform/terraform-provider-coolify/pull/538) in **coolify-terraform/terraform-provider-coolify**
-- [fix(mcp): pass action timeout to browser_wait_for waitFor calls](https://github.com/microsoft/playwright/pull/41270) in **microsoft/playwright**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

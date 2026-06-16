@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: update MCP bench to use individual tool calls](https://github.com/patchloom/patchloom/pull/570) in **patchloom/patchloom**
+- [fix: improvement cycle 14 - strengthen weak test assertions](https://github.com/patchloom/patchloom/pull/577) in **patchloom/patchloom**
+- [fix(bidi): prevent prototype pollution in BiDi deserialization](https://github.com/microsoft/playwright/pull/41322) in **microsoft/playwright**
 - [ci: replace hmarr/auto-approve-action with gh CLI](https://github.com/attune-io/attune/pull/331) in **attune-io/attune**
 - [ci: replace hmarr/auto-approve-action with gh CLI](https://github.com/patchloom/patchloom-vscode/pull/129) in **patchloom/patchloom-vscode**
 - [bootstrap: fix inverted success check in PowerShell download fallback](https://github.com/rust-lang/rust/pull/157879) in **rust-lang/rust**

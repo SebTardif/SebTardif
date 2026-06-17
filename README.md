@@ -44,10 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: add patch merge workflow to agent-rules output](https://github.com/patchloom/patchloom/pull/603) in **patchloom/patchloom**
+- [test: add describe_operation tests for PatchApply variants](https://github.com/patchloom/patchloom/pull/608) in **patchloom/patchloom**
 - [fix(bidi): prevent prototype pollution in BiDi deserialization](https://github.com/microsoft/playwright/pull/41322) in **microsoft/playwright**
-- [Add bounds check in VMContinuationStack::initialize for args buffer size](https://github.com/bytecodealliance/wasmtime/pull/13662) in **bytecodealliance/wasmtime**
-- [ci: replace hmarr/auto-approve-action with gh CLI](https://github.com/attune-io/attune/pull/331) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

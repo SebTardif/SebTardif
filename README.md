@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: remove dead test code in containment path guard](https://github.com/patchloom/patchloom/pull/628) in **patchloom/patchloom**
+- [fix: rebalance badge rows to 5-5-3 to prevent row 2 wrap](https://github.com/patchloom/patchloom/pull/644) in **patchloom/patchloom**
+- [chore: exclude RELEASE_NOTES.md from vsix and update test count](https://github.com/patchloom/patchloom-vscode/pull/139) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

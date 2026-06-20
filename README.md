@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: rebalance badge rows to 5-5-3 to prevent row 2 wrap](https://github.com/patchloom/patchloom/pull/644) in **patchloom/patchloom**
+- [test: add PTY-based integration tests for --confirm + --format](https://github.com/patchloom/patchloom/pull/669) in **patchloom/patchloom**
 - [chore: exclude RELEASE_NOTES.md from vsix and update test count](https://github.com/patchloom/patchloom-vscode/pull/139) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

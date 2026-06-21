@@ -44,7 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: add PTY-based integration tests for --confirm + --format](https://github.com/patchloom/patchloom/pull/669) in **patchloom/patchloom**
+- [docs: update SLSA provenance claims after attestation migration](https://github.com/attune-io/attune/pull/342) in **attune-io/attune**
+- [docs: add AST coverage to README, Cargo.toml, and docs](https://github.com/patchloom/patchloom/pull/675) in **patchloom/patchloom**
+- [test: improve cycle 7 — hetzner helper + destroy test coverage](https://github.com/coolify-terraform/terraform-provider-coolify/pull/547) in **coolify-terraform/terraform-provider-coolify**
 - [chore: exclude RELEASE_NOTES.md from vsix and update test count](https://github.com/patchloom/patchloom-vscode/pull/139) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

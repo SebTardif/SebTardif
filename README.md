@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: update SLSA provenance claims after attestation migration](https://github.com/attune-io/attune/pull/342) in **attune-io/attune**
-- [docs: add AST coverage to README, Cargo.toml, and docs](https://github.com/patchloom/patchloom/pull/675) in **patchloom/patchloom**
-- [test: improve cycle 7 — hetzner helper + destroy test coverage](https://github.com/coolify-terraform/terraform-provider-coolify/pull/547) in **coolify-terraform/terraform-provider-coolify**
-- [chore: exclude RELEASE_NOTES.md from vsix and update test count](https://github.com/patchloom/patchloom-vscode/pull/139) in **patchloom/patchloom-vscode**
+- [fix: unique OPERATION_FAILED exit code, timestamp-based pruning, AST improvements](https://github.com/patchloom/patchloom/pull/713) in **patchloom/patchloom**
+- [fix: auto-approve PRs from attune-release-bot](https://github.com/attune-io/attune/pull/345) in **attune-io/attune**
+- [operator attune (0.1.16)](https://github.com/k8s-operatorhub/community-operators/pull/8404) in **k8s-operatorhub/community-operators**
+- [test: close audit gaps — destroy no-op coverage and gitignore](https://github.com/coolify-terraform/terraform-provider-coolify/pull/548) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

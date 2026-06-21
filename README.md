@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: unique OPERATION_FAILED exit code, timestamp-based pruning, AST improvements](https://github.com/patchloom/patchloom/pull/713) in **patchloom/patchloom**
+- [build: add verify-release-notes to prevent bloated changelog (MPI cycle)](https://github.com/patchloom/patchloom/pull/732) in **patchloom/patchloom**
 - [fix: auto-approve PRs from attune-release-bot](https://github.com/attune-io/attune/pull/345) in **attune-io/attune**
+- [operator attune (0.1.16)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10097) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.16)](https://github.com/k8s-operatorhub/community-operators/pull/8404) in **k8s-operatorhub/community-operators**
 - [test: close audit gaps — destroy no-op coverage and gitignore](https://github.com/coolify-terraform/terraform-provider-coolify/pull/548) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->

@@ -44,11 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [build: add verify-release-notes to prevent bloated changelog (MPI cycle)](https://github.com/patchloom/patchloom/pull/732) in **patchloom/patchloom**
+- [fix: run plan format/validate lifecycle on tx --confirm + batch cleanup (fixes #744)](https://github.com/patchloom/patchloom/pull/747) in **patchloom/patchloom**
 - [fix: auto-approve PRs from attune-release-bot](https://github.com/attune-io/attune/pull/345) in **attune-io/attune**
 - [operator attune (0.1.16)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10097) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.16)](https://github.com/k8s-operatorhub/community-operators/pull/8404) in **k8s-operatorhub/community-operators**
-- [test: close audit gaps — destroy no-op coverage and gitignore](https://github.com/coolify-terraform/terraform-provider-coolify/pull/548) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: run plan format/validate lifecycle on tx --confirm + batch cleanup (fixes #744)](https://github.com/patchloom/patchloom/pull/747) in **patchloom/patchloom**
+- [test(api): add remaining guard test cases from subagent review (#749)](https://github.com/patchloom/patchloom/pull/754) in **patchloom/patchloom**
 - [fix: auto-approve PRs from attune-release-bot](https://github.com/attune-io/attune/pull/345) in **attune-io/attune**
 - [operator attune (0.1.16)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10097) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.16)](https://github.com/k8s-operatorhub/community-operators/pull/8404) in **k8s-operatorhub/community-operators**

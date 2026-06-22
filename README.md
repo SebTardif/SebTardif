@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: curate great RELEASE_NOTES.md for v0.4.0](https://github.com/patchloom/patchloom/pull/767) in **patchloom/patchloom**
-- [fix(ci): prevent spurious Dependabot PR failures from auto-approve and @types/vscode bumps](https://github.com/patchloom/patchloom-vscode/pull/143) in **patchloom/patchloom-vscode**
+- [ci: handle #148 by skipping auto-merge on workflow changes (workaround for App workflows:write)](https://github.com/patchloom/patchloom-vscode/pull/152) in **patchloom/patchloom-vscode**
+- [test: clean stale 'same_file' test names (QA hygiene)](https://github.com/patchloom/patchloom/pull/772) in **patchloom/patchloom**
 - [fix: dco merge skip, dependabot docs, token perms tightening + rebase helper for best scorecard](https://github.com/attune-io/attune/pull/350) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 

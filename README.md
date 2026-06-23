@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: strengthen invalid plan explain error assertion (QA hygiene for #799)](https://github.com/patchloom/patchloom/pull/804) in **patchloom/patchloom**
+- [feat: Bline library follow-ups (#811-#815)](https://github.com/patchloom/patchloom/pull/816) in **patchloom/patchloom**
 - [ci: treat all .github/workflows/** as code changes](https://github.com/patchloom/patchloom-vscode/pull/165) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

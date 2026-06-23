@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: Bline library follow-ups (#811-#815)](https://github.com/patchloom/patchloom/pull/816) in **patchloom/patchloom**
+- [feat(mcp): add execute_plan tool for multi-step tx plans + document cross-call semantics (#827)](https://github.com/patchloom/patchloom/pull/829) in **patchloom/patchloom**
 - [ci: treat all .github/workflows/** as code changes](https://github.com/patchloom/patchloom-vscode/pull/165) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

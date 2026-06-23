@@ -44,9 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: add search_directory invalid glob error path (MPI QA; #784 hygiene summary)](https://github.com/patchloom/patchloom/pull/791) in **patchloom/patchloom**
-- [ci: restructure guards to job-level conditions (fix Scorecard parse)](https://github.com/patchloom/patchloom-vscode/pull/163) in **patchloom/patchloom-vscode**
-- [fix: dco merge skip, dependabot docs, token perms tightening + rebase helper for best scorecard](https://github.com/attune-io/attune/pull/350) in **attune-io/attune**
+- [test: strengthen invalid plan explain error assertion (QA hygiene for #799)](https://github.com/patchloom/patchloom/pull/804) in **patchloom/patchloom**
+- [ci: treat all .github/workflows/** as code changes](https://github.com/patchloom/patchloom-vscode/pull/165) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

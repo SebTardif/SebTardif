@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: handle #148 by skipping auto-merge on workflow changes (workaround for App workflows:write)](https://github.com/patchloom/patchloom-vscode/pull/152) in **patchloom/patchloom-vscode**
-- [test: clean stale 'same_file' test names (QA hygiene)](https://github.com/patchloom/patchloom/pull/772) in **patchloom/patchloom**
+- [test: add search_directory invalid glob error path (MPI QA; #784 hygiene summary)](https://github.com/patchloom/patchloom/pull/791) in **patchloom/patchloom**
+- [ci: restructure guards to job-level conditions (fix Scorecard parse)](https://github.com/patchloom/patchloom-vscode/pull/163) in **patchloom/patchloom-vscode**
 - [fix: dco merge skip, dependabot docs, token perms tightening + rebase helper for best scorecard](https://github.com/attune-io/attune/pull/350) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 

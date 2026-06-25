@@ -44,9 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [refactor: move pure data ops from cmd/doc to ops/doc](https://github.com/patchloom/patchloom/pull/917) in **patchloom/patchloom**
+- [fix: git arg guard, ast_rename no-op guard, 6 AST MCP tests, ref docs](https://github.com/patchloom/patchloom/pull/926) in **patchloom/patchloom**
 - [docs: add release notes for v0.1.6](https://github.com/coolify-terraform/terraform-provider-coolify/pull/554) in **coolify-terraform/terraform-provider-coolify**
-- [docs: refresh AGENTS.md test counts and add missing source file entries](https://github.com/patchloom/patchloom-vscode/pull/170) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

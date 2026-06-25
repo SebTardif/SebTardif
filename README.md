@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [refactor: extract shared write-command state machine](https://github.com/patchloom/patchloom/pull/912) in **patchloom/patchloom**
+- [refactor: move pure data ops from cmd/doc to ops/doc](https://github.com/patchloom/patchloom/pull/917) in **patchloom/patchloom**
 - [docs: add release notes for v0.1.6](https://github.com/coolify-terraform/terraform-provider-coolify/pull/554) in **coolify-terraform/terraform-provider-coolify**
 - [docs: refresh AGENTS.md test counts and add missing source file entries](https://github.com/patchloom/patchloom-vscode/pull/170) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->

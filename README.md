@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: replace bare assert!(x.is_ok()) with .unwrap() in 19 test assertions](https://github.com/patchloom/patchloom/pull/955) in **patchloom/patchloom**
+- [refactor: consolidate shared logic into ops layer (#964, #965, #966, #969)](https://github.com/patchloom/patchloom/pull/970) in **patchloom/patchloom**
 - [feat: align extension with patchloom CLI v0.6.0](https://github.com/patchloom/patchloom-vscode/pull/171) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

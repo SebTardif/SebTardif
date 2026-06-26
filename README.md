@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [refactor: consolidate shared logic into ops layer (#964, #965, #966, #969)](https://github.com/patchloom/patchloom/pull/970) in **patchloom/patchloom**
+- [refactor: unify CLI execution via tx engine + fix #972/#973 + 110 new tests](https://github.com/patchloom/patchloom/pull/984) in **patchloom/patchloom**
+- [docs: add release notes for v0.1.7](https://github.com/coolify-terraform/terraform-provider-coolify/pull/562) in **coolify-terraform/terraform-provider-coolify**
 - [feat: align extension with patchloom CLI v0.6.0](https://github.com/patchloom/patchloom-vscode/pull/171) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: pre/post-operation symbol verification for tx plans](https://github.com/patchloom/patchloom/pull/1036) in **patchloom/patchloom**
+- [feat(ast): add ast.insert, ast.wrap, ast.imports operations](https://github.com/patchloom/patchloom/pull/1039) in **patchloom/patchloom**
 - [docs: add release notes for v0.1.7](https://github.com/coolify-terraform/terraform-provider-coolify/pull/562) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

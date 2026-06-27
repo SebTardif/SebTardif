@@ -44,9 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [refactor: split cmd/mcp/mod.rs into focused submodules](https://github.com/patchloom/patchloom/pull/1024) in **patchloom/patchloom**
+- [feat: pre/post-operation symbol verification for tx plans](https://github.com/patchloom/patchloom/pull/1036) in **patchloom/patchloom**
 - [docs: add release notes for v0.1.7](https://github.com/coolify-terraform/terraform-provider-coolify/pull/562) in **coolify-terraform/terraform-provider-coolify**
-- [feat: align extension with patchloom CLI v0.6.0](https://github.com/patchloom/patchloom-vscode/pull/171) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

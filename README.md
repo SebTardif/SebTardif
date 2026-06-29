@@ -44,7 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: patch check reports stale files in human-readable mode, suppress false would-modify](https://github.com/patchloom/patchloom/pull/1207) in **patchloom/patchloom**
+- [fix: tighten error matching, explain flags, and MCP doc examples](https://github.com/patchloom/patchloom/pull/1225) in **patchloom/patchloom**
+- [fix: rebase-dependabot.sh missing origin/ prefix and update Dependabot docs](https://github.com/attune-io/attune/pull/356) in **attune-io/attune**
+- [sftp: cap readdir response size and fix window adjust overflow](https://github.com/libssh2/libssh2/pull/2133) in **libssh2/libssh2**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

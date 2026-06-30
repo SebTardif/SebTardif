@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: tighten error matching, explain flags, and MCP doc examples](https://github.com/patchloom/patchloom/pull/1225) in **patchloom/patchloom**
+- [fix: table_append error messages and ast map file grouping](https://github.com/patchloom/patchloom/pull/1229) in **patchloom/patchloom**
 - [fix: rebase-dependabot.sh missing origin/ prefix and update Dependabot docs](https://github.com/attune-io/attune/pull/356) in **attune-io/attune**
 - [sftp: cap readdir response size and fix window adjust overflow](https://github.com/libssh2/libssh2/pull/2133) in **libssh2/libssh2**
 <!-- RECENT-PRS-END -->

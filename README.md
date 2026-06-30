@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: context-filtered replace, multi-doc YAML, nested predicates, simple-array delete-where](https://github.com/patchloom/patchloom/pull/1248) in **patchloom/patchloom**
+- [feat: align extension with patchloom CLI v0.7.0](https://github.com/patchloom/patchloom-vscode/pull/177) in **patchloom/patchloom-vscode**
+- [docs: remove internal tooling references from release notes](https://github.com/patchloom/patchloom/pull/1260) in **patchloom/patchloom**
 - [fix: rebase-dependabot.sh missing origin/ prefix and update Dependabot docs](https://github.com/attune-io/attune/pull/356) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 

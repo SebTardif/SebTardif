@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: strip orphaned YAML comments that migrate inline after key deletion](https://github.com/patchloom/patchloom/pull/1238) in **patchloom/patchloom**
+- [fix: context-filtered replace, multi-doc YAML, nested predicates, simple-array delete-where](https://github.com/patchloom/patchloom/pull/1248) in **patchloom/patchloom**
 - [fix: rebase-dependabot.sh missing origin/ prefix and update Dependabot docs](https://github.com/attune-io/attune/pull/356) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 

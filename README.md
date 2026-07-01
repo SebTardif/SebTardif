@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test/docs: MPI cycle 1 improvements](https://github.com/patchloom/patchloom/pull/1294) in **patchloom/patchloom**
+- [test: add dash-separator regression test and update help text](https://github.com/patchloom/patchloom/pull/1305) in **patchloom/patchloom**
 - [docs: refresh AGENTS.md test counts](https://github.com/patchloom/patchloom-vscode/pull/182) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

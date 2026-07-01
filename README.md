@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: add fuzzy fallback to replace_in_content](https://github.com/patchloom/patchloom/pull/1292) in **patchloom/patchloom**
+- [test/docs: MPI cycle 1 improvements](https://github.com/patchloom/patchloom/pull/1294) in **patchloom/patchloom**
 - [docs: refresh AGENTS.md test counts](https://github.com/patchloom/patchloom-vscode/pull/182) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

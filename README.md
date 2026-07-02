@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: fallback replace path ignores context/fuzzy + Unicode tests](https://github.com/patchloom/patchloom/pull/1316) in **patchloom/patchloom**
+- [fix: accept "command" as alias for "cmd" in tx format/validate steps](https://github.com/patchloom/patchloom/pull/1323) in **patchloom/patchloom**
+- [fix(dialog): propagate hotkey failures in Go-to-Folder navigation](https://github.com/openclaw/Peekaboo/pull/206) in **openclaw/Peekaboo**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

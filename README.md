@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: accept "command" as alias for "cmd" in tx format/validate steps](https://github.com/patchloom/patchloom/pull/1323) in **patchloom/patchloom**
+- [test: add emit_json and emit_json_items unit tests](https://github.com/patchloom/patchloom/pull/1327) in **patchloom/patchloom**
 - [fix(dialog): propagate hotkey failures in Go-to-Folder navigation](https://github.com/openclaw/Peekaboo/pull/206) in **openclaw/Peekaboo**
 <!-- RECENT-PRS-END -->
 

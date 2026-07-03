@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: assert ok field in explain and schema integration tests](https://github.com/patchloom/patchloom/pull/1366) in **patchloom/patchloom**
-- [deps: bump vscode-languageclient from 9.0.1 to 10.1.0](https://github.com/assura-lang/assura/pull/752) in **assura-lang/assura**
+- [docs: add official social preview banner SVG](https://github.com/assura-lang/assura/pull/764) in **assura-lang/assura**
+- [ci: add 5 missing fuzz targets to CI matrix](https://github.com/patchloom/patchloom/pull/1368) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: add official social preview banner SVG](https://github.com/assura-lang/assura/pull/764) in **assura-lang/assura**
-- [ci: add 5 missing fuzz targets to CI matrix](https://github.com/patchloom/patchloom/pull/1368) in **patchloom/patchloom**
+- [refactor: finish Phase 4 module hygiene (#1376, #1372)](https://github.com/patchloom/patchloom/pull/1381) in **patchloom/patchloom**
+- [ci: fail-closed crates.io publish from workspace graph](https://github.com/assura-lang/assura/pull/775) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

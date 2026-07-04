@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [refactor: finish Phase 4 module hygiene (#1376, #1372)](https://github.com/patchloom/patchloom/pull/1381) in **patchloom/patchloom**
-- [ci: fail-closed crates.io publish from workspace graph](https://github.com/assura-lang/assura/pull/775) in **assura-lang/assura**
+- [refactor: lifecycle split, schema-aware explain, MCP registry growth](https://github.com/patchloom/patchloom/pull/1391) in **patchloom/patchloom**
+- [ci: auto-merge with assura-auto-approve GitHub App token](https://github.com/assura-lang/assura/pull/791) in **assura-lang/assura**
+- [fix(snapshot): propagate lock failures instead of empty lists](https://github.com/openclaw/Peekaboo/pull/212) in **openclaw/Peekaboo**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

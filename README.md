@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: strengthen is_ok assertions; document empty verification_succeeded](https://github.com/assura-lang/assura/pull/831) in **assura-lang/assura**
-- [test: document and harden --contain after full write coverage](https://github.com/patchloom/patchloom/pull/1411) in **patchloom/patchloom**
+- [docs: post-v0.2.0 install paths and release notes cleanup](https://github.com/assura-lang/assura/pull/839) in **assura-lang/assura**
+- [fix: use old/new consistently for ast rename across surfaces](https://github.com/patchloom/patchloom/pull/1426) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

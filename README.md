@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: lock ast.rename old/new contract and document canonical names](https://github.com/patchloom/patchloom/pull/1428) in **patchloom/patchloom**
-- [docs: post-v0.2.0 install paths and release notes cleanup](https://github.com/assura-lang/assura/pull/839) in **assura-lang/assura**
+- [ci: exclude news.ycombinator.com from lychee link check](https://github.com/assura-lang/assura/pull/843) in **assura-lang/assura**
+- [ci: include check-readme in check-fast; lock canonical names test](https://github.com/patchloom/patchloom/pull/1429) in **patchloom/patchloom**
 - [🐛 (CLI): always clean up alpha update temporary branches](https://github.com/kubernetes-sigs/kubebuilder/pull/5830) in **kubernetes-sigs/kubebuilder**
 - [fix(watermark): do not report recovered orphans as live mutations](https://github.com/openclaw/Peekaboo/pull/216) in **openclaw/Peekaboo**
 <!-- RECENT-PRS-END -->

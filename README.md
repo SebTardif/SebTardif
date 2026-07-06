@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: contributor install path and co-publish status cleanup](https://github.com/assura-lang/assura/pull/847) in **assura-lang/assura**
-- [test: reject legacy ast rename positionals; document delete-where idempotency](https://github.com/patchloom/patchloom/pull/1430) in **patchloom/patchloom**
+- [test: guard agent-instructions crates.io install wording](https://github.com/assura-lang/assura/pull/849) in **assura-lang/assura**
+- [fix: clarify doc.update uses selector predicates, not --where](https://github.com/patchloom/patchloom/pull/1431) in **patchloom/patchloom**
 - [🐛 (CLI): always clean up alpha update temporary branches](https://github.com/kubernetes-sigs/kubebuilder/pull/5830) in **kubernetes-sigs/kubebuilder**
 <!-- RECENT-PRS-END -->
 

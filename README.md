@@ -44,10 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: exclude news.ycombinator.com from lychee link check](https://github.com/assura-lang/assura/pull/843) in **assura-lang/assura**
-- [ci: include check-readme in check-fast; lock canonical names test](https://github.com/patchloom/patchloom/pull/1429) in **patchloom/patchloom**
+- [docs: contributor install path and co-publish status cleanup](https://github.com/assura-lang/assura/pull/847) in **assura-lang/assura**
+- [test: reject legacy ast rename positionals; document delete-where idempotency](https://github.com/patchloom/patchloom/pull/1430) in **patchloom/patchloom**
 - [🐛 (CLI): always clean up alpha update temporary branches](https://github.com/kubernetes-sigs/kubebuilder/pull/5830) in **kubernetes-sigs/kubebuilder**
-- [fix(watermark): do not report recovered orphans as live mutations](https://github.com/openclaw/Peekaboo/pull/216) in **openclaw/Peekaboo**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

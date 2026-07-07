@@ -44,9 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: guard agent-instructions crates.io install wording](https://github.com/assura-lang/assura/pull/849) in **assura-lang/assura**
-- [fix: clarify doc.update uses selector predicates, not --where](https://github.com/patchloom/patchloom/pull/1431) in **patchloom/patchloom**
-- [🐛 (CLI): always clean up alpha update temporary branches](https://github.com/kubernetes-sigs/kubebuilder/pull/5830) in **kubernetes-sigs/kubebuilder**
+- [test: MPI cycle doc JSON coverage, agent docs, delete-where perf](https://github.com/patchloom/patchloom/pull/1440) in **patchloom/patchloom**
+- [fix: signed BV comparisons for fixed-width I* types](https://github.com/assura-lang/assura/pull/859) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

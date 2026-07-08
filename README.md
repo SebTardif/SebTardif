@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: align MCP doc_set e2e test with selector param](https://github.com/patchloom/patchloom-vscode/pull/185) in **patchloom/patchloom-vscode**
-- [feat: library embedder gaps for bline (#1459)](https://github.com/patchloom/patchloom/pull/1461) in **patchloom/patchloom**
-- [fix: reject stub IR on load/write; abs and bool comparison synthesis](https://github.com/assura-lang/assura/pull/881) in **assura-lang/assura**
-- [docs: drop broken catalog.redhat.com Operator search link](https://github.com/attune-io/attune/pull/367) in **attune-io/attune**
+- [feat: synthesize if conditions with &&/||/==>](https://github.com/assura-lang/assura/pull/887) in **assura-lang/assura**
+- [feat: optional CLI 0.10 product gaps (prepend, contain, agent-rules)](https://github.com/patchloom/patchloom-vscode/pull/189) in **patchloom/patchloom-vscode**
+- [fix: preserve NoMatchError through error chain wrapping](https://github.com/patchloom/patchloom/pull/1464) in **patchloom/patchloom**
+- [docs: add curated release notes for v0.1.17](https://github.com/attune-io/attune/pull/375) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

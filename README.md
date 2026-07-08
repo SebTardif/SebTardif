@@ -44,10 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: synthesize if conditions with &&/||/==>](https://github.com/assura-lang/assura/pull/887) in **assura-lang/assura**
-- [feat: optional CLI 0.10 product gaps (prepend, contain, agent-rules)](https://github.com/patchloom/patchloom-vscode/pull/189) in **patchloom/patchloom-vscode**
-- [fix: preserve NoMatchError through error chain wrapping](https://github.com/patchloom/patchloom/pull/1464) in **patchloom/patchloom**
-- [docs: add curated release notes for v0.1.17](https://github.com/attune-io/attune/pull/375) in **attune-io/attune**
+- [docs: init gitignore .patchloom; status/batch agent guidance](https://github.com/patchloom/patchloom/pull/1479) in **patchloom/patchloom**
+- [fix: nested-struct proptest and safer i64 strategies](https://github.com/assura-lang/assura/pull/898) in **assura-lang/assura**
+- [test: drop as any from patchloomNeedsUpgrade unit tests](https://github.com/patchloom/patchloom-vscode/pull/193) in **patchloom/patchloom-vscode**
+- [operator attune (0.1.17)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10401) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.17)](https://github.com/k8s-operatorhub/community-operators/pull/8727) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

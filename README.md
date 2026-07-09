@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [parser: support tuple field access t.0 / t.1](https://github.com/assura-lang/assura/pull/901) in **assura-lang/assura**
-- [fix: strip all leading slashes in diff header paths](https://github.com/patchloom/patchloom/pull/1482) in **patchloom/patchloom**
+- [fix: batch unknown-op suggestions and deny.toml licenses](https://github.com/patchloom/patchloom/pull/1483) in **patchloom/patchloom**
+- [fix: nested tuple field chains and t.1 e2e coverage](https://github.com/assura-lang/assura/pull/902) in **assura-lang/assura**
 - [test: drop as any from patchloomNeedsUpgrade unit tests](https://github.com/patchloom/patchloom-vscode/pull/193) in **patchloom/patchloom-vscode**
 - [operator attune (0.1.17)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10401) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.17)](https://github.com/k8s-operatorhub/community-operators/pull/8727) in **k8s-operatorhub/community-operators**

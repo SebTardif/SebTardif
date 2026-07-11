@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: repl bare help/quit under --json](https://github.com/assura-lang/assura/pull/982) in **assura-lang/assura**
-- [fix(cli): explain parse_error error_kind and exit 4](https://github.com/patchloom/patchloom/pull/1573) in **patchloom/patchloom**
+- [docs: list known body IR gaps with issue numbers](https://github.com/assura-lang/assura/pull/1060) in **assura-lang/assura**
+- [fix(cli): type doc merge, status, and AST grammar errors](https://github.com/patchloom/patchloom/pull/1607) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

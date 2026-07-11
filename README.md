@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: list known body IR gaps with issue numbers](https://github.com/assura-lang/assura/pull/1060) in **assura-lang/assura**
-- [fix(cli): type doc merge, status, and AST grammar errors](https://github.com/patchloom/patchloom/pull/1607) in **patchloom/patchloom**
+- [feat: encode unsigned path-param count_zeros via bits-ones](https://github.com/assura-lang/assura/pull/1133) in **assura-lang/assura**
+- [refactor(tx): plan_exec uses classify_typed_error](https://github.com/patchloom/patchloom/pull/1639) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,8 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: encode unsigned path-param count_zeros via bits-ones](https://github.com/assura-lang/assura/pull/1133) in **assura-lang/assura**
-- [refactor(tx): plan_exec uses classify_typed_error](https://github.com/patchloom/patchloom/pull/1639) in **patchloom/patchloom**
+- [feat: wrap_bounds_for receiver fallback on shl/shr/rotate/neg](https://github.com/assura-lang/assura/pull/1170) in **assura-lang/assura**
+- [fix: verify attr filter and fail-closed JSON formatters](https://github.com/patchloom/patchloom/pull/1653) in **patchloom/patchloom**
+- [fix: bump Go 1.26.4 to 1.26.5 (GO-2026-5856)](https://github.com/coolify-terraform/terraform-provider-coolify/pull/570) in **coolify-terraform/terraform-provider-coolify**
+- [fix: verify operator image inside k3d node after import](https://github.com/attune-io/attune/pull/379) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,12 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [operator attune (0.1.18)](https://github.com/k8s-operatorhub/community-operators/pull/8745) in **k8s-operatorhub/community-operators**
-- [feat: check-rust signed both-var bitops, 64-bit rotate, u64 pot, ilog](https://github.com/assura-lang/assura/pull/1175) in **assura-lang/assura**
-- [docs: add release notes for v0.1.18](https://github.com/attune-io/attune/pull/382) in **attune-io/attune**
-- [docs: curate RELEASE_NOTES.md for v0.12.0](https://github.com/patchloom/patchloom/pull/1654) in **patchloom/patchloom**
-- [fix: bump Go 1.26.4 to 1.26.5 (GO-2026-5856)](https://github.com/coolify-terraform/terraform-provider-coolify/pull/570) in **coolify-terraform/terraform-provider-coolify**
-- [fix(cli): honor task cancellation in menu bar click wait loops](https://github.com/openclaw/Peekaboo/pull/267) in **openclaw/Peekaboo**
+- [feat: encode signed path-param ilog2 for check-rust](https://github.com/assura-lang/assura/pull/1232) in **assura-lang/assura**
+- [fix: guard NaN/Inf in latestSampleValue and fix stale docs](https://github.com/attune-io/attune/pull/385) in **attune-io/attune**
+- [feat: plan/tx fuzzy replace and match_mode JSON (#1668 #1669)](https://github.com/patchloom/patchloom/pull/1671) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

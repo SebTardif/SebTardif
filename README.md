@@ -44,7 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: cover const-base wrapping_pow(4) e2e](https://github.com/assura-lang/assura/pull/1312) in **assura-lang/assura**
+- [ci: stop cancel races leaving PR Title checks cancelled](https://github.com/coolify-terraform/terraform-provider-coolify/pull/574) in **coolify-terraform/terraform-provider-coolify**
+- [feat: encode checked_next_power_of_two/shl/shr and overflowing_pow peels](https://github.com/assura-lang/assura/pull/1351) in **assura-lang/assura**
+- [test: add regression tests for runtime audit round 5-8 fixes](https://github.com/attune-io/attune/pull/393) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,9 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: encode signed path-param ilog2 for check-rust](https://github.com/assura-lang/assura/pull/1232) in **assura-lang/assura**
-- [fix: guard NaN/Inf in latestSampleValue and fix stale docs](https://github.com/attune-io/attune/pull/385) in **attune-io/attune**
-- [feat: plan/tx fuzzy replace and match_mode JSON (#1668 #1669)](https://github.com/patchloom/patchloom/pull/1671) in **patchloom/patchloom**
+- [test: cover const-base wrapping_pow(4) e2e](https://github.com/assura-lang/assura/pull/1312) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

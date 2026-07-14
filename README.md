@@ -44,9 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: multi-ensures result== preference + synthesis-first docs](https://github.com/assura-lang/assura/pull/1371) in **assura-lang/assura**
-- [ci: pin-free OIDC npm floor check (Scorecard #45)](https://github.com/patchloom/patchloom/pull/1713) in **patchloom/patchloom**
-- [fix: allow template history enums in CRD status schema](https://github.com/attune-io/attune/pull/404) in **attune-io/attune**
+- [ci: wait for release assets before Scoop version smoke](https://github.com/patchloom/patchloom/pull/1730) in **patchloom/patchloom**
+- [ci: exclude CHANGELOG.md from lychee (GitHub 500 flakes)](https://github.com/assura-lang/assura/pull/1378) in **assura-lang/assura**
+- [operator attune (0.1.20)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10451) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.20)](https://github.com/k8s-operatorhub/community-operators/pull/8768) in **k8s-operatorhub/community-operators**
+- [docs: curated release notes for v0.1.20](https://github.com/attune-io/attune/pull/412) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

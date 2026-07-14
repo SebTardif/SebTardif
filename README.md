@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: result bound And synthesis + synthesis-first onboarding docs](https://github.com/assura-lang/assura/pull/1366) in **assura-lang/assura**
-- [docs: clarify npm install is not live until NPM_TOKEN](https://github.com/patchloom/patchloom/pull/1702) in **patchloom/patchloom**
+- [ci: publish npm via OIDC trusted publishing](https://github.com/patchloom/patchloom/pull/1711) in **patchloom/patchloom**
+- [feat: multi-ensures + method peels for richer IR synthesis](https://github.com/assura-lang/assura/pull/1368) in **assura-lang/assura**
 - [feat: opt-in workload template persistence for Deploy/STS](https://github.com/attune-io/attune/pull/403) in **attune-io/attune**
 - [operator attune (0.1.19)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10436) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.19)](https://github.com/k8s-operatorhub/community-operators/pull/8755) in **k8s-operatorhub/community-operators**

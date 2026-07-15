@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: wait for release assets before Scoop version smoke](https://github.com/patchloom/patchloom/pull/1730) in **patchloom/patchloom**
+- [fix: preserve hardlinks for tx rename-then-edit plans](https://github.com/patchloom/patchloom/pull/1742) in **patchloom/patchloom**
 - [ci: exclude CHANGELOG.md from lychee (GitHub 500 flakes)](https://github.com/assura-lang/assura/pull/1378) in **assura-lang/assura**
 - [operator attune (0.1.20)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10451) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.20)](https://github.com/k8s-operatorhub/community-operators/pull/8768) in **k8s-operatorhub/community-operators**

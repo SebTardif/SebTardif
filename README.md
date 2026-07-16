@@ -44,11 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: always put no_matches diagnostics in replace/search JSON error](https://github.com/patchloom/patchloom/pull/1755) in **patchloom/patchloom**
+- [fix: report nth out of range instead of false no-match](https://github.com/patchloom/patchloom/pull/1768) in **patchloom/patchloom**
 - [chore: clear GitHub AI code quality hygiene findings](https://github.com/attune-io/attune/pull/414) in **attune-io/attune**
 - [ci: avoid dual Release runs on App-token tags](https://github.com/assura-lang/assura/pull/1381) in **assura-lang/assura**
-- [operator attune (0.1.20)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10451) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.20)](https://github.com/k8s-operatorhub/community-operators/pull/8768) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

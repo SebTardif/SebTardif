@@ -44,9 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: wrap schema --format prompt under global --json](https://github.com/patchloom/patchloom/pull/1777) in **patchloom/patchloom**
-- [chore: clear GitHub AI code quality hygiene findings](https://github.com/attune-io/attune/pull/414) in **attune-io/attune**
-- [ci: avoid dual Release runs on App-token tags](https://github.com/assura-lang/assura/pull/1381) in **assura-lang/assura**
+- [fix: report applied:true in write --json after --apply](https://github.com/patchloom/patchloom/pull/1788) in **patchloom/patchloom**
+- [smt: honor verify.timeout for CVC5 shell and native tlimit](https://github.com/assura-lang/assura/pull/1409) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

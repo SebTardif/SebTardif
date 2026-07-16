@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: report nth out of range instead of false no-match](https://github.com/patchloom/patchloom/pull/1768) in **patchloom/patchloom**
+- [fix: multi-file --nth out-of-range fails closed for all paths](https://github.com/patchloom/patchloom/pull/1772) in **patchloom/patchloom**
 - [chore: clear GitHub AI code quality hygiene findings](https://github.com/attune-io/attune/pull/414) in **attune-io/attune**
 - [ci: avoid dual Release runs on App-token tags](https://github.com/assura-lang/assura/pull/1381) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->

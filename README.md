@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: delete and rename JSON include backup_session](https://github.com/patchloom/patchloom/pull/1817) in **patchloom/patchloom**
+- [fix: batch/tx replace if_exists soft-skips missing paths](https://github.com/patchloom/patchloom/pull/1823) in **patchloom/patchloom**
 - [smt: honor verify.timeout for CVC5 shell and native tlimit](https://github.com/assura-lang/assura/pull/1409) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 

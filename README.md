@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: report applied:true in write --json after --apply](https://github.com/patchloom/patchloom/pull/1788) in **patchloom/patchloom**
+- [fix: agent JSON honesty for Bline consumers (#1791-#1798)](https://github.com/patchloom/patchloom/pull/1814) in **patchloom/patchloom**
 - [smt: honor verify.timeout for CVC5 shell and native tlimit](https://github.com/assura-lang/assura/pull/1409) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 

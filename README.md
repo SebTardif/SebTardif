@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: compound import server validation for databases and services](https://github.com/coolify-terraform/terraform-provider-coolify/pull/580) in **coolify-terraform/terraform-provider-coolify**
-- [docs: add release notes for v0.15.2](https://github.com/patchloom/patchloom/pull/1852) in **patchloom/patchloom**
-- [smt: honor verify.timeout for CVC5 shell and native tlimit](https://github.com/assura-lang/assura/pull/1409) in **assura-lang/assura**
+- [fix: empty --files-from honesty for search and tidy](https://github.com/patchloom/patchloom/pull/1861) in **patchloom/patchloom**
+- [docs: complete Quick Actions table, Chocolatey install, section e2e](https://github.com/patchloom/patchloom-vscode/pull/205) in **patchloom/patchloom-vscode**
+- [docs: add release notes for v0.1.8](https://github.com/coolify-terraform/terraform-provider-coolify/pull/581) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

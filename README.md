@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: agent honesty for doc query, tidy.fix, md/AST docs](https://github.com/patchloom/patchloom/pull/1846) in **patchloom/patchloom**
+- [docs: tidy.fix defaults in schema and agent-rules](https://github.com/patchloom/patchloom/pull/1850) in **patchloom/patchloom**
 - [smt: honor verify.timeout for CVC5 shell and native tlimit](https://github.com/assura-lang/assura/pull/1409) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 

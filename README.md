@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: tidy.fix defaults in schema and agent-rules](https://github.com/patchloom/patchloom/pull/1850) in **patchloom/patchloom**
+- [fix: compound import server validation for databases and services](https://github.com/coolify-terraform/terraform-provider-coolify/pull/580) in **coolify-terraform/terraform-provider-coolify**
+- [docs: add release notes for v0.15.2](https://github.com/patchloom/patchloom/pull/1852) in **patchloom/patchloom**
 - [smt: honor verify.timeout for CVC5 shell and native tlimit](https://github.com/assura-lang/assura/pull/1409) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 

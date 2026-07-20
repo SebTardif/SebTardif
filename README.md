@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: multi-doc merge array refuse + sole binary search honesty](https://github.com/patchloom/patchloom/pull/1875) in **patchloom/patchloom**
+- [fix: refuse binary targets on read](https://github.com/patchloom/patchloom/pull/1876) in **patchloom/patchloom**
 - [docs: complete Quick Actions table, Chocolatey install, section e2e](https://github.com/patchloom/patchloom-vscode/pull/205) in **patchloom/patchloom-vscode**
 - [docs: add release notes for v0.1.8](https://github.com/coolify-terraform/terraform-provider-coolify/pull/581) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->

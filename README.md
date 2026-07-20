@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: refuse binary targets on read](https://github.com/patchloom/patchloom/pull/1876) in **patchloom/patchloom**
+- [fix: search multi-path refused[] for binary co-paths](https://github.com/patchloom/patchloom/pull/1877) in **patchloom/patchloom**
 - [docs: complete Quick Actions table, Chocolatey install, section e2e](https://github.com/patchloom/patchloom-vscode/pull/205) in **patchloom/patchloom-vscode**
 - [docs: add release notes for v0.1.8](https://github.com/coolify-terraform/terraform-provider-coolify/pull/581) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->

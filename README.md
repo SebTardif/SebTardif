@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: line-oriented insert_before/after by default](https://github.com/patchloom/patchloom/pull/1888) in **patchloom/patchloom**
+- [fix: preserve file EOL in line-oriented insert separators](https://github.com/patchloom/patchloom/pull/1892) in **patchloom/patchloom**
 - [docs: complete Quick Actions table, Chocolatey install, section e2e](https://github.com/patchloom/patchloom-vscode/pull/205) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

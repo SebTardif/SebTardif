@@ -44,8 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: preserve file EOL in line-oriented insert separators](https://github.com/patchloom/patchloom/pull/1892) in **patchloom/patchloom**
-- [docs: complete Quick Actions table, Chocolatey install, section e2e](https://github.com/patchloom/patchloom-vscode/pull/205) in **patchloom/patchloom-vscode**
+- [fix: fail sole non-text before soft-skip scan log](https://github.com/patchloom/patchloom/pull/1899) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

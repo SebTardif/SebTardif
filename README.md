@@ -44,7 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: tidy --files-from non-text honesty and sole-scan helper](https://github.com/patchloom/patchloom/pull/1902) in **patchloom/patchloom**
+- [test: strengthen multi-doc merge coverage and library docs](https://github.com/patchloom/patchloom/pull/1915) in **patchloom/patchloom**
+- [feat: align with patchloom CLI 0.16.0 and multi-doc merge selector](https://github.com/patchloom/patchloom-vscode/pull/207) in **patchloom/patchloom-vscode**
+- [deps: upgrade syn to 3 and prettyplease to 0.3](https://github.com/assura-lang/assura/pull/1421) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

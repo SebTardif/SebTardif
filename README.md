@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: clarify init skip when AGENTS.md is not written](https://github.com/patchloom/patchloom/pull/1922) in **patchloom/patchloom**
+- [fix: load errors keep OS detail without double-wrap](https://github.com/patchloom/patchloom/pull/1926) in **patchloom/patchloom**
 - [feat: line-oriented insert Quick Actions and npm audit hardening](https://github.com/patchloom/patchloom-vscode/pull/209) in **patchloom/patchloom-vscode**
 - [deps: upgrade syn to 3 and prettyplease to 0.3](https://github.com/assura-lang/assura/pull/1421) in **assura-lang/assura**
 - [fix(mcp): read pipe data before waitUntilExit to prevent deadlock](https://github.com/openclaw/Peekaboo/pull/292) in **openclaw/Peekaboo**

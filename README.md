@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: load errors keep OS detail without double-wrap](https://github.com/patchloom/patchloom/pull/1926) in **patchloom/patchloom**
+- [test: platform path integration for Windows and WSL](https://github.com/patchloom/patchloom/pull/1933) in **patchloom/patchloom**
+- [fiber: reserve stack before saving registers on riscv64](https://github.com/bytecodealliance/wasmtime/pull/13943) in **bytecodealliance/wasmtime**
 - [feat: line-oriented insert Quick Actions and npm audit hardening](https://github.com/patchloom/patchloom-vscode/pull/209) in **patchloom/patchloom-vscode**
 - [deps: upgrade syn to 3 and prettyplease to 0.3](https://github.com/assura-lang/assura/pull/1421) in **assura-lang/assura**
 - [fix(mcp): read pipe data before waitUntilExit to prevent deadlock](https://github.com/openclaw/Peekaboo/pull/292) in **openclaw/Peekaboo**

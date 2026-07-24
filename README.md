@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: lychee exclude-path for RELEASE_NOTES; create force hints](https://github.com/patchloom/patchloom/pull/1952) in **patchloom/patchloom**
-- [feat: align extension with patchloom CLI 0.18.0](https://github.com/patchloom/patchloom-vscode/pull/210) in **patchloom/patchloom-vscode**
+- [fix: append EditErrorKind variants after FormatFailed](https://github.com/patchloom/patchloom/pull/1955) in **patchloom/patchloom**
+- [fix: stop claiming non-release after ALLOW_RELEASE_MERGE bypass](https://github.com/patchloom/patchloom-vscode/pull/213) in **patchloom/patchloom-vscode**
 - [fiber: reserve stack before saving registers on riscv64](https://github.com/bytecodealliance/wasmtime/pull/13943) in **bytecodealliance/wasmtime**
 <!-- RECENT-PRS-END -->
 

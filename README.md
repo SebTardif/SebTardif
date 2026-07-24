@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: platform path integration for Windows and WSL](https://github.com/patchloom/patchloom/pull/1933) in **patchloom/patchloom**
+- [fix: tidy check JSON error_kind changes_detected](https://github.com/patchloom/patchloom/pull/1940) in **patchloom/patchloom**
 - [fiber: reserve stack before saving registers on riscv64](https://github.com/bytecodealliance/wasmtime/pull/13943) in **bytecodealliance/wasmtime**
 - [feat: line-oriented insert Quick Actions and npm audit hardening](https://github.com/patchloom/patchloom-vscode/pull/209) in **patchloom/patchloom-vscode**
 - [deps: upgrade syn to 3 and prettyplease to 0.3](https://github.com/assura-lang/assura/pull/1421) in **assura-lang/assura**

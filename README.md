@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: fix library peels for AlreadyExists after #1950](https://github.com/patchloom/patchloom/pull/1956) in **patchloom/patchloom**
+- [feat: Coolify v4.2 contract, DigitalOcean/Vultr servers, destinations](https://github.com/coolify-terraform/terraform-provider-coolify/pull/589) in **coolify-terraform/terraform-provider-coolify**
+- [feat: public is_not_found/is_conflicts/is_changes_detected peels](https://github.com/patchloom/patchloom/pull/1958) in **patchloom/patchloom**
 - [fix: stop claiming non-release after ALLOW_RELEASE_MERGE bypass](https://github.com/patchloom/patchloom-vscode/pull/213) in **patchloom/patchloom-vscode**
 - [fix(install): validate downloaded scripts before execution](https://github.com/openclaw/openclaw/pull/113307) in **openclaw/openclaw**
 - [fiber: reserve stack before saving registers on riscv64](https://github.com/bytecodealliance/wasmtime/pull/13943) in **bytecodealliance/wasmtime**

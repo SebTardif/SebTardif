@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: append EditErrorKind variants after FormatFailed](https://github.com/patchloom/patchloom/pull/1955) in **patchloom/patchloom**
+- [docs: fix library peels for AlreadyExists after #1950](https://github.com/patchloom/patchloom/pull/1956) in **patchloom/patchloom**
 - [fix: stop claiming non-release after ALLOW_RELEASE_MERGE bypass](https://github.com/patchloom/patchloom-vscode/pull/213) in **patchloom/patchloom-vscode**
+- [fix(install): validate downloaded scripts before execution](https://github.com/openclaw/openclaw/pull/113307) in **openclaw/openclaw**
 - [fiber: reserve stack before saving registers on riscv64](https://github.com/bytecodealliance/wasmtime/pull/13943) in **bytecodealliance/wasmtime**
 <!-- RECENT-PRS-END -->
 

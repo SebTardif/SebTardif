@@ -44,11 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: daily Coolify channel watch (stable vs nightly vs pin)](https://github.com/coolify-terraform/terraform-provider-coolify/pull/590) in **coolify-terraform/terraform-provider-coolify**
-- [feat: complete public EditErrorKind bool peels](https://github.com/patchloom/patchloom/pull/1959) in **patchloom/patchloom**
+- [test: harden v4.2 coverage and channel watch](https://github.com/coolify-terraform/terraform-provider-coolify/pull/593) in **coolify-terraform/terraform-provider-coolify**
+- [docs: add release notes for v0.19.0](https://github.com/patchloom/patchloom/pull/1960) in **patchloom/patchloom**
 - [fix: stop claiming non-release after ALLOW_RELEASE_MERGE bypass](https://github.com/patchloom/patchloom-vscode/pull/213) in **patchloom/patchloom-vscode**
 - [fix(install): validate downloaded scripts before execution](https://github.com/openclaw/openclaw/pull/113307) in **openclaw/openclaw**
-- [fiber: reserve stack before saving registers on riscv64](https://github.com/bytecodealliance/wasmtime/pull/13943) in **bytecodealliance/wasmtime**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

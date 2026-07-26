@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: harden v4.2 coverage and channel watch](https://github.com/coolify-terraform/terraform-provider-coolify/pull/593) in **coolify-terraform/terraform-provider-coolify**
-- [docs: add release notes for v0.19.0](https://github.com/patchloom/patchloom/pull/1960) in **patchloom/patchloom**
+- [fix(cli): AST sole-path Binary/InvalidEncoding error_kind emit](https://github.com/patchloom/patchloom/pull/1974) in **patchloom/patchloom**
+- [test: Hetzner-parity unit coverage for DO and Vultr servers](https://github.com/coolify-terraform/terraform-provider-coolify/pull/595) in **coolify-terraform/terraform-provider-coolify**
 - [fix: stop claiming non-release after ALLOW_RELEASE_MERGE bypass](https://github.com/patchloom/patchloom-vscode/pull/213) in **patchloom/patchloom-vscode**
 - [fix(install): validate downloaded scripts before execution](https://github.com/openclaw/openclaw/pull/113307) in **openclaw/openclaw**
 <!-- RECENT-PRS-END -->

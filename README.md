@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: surface Getting started in mdBook nav](https://github.com/assura-lang/assura/pull/1434) in **assura-lang/assura**
-- [docs: add release notes for v0.20.0](https://github.com/patchloom/patchloom/pull/1977) in **patchloom/patchloom**
+- [fix(api): polish fuzzy_span_suspicious host contract](https://github.com/patchloom/patchloom/pull/1984) in **patchloom/patchloom**
+- [docs: accurate Coolify version floor for storage_backup](https://github.com/coolify-terraform/terraform-provider-coolify/pull/602) in **coolify-terraform/terraform-provider-coolify**
+- [docs: point RFMIG human steps at open issue #1411](https://github.com/assura-lang/assura/pull/1436) in **assura-lang/assura**
 - [fix: MPI cycle — CLI 0.19 docs, brace-expansion audit, AGENTS refresh](https://github.com/patchloom/patchloom-vscode/pull/217) in **patchloom/patchloom-vscode**
-- [refactor: share cloud server helpers and harden CI runners](https://github.com/coolify-terraform/terraform-provider-coolify/pull/599) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: lock md/AST and embedder-smoke binary peels](https://github.com/patchloom/patchloom/pull/1975) in **patchloom/patchloom**
-- [test: Hetzner-parity unit coverage for DO and Vultr servers](https://github.com/coolify-terraform/terraform-provider-coolify/pull/595) in **coolify-terraform/terraform-provider-coolify**
-- [fix: stop claiming non-release after ALLOW_RELEASE_MERGE bypass](https://github.com/patchloom/patchloom-vscode/pull/213) in **patchloom/patchloom-vscode**
-- [fix(install): validate downloaded scripts before execution](https://github.com/openclaw/openclaw/pull/113307) in **openclaw/openclaw**
+- [docs: surface Getting started in mdBook nav](https://github.com/assura-lang/assura/pull/1434) in **assura-lang/assura**
+- [docs: add release notes for v0.20.0](https://github.com/patchloom/patchloom/pull/1977) in **patchloom/patchloom**
+- [fix: MPI cycle — CLI 0.19 docs, brace-expansion audit, AGENTS refresh](https://github.com/patchloom/patchloom-vscode/pull/217) in **patchloom/patchloom-vscode**
+- [refactor: share cloud server helpers and harden CI runners](https://github.com/coolify-terraform/terraform-provider-coolify/pull/599) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

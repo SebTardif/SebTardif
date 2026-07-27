@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(cli): AST sole-path Binary/InvalidEncoding error_kind emit](https://github.com/patchloom/patchloom/pull/1974) in **patchloom/patchloom**
+- [test: lock md/AST and embedder-smoke binary peels](https://github.com/patchloom/patchloom/pull/1975) in **patchloom/patchloom**
 - [test: Hetzner-parity unit coverage for DO and Vultr servers](https://github.com/coolify-terraform/terraform-provider-coolify/pull/595) in **coolify-terraform/terraform-provider-coolify**
 - [fix: stop claiming non-release after ALLOW_RELEASE_MERGE bypass](https://github.com/patchloom/patchloom-vscode/pull/213) in **patchloom/patchloom-vscode**
 - [fix(install): validate downloaded scripts before execution](https://github.com/openclaw/openclaw/pull/113307) in **openclaw/openclaw**

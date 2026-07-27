@@ -44,9 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(api): polish fuzzy_span_suspicious host contract](https://github.com/patchloom/patchloom/pull/1984) in **patchloom/patchloom**
-- [docs: accurate Coolify version floor for storage_backup](https://github.com/coolify-terraform/terraform-provider-coolify/pull/602) in **coolify-terraform/terraform-provider-coolify**
-- [docs: point RFMIG human steps at open issue #1411](https://github.com/assura-lang/assura/pull/1436) in **assura-lang/assura**
+- [feat(api): refuse_suspicious_fuzzy on for_agent + content_edits op_honesty](https://github.com/patchloom/patchloom/pull/2010) in **patchloom/patchloom**
+- [docs: rewrite v0.1.9 release notes for scanability](https://github.com/coolify-terraform/terraform-provider-coolify/pull/606) in **coolify-terraform/terraform-provider-coolify**
+- [docs+test: error URL, error-codes nav, tighter CLI asserts](https://github.com/assura-lang/assura/pull/1437) in **assura-lang/assura**
+- [ci: retry pure go fuzz deadline flakes in nightly](https://github.com/attune-io/attune/pull/424) in **attune-io/attune**
 - [fix: MPI cycle — CLI 0.19 docs, brace-expansion audit, AGENTS refresh](https://github.com/patchloom/patchloom-vscode/pull/217) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

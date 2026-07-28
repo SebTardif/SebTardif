@@ -44,11 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: drop curl|python npm wait (Scorecard #51)](https://github.com/patchloom/patchloom/pull/2025) in **patchloom/patchloom**
+- [test: windows-smoke rename coverage and CONTRIBUTING host gate sync](https://github.com/patchloom/patchloom/pull/2039) in **patchloom/patchloom**
 - [docs: rewrite v0.1.9 release notes for scanability](https://github.com/coolify-terraform/terraform-provider-coolify/pull/606) in **coolify-terraform/terraform-provider-coolify**
-- [fix(ci): accept npm 12 pack --json object shape in release](https://github.com/openclaw/clawhub/pull/3276) in **openclaw/clawhub**
-- [docs+test: error URL, error-codes nav, tighter CLI asserts](https://github.com/assura-lang/assura/pull/1437) in **assura-lang/assura**
-- [ci: retry pure go fuzz deadline flakes in nightly](https://github.com/attune-io/attune/pull/424) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

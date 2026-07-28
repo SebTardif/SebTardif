@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test(mcp): core surface env integration + honesty docs](https://github.com/patchloom/patchloom/pull/2017) in **patchloom/patchloom**
+- [docs: Morph Fast Apply job matrix vs patchloom](https://github.com/patchloom/patchloom/pull/2020) in **patchloom/patchloom**
 - [docs: rewrite v0.1.9 release notes for scanability](https://github.com/coolify-terraform/terraform-provider-coolify/pull/606) in **coolify-terraform/terraform-provider-coolify**
 - [fix(ci): accept npm 12 pack --json object shape in release](https://github.com/openclaw/clawhub/pull/3276) in **openclaw/clawhub**
 - [docs+test: error URL, error-codes nav, tighter CLI asserts](https://github.com/assura-lang/assura/pull/1437) in **assura-lang/assura**

@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat(api): refuse_suspicious_fuzzy on for_agent + content_edits op_honesty](https://github.com/patchloom/patchloom/pull/2010) in **patchloom/patchloom**
+- [test(mcp): core surface env integration + honesty docs](https://github.com/patchloom/patchloom/pull/2017) in **patchloom/patchloom**
 - [docs: rewrite v0.1.9 release notes for scanability](https://github.com/coolify-terraform/terraform-provider-coolify/pull/606) in **coolify-terraform/terraform-provider-coolify**
+- [fix(ci): accept npm 12 pack --json object shape in release](https://github.com/openclaw/clawhub/pull/3276) in **openclaw/clawhub**
 - [docs+test: error URL, error-codes nav, tighter CLI asserts](https://github.com/assura-lang/assura/pull/1437) in **assura-lang/assura**
 - [ci: retry pure go fuzz deadline flakes in nightly](https://github.com/attune-io/attune/pull/424) in **attune-io/attune**
-- [fix: MPI cycle — CLI 0.19 docs, brace-expansion audit, AGENTS refresh](https://github.com/patchloom/patchloom-vscode/pull/217) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

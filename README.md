@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: jsonl honesty for read/schema/tidy; MCP search; AST empty-scan](https://github.com/patchloom/patchloom/pull/2049) in **patchloom/patchloom**
+- [fix: lint/search jsonl trailers; AST validate/search/impact honesty](https://github.com/patchloom/patchloom/pull/2050) in **patchloom/patchloom**
 - [test: storage_backup S3 acc, preflight probe, and edge pin docs](https://github.com/coolify-terraform/terraform-provider-coolify/pull/610) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

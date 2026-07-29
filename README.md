@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: windows-smoke rename coverage and CONTRIBUTING host gate sync](https://github.com/patchloom/patchloom/pull/2039) in **patchloom/patchloom**
-- [docs: rewrite v0.1.9 release notes for scanability](https://github.com/coolify-terraform/terraform-provider-coolify/pull/606) in **coolify-terraform/terraform-provider-coolify**
+- [fix: fail-closed positions, for_each empty, patch merge exit, MCP honesty](https://github.com/patchloom/patchloom/pull/2046) in **patchloom/patchloom**
+- [test: storage_backup S3 acc, preflight probe, and edge pin docs](https://github.com/coolify-terraform/terraform-provider-coolify/pull/610) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

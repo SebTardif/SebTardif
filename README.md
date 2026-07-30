@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: docs honesty and batch/MCP agent recovery (MPI)](https://github.com/patchloom/patchloom/pull/2055) in **patchloom/patchloom**
+- [deps: upgrade rmcp 2.2 → 3.0.1 for MCP 2026-07-28](https://github.com/patchloom/patchloom/pull/2059) in **patchloom/patchloom**
 - [test: storage_backup S3 acc, preflight probe, and edge pin docs](https://github.com/coolify-terraform/terraform-provider-coolify/pull/610) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

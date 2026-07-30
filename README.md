@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [deps: upgrade rmcp 2.2 → 3.0.1 for MCP 2026-07-28](https://github.com/patchloom/patchloom/pull/2059) in **patchloom/patchloom**
-- [test: storage_backup S3 acc, preflight probe, and edge pin docs](https://github.com/coolify-terraform/terraform-provider-coolify/pull/610) in **coolify-terraform/terraform-provider-coolify**
+- [fix(ci): skip Auto Approve on fork PRs](https://github.com/coolify-terraform/terraform-provider-coolify/pull/613) in **coolify-terraform/terraform-provider-coolify**
+- [feat(mcp): server_info reports version and protocol_version](https://github.com/patchloom/patchloom/pull/2060) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

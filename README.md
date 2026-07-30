@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: agent honesty for patch, search, md, AST, tx (R11)](https://github.com/patchloom/patchloom/pull/2051) in **patchloom/patchloom**
+- [fix: docs honesty and batch/MCP agent recovery (MPI)](https://github.com/patchloom/patchloom/pull/2055) in **patchloom/patchloom**
 - [test: storage_backup S3 acc, preflight probe, and edge pin docs](https://github.com/coolify-terraform/terraform-provider-coolify/pull/610) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat(api): EditResult.style_changed and special-node file_delete](https://github.com/patchloom/patchloom/pull/2090) in **patchloom/patchloom**
+- [fix: path-only rename for symlinks and special nodes](https://github.com/patchloom/patchloom/pull/2092) in **patchloom/patchloom**
 - [docs: add curated release notes for v0.3.0](https://github.com/patchloom/patchloom-vscode/pull/220) in **patchloom/patchloom-vscode**
 - [fix(ci): drop em dash from social-preview repo description](https://github.com/coolify-terraform/terraform-provider-coolify/pull/639) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->

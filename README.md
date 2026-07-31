@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: expose env is_runtime, is_literal, is_multiline, and comment](https://github.com/coolify-terraform/terraform-provider-coolify/pull/625) in **coolify-terraform/terraform-provider-coolify**
-- [fix: real findings wrongly rejected as architecture noise](https://github.com/patchloom/patchloom/pull/2072) in **patchloom/patchloom**
+- [fix(api): surface backup restore on mutation failure; hardlink write recovery](https://github.com/patchloom/patchloom/pull/2089) in **patchloom/patchloom**
+- [docs: add curated release notes for v0.3.0](https://github.com/patchloom/patchloom-vscode/pull/220) in **patchloom/patchloom-vscode**
+- [fix(ci): drop em dash from social-preview repo description](https://github.com/coolify-terraform/terraform-provider-coolify/pull/639) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

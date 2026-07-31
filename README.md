@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(api): surface backup restore on mutation failure; hardlink write recovery](https://github.com/patchloom/patchloom/pull/2089) in **patchloom/patchloom**
+- [feat(api): EditResult.style_changed and special-node file_delete](https://github.com/patchloom/patchloom/pull/2090) in **patchloom/patchloom**
 - [docs: add curated release notes for v0.3.0](https://github.com/patchloom/patchloom-vscode/pull/220) in **patchloom/patchloom-vscode**
 - [fix(ci): drop em dash from social-preview repo description](https://github.com/coolify-terraform/terraform-provider-coolify/pull/639) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->

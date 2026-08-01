@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: create already_exists dual-path parity and write mode matrices](https://github.com/patchloom/patchloom/pull/2098) in **patchloom/patchloom**
+- [fix: pure rename patch JSON one row with from/to](https://github.com/patchloom/patchloom/pull/2108) in **patchloom/patchloom**
+- [docs: document autogenerate_domain and public create default](https://github.com/coolify-terraform/terraform-provider-coolify/pull/648) in **coolify-terraform/terraform-provider-coolify**
 - [docs: add curated release notes for v0.3.0](https://github.com/patchloom/patchloom-vscode/pull/220) in **patchloom/patchloom-vscode**
-- [fix(ci): drop em dash from social-preview repo description](https://github.com/coolify-terraform/terraform-provider-coolify/pull/639) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

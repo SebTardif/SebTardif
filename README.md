@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [docs: add release notes for v0.1.11](https://github.com/coolify-terraform/terraform-provider-coolify/pull/649) in **coolify-terraform/terraform-provider-coolify**
 - [fix: pure rename patch JSON one row with from/to](https://github.com/patchloom/patchloom/pull/2108) in **patchloom/patchloom**
-- [docs: document autogenerate_domain and public create default](https://github.com/coolify-terraform/terraform-provider-coolify/pull/648) in **coolify-terraform/terraform-provider-coolify**
 - [docs: add curated release notes for v0.3.0](https://github.com/patchloom/patchloom-vscode/pull/220) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

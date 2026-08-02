@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: FIFO-safe text probes and entry PathGuard parent escape test](https://github.com/patchloom/patchloom/pull/2118) in **patchloom/patchloom**
+- [ci: group Dependabot updates and enable auto-rebase](https://github.com/assura-lang/assura/pull/1446) in **assura-lang/assura**
+- [docs: prefer Scoop and GitHub over winget and Chocolatey](https://github.com/patchloom/patchloom/pull/2119) in **patchloom/patchloom**
 - [fix(agents): cap DeepSeek DSML recovery buffer at 256 KB](https://github.com/openclaw/openclaw/pull/117175) in **openclaw/openclaw**
 - [docs: add release notes for v0.1.11](https://github.com/coolify-terraform/terraform-provider-coolify/pull/649) in **coolify-terraform/terraform-provider-coolify**
 - [docs: add curated release notes for v0.3.0](https://github.com/patchloom/patchloom-vscode/pull/220) in **patchloom/patchloom-vscode**

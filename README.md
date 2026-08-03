@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: opt-in GitOps pull request automation](https://github.com/attune-io/attune/pull/449) in **attune-io/attune**
+- [docs: add release notes for 0.26.0](https://github.com/patchloom/patchloom/pull/2125) in **patchloom/patchloom**
+- [fix: harden GitOps paths, SSRF apiUrl, and refresh dist manifests](https://github.com/attune-io/attune/pull/455) in **attune-io/attune**
+- [docs: curated release notes for v0.4.1](https://github.com/assura-lang/assura/pull/1453) in **assura-lang/assura**
 - [fix(render): always FORM_OnBeforeClosePage after AfterLoad](https://github.com/openclaw/clawpdf/pull/14) in **openclaw/clawpdf**
-- [deps: upgrade rowan 0.16 → 0.17](https://github.com/assura-lang/assura/pull/1451) in **assura-lang/assura**
 - [fix(connect): default openProxyConnectTunnel timeout to 30s](https://github.com/openclaw/proxyline/pull/17) in **openclaw/proxyline**
-- [fix: PatchApply entry PathGuard for pure renames](https://github.com/patchloom/patchloom/pull/2121) in **patchloom/patchloom**
 - [fix(mcp): bound Shutdown so stuck workers cannot hang exit](https://github.com/openclaw/turnwire/pull/17) in **openclaw/turnwire**
 <!-- RECENT-PRS-END -->
 

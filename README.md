@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: memory limit decrease usage floor and metrics](https://github.com/attune-io/attune/pull/447) in **attune-io/attune**
+- [feat: opt-in GitOps pull request automation](https://github.com/attune-io/attune/pull/449) in **attune-io/attune**
+- [fix(render): always FORM_OnBeforeClosePage after AfterLoad](https://github.com/openclaw/clawpdf/pull/14) in **openclaw/clawpdf**
 - [deps: upgrade rowan 0.16 → 0.17](https://github.com/assura-lang/assura/pull/1451) in **assura-lang/assura**
+- [fix(connect): default openProxyConnectTunnel timeout to 30s](https://github.com/openclaw/proxyline/pull/17) in **openclaw/proxyline**
 - [fix: PatchApply entry PathGuard for pure renames](https://github.com/patchloom/patchloom/pull/2121) in **patchloom/patchloom**
-- [fix(detection): honor cancellation between web-focus retry sleeps](https://github.com/openclaw/Peekaboo/pull/304) in **openclaw/Peekaboo**
-- [fix(agents): cap DeepSeek DSML recovery buffer at 256 KB](https://github.com/openclaw/openclaw/pull/117175) in **openclaw/openclaw**
-- [docs: add release notes for v0.1.11](https://github.com/coolify-terraform/terraform-provider-coolify/pull/649) in **coolify-terraform/terraform-provider-coolify**
+- [fix(mcp): bound Shutdown so stuck workers cannot hang exit](https://github.com/openclaw/turnwire/pull/17) in **openclaw/turnwire**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

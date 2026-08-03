@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: group Dependabot updates and enable auto-rebase](https://github.com/assura-lang/assura/pull/1446) in **assura-lang/assura**
-- [docs: prefer Scoop and GitHub over winget and Chocolatey](https://github.com/patchloom/patchloom/pull/2119) in **patchloom/patchloom**
+- [feat: memory limit decrease usage floor and metrics](https://github.com/attune-io/attune/pull/447) in **attune-io/attune**
+- [deps: upgrade rowan 0.16 → 0.17](https://github.com/assura-lang/assura/pull/1451) in **assura-lang/assura**
+- [fix: PatchApply entry PathGuard for pure renames](https://github.com/patchloom/patchloom/pull/2121) in **patchloom/patchloom**
+- [fix(detection): honor cancellation between web-focus retry sleeps](https://github.com/openclaw/Peekaboo/pull/304) in **openclaw/Peekaboo**
 - [fix(agents): cap DeepSeek DSML recovery buffer at 256 KB](https://github.com/openclaw/openclaw/pull/117175) in **openclaw/openclaw**
 - [docs: add release notes for v0.1.11](https://github.com/coolify-terraform/terraform-provider-coolify/pull/649) in **coolify-terraform/terraform-provider-coolify**
-- [docs: add curated release notes for v0.3.0](https://github.com/patchloom/patchloom-vscode/pull/220) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,12 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: add release notes for 0.26.0](https://github.com/patchloom/patchloom/pull/2125) in **patchloom/patchloom**
-- [fix: harden GitOps paths, SSRF apiUrl, and refresh dist manifests](https://github.com/attune-io/attune/pull/455) in **attune-io/attune**
-- [docs: curated release notes for v0.4.1](https://github.com/assura-lang/assura/pull/1453) in **assura-lang/assura**
+- [test: MCP suggested_op multi-surface + brew check docs](https://github.com/patchloom/patchloom/pull/2139) in **patchloom/patchloom**
+- [check-rust: CFG SSA join for if/match mutation](https://github.com/assura-lang/assura/pull/1468) in **assura-lang/assura**
+- [docs: complete feature surface docs and GitOps reconcile unit tests](https://github.com/attune-io/attune/pull/463) in **attune-io/attune**
 - [fix(render): always FORM_OnBeforeClosePage after AfterLoad](https://github.com/openclaw/clawpdf/pull/14) in **openclaw/clawpdf**
-- [fix(connect): default openProxyConnectTunnel timeout to 30s](https://github.com/openclaw/proxyline/pull/17) in **openclaw/proxyline**
-- [fix(mcp): bound Shutdown so stuck workers cannot hang exit](https://github.com/openclaw/turnwire/pull/17) in **openclaw/turnwire**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

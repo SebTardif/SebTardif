@@ -44,10 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [test: metrics coverage, GitOps drift kinds, and PR list head filter](https://github.com/attune-io/attune/pull/469) in **attune-io/attune**
+- [docs: require conventional commit types for release-please](https://github.com/assura-lang/assura/pull/1469) in **assura-lang/assura**
 - [test: MCP suggested_op multi-surface + brew check docs](https://github.com/patchloom/patchloom/pull/2139) in **patchloom/patchloom**
-- [check-rust: CFG SSA join for if/match mutation](https://github.com/assura-lang/assura/pull/1468) in **assura-lang/assura**
-- [docs: complete feature surface docs and GitOps reconcile unit tests](https://github.com/attune-io/attune/pull/463) in **attune-io/attune**
-- [fix(render): always FORM_OnBeforeClosePage after AfterLoad](https://github.com/openclaw/clawpdf/pull/14) in **openclaw/clawpdf**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

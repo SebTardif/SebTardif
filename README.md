@@ -44,9 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: metrics coverage, GitOps drift kinds, and PR list head filter](https://github.com/attune-io/attune/pull/469) in **attune-io/attune**
+- [ci: harden ci-wsl against wsl --update Store 403](https://github.com/patchloom/patchloom/pull/2147) in **patchloom/patchloom**
+- [operator attune (0.1.21)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10643) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.21)](https://github.com/k8s-operatorhub/community-operators/pull/8870) in **k8s-operatorhub/community-operators**
+- [docs: add curated release notes for v0.1.21](https://github.com/attune-io/attune/pull/474) in **attune-io/attune**
 - [docs: require conventional commit types for release-please](https://github.com/assura-lang/assura/pull/1469) in **assura-lang/assura**
-- [test: MCP suggested_op multi-surface + brew check docs](https://github.com/patchloom/patchloom/pull/2139) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

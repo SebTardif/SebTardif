@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [test: strengthen validator assertions and bump plugin-log](https://github.com/coolify-terraform/terraform-provider-coolify/pull/667) in **coolify-terraform/terraform-provider-coolify**
 - [fix: live node pressure re-check and capacity skip path tests](https://github.com/attune-io/attune/pull/479) in **attune-io/attune**
-- [fix(application): normalize docker_compose_domains array vs object](https://github.com/coolify-terraform/terraform-provider-coolify/pull/658) in **coolify-terraform/terraform-provider-coolify**
 - [ci: harden ci-wsl against wsl --update Store 403](https://github.com/patchloom/patchloom/pull/2147) in **patchloom/patchloom**
 - [operator attune (0.1.21)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10643) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.21)](https://github.com/k8s-operatorhub/community-operators/pull/8870) in **k8s-operatorhub/community-operators**

@@ -44,12 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [perf: close remaining scale gaps for large fleets](https://github.com/attune-io/attune/pull/490) in **attune-io/attune**
+- [fix: PathGuard and MCP reject blank paths](https://github.com/patchloom/patchloom/pull/2152) in **patchloom/patchloom**
+- [test: fix nightly BudgetCaps and template-persistence flakes](https://github.com/attune-io/attune/pull/495) in **attune-io/attune**
 - [ci(fossa): fix 503 retry detection (stdout)](https://github.com/coolify-terraform/terraform-provider-coolify/pull/673) in **coolify-terraform/terraform-provider-coolify**
-- [ci: harden ci-wsl against wsl --update Store 403](https://github.com/patchloom/patchloom/pull/2147) in **patchloom/patchloom**
-- [New version: Patchloom.Patchloom version 0.27.0](https://github.com/microsoft/winget-pkgs/pull/412335) in **microsoft/winget-pkgs**
-- [operator attune (0.1.21)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10643) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.21)](https://github.com/k8s-operatorhub/community-operators/pull/8870) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

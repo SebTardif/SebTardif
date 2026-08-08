@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: mpi scale defaults coverage, explain, and docs](https://github.com/attune-io/attune/pull/496) in **attune-io/attune**
 - [fix: PathGuard and MCP reject blank paths](https://github.com/patchloom/patchloom/pull/2152) in **patchloom/patchloom**
-- [test: fix nightly BudgetCaps and template-persistence flakes](https://github.com/attune-io/attune/pull/495) in **attune-io/attune**
 - [ci(fossa): fix 503 retry detection (stdout)](https://github.com/coolify-terraform/terraform-provider-coolify/pull/673) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

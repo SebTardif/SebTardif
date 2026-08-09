@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: chunk batch throttle queries and harden E2E API wait](https://github.com/attune-io/attune/pull/508) in **attune-io/attune**
+- [test: cover rate-limited throttle chunking and document batch size](https://github.com/attune-io/attune/pull/511) in **attune-io/attune**
 - [fix!: mark ContainmentError as non_exhaustive](https://github.com/patchloom/patchloom/pull/2153) in **patchloom/patchloom**
 - [fix(daemon,serve): handle log WriteStream and HTTP body stream errors](https://github.com/openclaw/mcporter/pull/280) in **openclaw/mcporter**
 - [ci(fossa): fix 503 retry detection (stdout)](https://github.com/coolify-terraform/terraform-provider-coolify/pull/673) in **coolify-terraform/terraform-provider-coolify**

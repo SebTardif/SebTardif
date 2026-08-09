@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: enable batch throttle through RateLimitedCollector](https://github.com/attune-io/attune/pull/502) in **attune-io/attune**
+- [test: pin GuaranteedQoS memory min=max at 256Mi](https://github.com/attune-io/attune/pull/506) in **attune-io/attune**
 - [fix!: mark ContainmentError as non_exhaustive](https://github.com/patchloom/patchloom/pull/2153) in **patchloom/patchloom**
+- [fix(daemon,serve): handle log WriteStream and HTTP body stream errors](https://github.com/openclaw/mcporter/pull/280) in **openclaw/mcporter**
 - [ci(fossa): fix 503 retry detection (stdout)](https://github.com/coolify-terraform/terraform-provider-coolify/pull/673) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: cover rate-limited throttle chunking and document batch size](https://github.com/attune-io/attune/pull/511) in **attune-io/attune**
-- [fix!: mark ContainmentError as non_exhaustive](https://github.com/patchloom/patchloom/pull/2153) in **patchloom/patchloom**
-- [fix(daemon,serve): handle log WriteStream and HTTP body stream errors](https://github.com/openclaw/mcporter/pull/280) in **openclaw/mcporter**
-- [ci(fossa): fix 503 retry detection (stdout)](https://github.com/coolify-terraform/terraform-provider-coolify/pull/673) in **coolify-terraform/terraform-provider-coolify**
+- [ci: approve PRs with App token for fork last-push rules](https://github.com/assura-lang/assura/pull/1481) in **assura-lang/assura**
+- [docs: destination_uuid examples and test floor (MPI)](https://github.com/coolify-terraform/terraform-provider-coolify/pull/681) in **coolify-terraform/terraform-provider-coolify**
+- [docs: add curated release notes for 0.28.0](https://github.com/patchloom/patchloom/pull/2156) in **patchloom/patchloom**
+- [test: guard mid-batch throttle failures and complete v0.1.22 docs](https://github.com/attune-io/attune/pull/514) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

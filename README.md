@@ -44,10 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: approve PRs with App token for fork last-push rules](https://github.com/assura-lang/assura/pull/1481) in **assura-lang/assura**
-- [docs: destination_uuid examples and test floor (MPI)](https://github.com/coolify-terraform/terraform-provider-coolify/pull/681) in **coolify-terraform/terraform-provider-coolify**
-- [docs: add curated release notes for 0.28.0](https://github.com/patchloom/patchloom/pull/2156) in **patchloom/patchloom**
-- [test: guard mid-batch throttle failures and complete v0.1.22 docs](https://github.com/attune-io/attune/pull/514) in **attune-io/attune**
+- [fix: remove pure-listing unused error codes from SPEC and catalog](https://github.com/assura-lang/assura/pull/1496) in **assura-lang/assura**
+- [operator attune (0.1.22)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10752) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.22)](https://github.com/k8s-operatorhub/community-operators/pull/8956) in **k8s-operatorhub/community-operators**
+- [docs: add curated release notes for v0.4.0](https://github.com/patchloom/patchloom-vscode/pull/230) in **patchloom/patchloom-vscode**
+- [docs: polish curated release notes for v0.1.22](https://github.com/attune-io/attune/pull/518) in **attune-io/attune**
+- [docs: add release notes for v0.1.13](https://github.com/coolify-terraform/terraform-provider-coolify/pull/682) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

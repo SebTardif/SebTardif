@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: remove pure-listing unused error codes from SPEC and catalog](https://github.com/assura-lang/assura/pull/1496) in **assura-lang/assura**
+- [docs: dual-token RELEASE_NOTES cleanup for agents](https://github.com/assura-lang/assura/pull/1502) in **assura-lang/assura**
 - [operator attune (0.1.22)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10752) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.22)](https://github.com/k8s-operatorhub/community-operators/pull/8956) in **k8s-operatorhub/community-operators**
 - [docs: add curated release notes for v0.4.0](https://github.com/patchloom/patchloom-vscode/pull/230) in **patchloom/patchloom-vscode**

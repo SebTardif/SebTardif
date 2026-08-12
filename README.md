@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs(mcp): align MCPB/Glama messaging with Registry blurb](https://github.com/patchloom/patchloom/pull/2161) in **patchloom/patchloom**
+- [fix: peel remaining batch plan-shaped key= prefixes](https://github.com/patchloom/patchloom/pull/2164) in **patchloom/patchloom**
 - [docs: dual-token RELEASE_NOTES cleanup for agents](https://github.com/assura-lang/assura/pull/1502) in **assura-lang/assura**
 - [operator attune (0.1.22)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10752) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.22)](https://github.com/k8s-operatorhub/community-operators/pull/8956) in **k8s-operatorhub/community-operators**

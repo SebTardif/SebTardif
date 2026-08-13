@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test(acctest): skip 4.2+/4.3+ APIs on floor Coolify 4.1.2](https://github.com/coolify-terraform/terraform-provider-coolify/pull/697) in **coolify-terraform/terraform-provider-coolify**
+- [feat: coolify_notification_webhook and coolify_notification_pushover](https://github.com/coolify-terraform/terraform-provider-coolify/pull/705) in **coolify-terraform/terraform-provider-coolify**
+- [fix(http): stop SSE fallback from masking primary transport errors](https://github.com/openclaw/mcporter/pull/311) in **openclaw/mcporter**
 - [fix: peel remaining batch plan-shaped key= prefixes](https://github.com/patchloom/patchloom/pull/2164) in **patchloom/patchloom**
 - [Fix wasip1 accept(NULL) crash and emulated mmap leak on pread failure](https://github.com/WebAssembly/wasi-libc/pull/866) in **WebAssembly/wasi-libc**
 - [docs: dual-token RELEASE_NOTES cleanup for agents](https://github.com/assura-lang/assura/pull/1502) in **assura-lang/assura**
-- [operator attune (0.1.22)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10752) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.22)](https://github.com/k8s-operatorhub/community-operators/pull/8956) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

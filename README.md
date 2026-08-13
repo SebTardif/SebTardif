@@ -46,6 +46,7 @@
 <!-- RECENT-PRS-START -->
 - [feat: coolify_notification_webhook and coolify_notification_pushover](https://github.com/coolify-terraform/terraform-provider-coolify/pull/705) in **coolify-terraform/terraform-provider-coolify**
 - [fix(http): stop SSE fallback from masking primary transport errors](https://github.com/openclaw/mcporter/pull/311) in **openclaw/mcporter**
+- [util: create SSLKEYLOGFILE with owner-only permissions](https://github.com/rustls/rustls/pull/3208) in **rustls/rustls**
 - [fix: peel remaining batch plan-shaped key= prefixes](https://github.com/patchloom/patchloom/pull/2164) in **patchloom/patchloom**
 - [Fix wasip1 accept(NULL) crash and emulated mmap leak on pread failure](https://github.com/WebAssembly/wasi-libc/pull/866) in **WebAssembly/wasi-libc**
 - [docs: dual-token RELEASE_NOTES cleanup for agents](https://github.com/assura-lang/assura/pull/1502) in **assura-lang/assura**

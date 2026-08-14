@@ -44,11 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: share notification EventStore mock helpers across channels](https://github.com/coolify-terraform/terraform-provider-coolify/pull/718) in **coolify-terraform/terraform-provider-coolify**
+- [chore: advertise MSRV 1.85 and cover CLI JSON error paths](https://github.com/assura-lang/assura/pull/1503) in **assura-lang/assura**
+- [docs: add release notes for v0.1.14](https://github.com/coolify-terraform/terraform-provider-coolify/pull/736) in **coolify-terraform/terraform-provider-coolify**
 - [fix: restore replacement_text API + residual batch peels](https://github.com/patchloom/patchloom/pull/2166) in **patchloom/patchloom**
-- [fix(http): stop SSE fallback from masking primary transport errors](https://github.com/openclaw/mcporter/pull/311) in **openclaw/mcporter**
-- [util: create SSLKEYLOGFILE with owner-only permissions](https://github.com/rustls/rustls/pull/3208) in **rustls/rustls**
-- [Fix wasip1 accept(NULL) crash and emulated mmap leak on pread failure](https://github.com/WebAssembly/wasi-libc/pull/866) in **WebAssembly/wasi-libc**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

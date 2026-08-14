@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [feat(application): consistent container name docs and API parity acc depth](https://github.com/coolify-terraform/terraform-provider-coolify/pull/756) in **coolify-terraform/terraform-provider-coolify**
 - [chore: advertise MSRV 1.85 and cover CLI JSON error paths](https://github.com/assura-lang/assura/pull/1503) in **assura-lang/assura**
-- [docs: add release notes for v0.1.14](https://github.com/coolify-terraform/terraform-provider-coolify/pull/736) in **coolify-terraform/terraform-provider-coolify**
 - [fix: restore replacement_text API + residual batch peels](https://github.com/patchloom/patchloom/pull/2166) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 

@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat(application): consistent container name docs and API parity acc depth](https://github.com/coolify-terraform/terraform-provider-coolify/pull/756) in **coolify-terraform/terraform-provider-coolify**
+- [feat: enable Hetzner backups and cover DO/Vultr list clients](https://github.com/coolify-terraform/terraform-provider-coolify/pull/767) in **coolify-terraform/terraform-provider-coolify**
+- [fix(menu): bound menubar helper wait so a wedged helper cannot hang list](https://github.com/openclaw/Peekaboo/pull/475) in **openclaw/Peekaboo**
 - [chore: advertise MSRV 1.85 and cover CLI JSON error paths](https://github.com/assura-lang/assura/pull/1503) in **assura-lang/assura**
-- [fix(mcp): honor cancellation in ShellTool drain and reaper](https://github.com/openclaw/Peekaboo/pull/454) in **openclaw/Peekaboo**
-- [fix: restore replacement_text API + residual batch peels](https://github.com/patchloom/patchloom/pull/2166) in **patchloom/patchloom**
+- [Return is-directory when a directory fd is used as a file](https://github.com/bytecodealliance/wasmtime/pull/14135) in **bytecodealliance/wasmtime**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

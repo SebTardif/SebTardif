@@ -46,6 +46,7 @@
 <!-- RECENT-PRS-START -->
 - [feat(application): consistent container name docs and API parity acc depth](https://github.com/coolify-terraform/terraform-provider-coolify/pull/756) in **coolify-terraform/terraform-provider-coolify**
 - [chore: advertise MSRV 1.85 and cover CLI JSON error paths](https://github.com/assura-lang/assura/pull/1503) in **assura-lang/assura**
+- [fix(mcp): honor cancellation in ShellTool drain and reaper](https://github.com/openclaw/Peekaboo/pull/454) in **openclaw/Peekaboo**
 - [fix: restore replacement_text API + residual batch peels](https://github.com/patchloom/patchloom/pull/2166) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 

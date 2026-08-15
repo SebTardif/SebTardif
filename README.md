@@ -44,7 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: enable Hetzner backups and cover DO/Vultr list clients](https://github.com/coolify-terraform/terraform-provider-coolify/pull/767) in **coolify-terraform/terraform-provider-coolify**
+- [docs: add release notes for v0.1.15](https://github.com/coolify-terraform/terraform-provider-coolify/pull/772) in **coolify-terraform/terraform-provider-coolify**
+- [Close JAR InputStream when extracting native libraries](https://github.com/cvc5/cvc5/pull/12834) in **cvc5/cvc5**
+- [fix(lock): treat compromise-check I/O failure as a lost lock](https://github.com/openclaw/fs-safe/pull/134) in **openclaw/fs-safe**
 - [fix(menu): bound menubar helper wait so a wedged helper cannot hang list](https://github.com/openclaw/Peekaboo/pull/475) in **openclaw/Peekaboo**
 - [chore: advertise MSRV 1.85 and cover CLI JSON error paths](https://github.com/assura-lang/assura/pull/1503) in **assura-lang/assura**
 - [Return is-directory when a directory fd is used as a file](https://github.com/bytecodealliance/wasmtime/pull/14135) in **bytecodealliance/wasmtime**

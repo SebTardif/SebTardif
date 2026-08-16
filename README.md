@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [Add SebTardif to .contributors (CLA)](https://github.com/xerj-org/xerj/pull/418) in **xerj-org/xerj**
-- [fix(ui): disambiguate multi-account session labels](https://github.com/openclaw/openclaw/pull/124228) in **openclaw/openclaw**
-- [Fix CLN Integer fitsSignedInt lower bound and base-0 zero](https://github.com/cvc5/cvc5/pull/12835) in **cvc5/cvc5**
-- [docs: add release notes for v0.1.15](https://github.com/coolify-terraform/terraform-provider-coolify/pull/772) in **coolify-terraform/terraform-provider-coolify**
-- [fix(lock): treat compromise-check I/O failure as a lost lock](https://github.com/openclaw/fs-safe/pull/134) in **openclaw/fs-safe**
-- [fix(menu): bound menubar helper wait so a wedged helper cannot hang list](https://github.com/openclaw/Peekaboo/pull/475) in **openclaw/Peekaboo**
+- [feat: pin Coolify API contract to v4.3.3](https://github.com/coolify-terraform/terraform-provider-coolify/pull/777) in **coolify-terraform/terraform-provider-coolify**
+- [fix(acp): time out hung process-list helpers after terminal exit](https://github.com/openclaw/acpx/pull/501) in **openclaw/acpx**
+- [fix: do not leave ffmpeg stdin open](https://github.com/openclaw/rastermill/pull/3) in **openclaw/rastermill**
+- [fix(retrieval): cap workspace document reads](https://github.com/openclaw/ask-molty/pull/9) in **openclaw/ask-molty**
+- [fix(guard): bound OpenAI HTTP client and avoid DefaultTransport panic](https://github.com/openclaw/turnwire/pull/22) in **openclaw/turnwire**
+- [fix(vault): cap secret body reads](https://github.com/openclaw/crabhelm/pull/19) in **openclaw/crabhelm**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

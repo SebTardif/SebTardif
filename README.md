@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [Add SebTardif to .contributors (CLA)](https://github.com/xerj-org/xerj/pull/418) in **xerj-org/xerj**
+- [fix(ui): disambiguate multi-account session labels](https://github.com/openclaw/openclaw/pull/124228) in **openclaw/openclaw**
 - [Fix CLN Integer fitsSignedInt lower bound and base-0 zero](https://github.com/cvc5/cvc5/pull/12835) in **cvc5/cvc5**
 - [docs: add release notes for v0.1.15](https://github.com/coolify-terraform/terraform-provider-coolify/pull/772) in **coolify-terraform/terraform-provider-coolify**
 - [fix(lock): treat compromise-check I/O failure as a lost lock](https://github.com/openclaw/fs-safe/pull/134) in **openclaw/fs-safe**
 - [fix(menu): bound menubar helper wait so a wedged helper cannot hang list](https://github.com/openclaw/Peekaboo/pull/475) in **openclaw/Peekaboo**
-- [chore: advertise MSRV 1.85 and cover CLI JSON error paths](https://github.com/assura-lang/assura/pull/1503) in **assura-lang/assura**
-- [Return is-directory when a directory fd is used as a file](https://github.com/bytecodealliance/wasmtime/pull/14135) in **bytecodealliance/wasmtime**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix(e2b): stalled API host can hang sandbox create and inspect](https://github.com/openclaw/crabbox/pull/1371) in **openclaw/crabbox**
 - [docs: add release notes for v0.1.16](https://github.com/coolify-terraform/terraform-provider-coolify/pull/781) in **coolify-terraform/terraform-provider-coolify**
 - [ci: rebase behind Dependabot branches with git](https://github.com/assura-lang/assura/pull/1510) in **assura-lang/assura**
 - [fix(audio): distinguish realtime cancellation from timeout](https://github.com/openclaw/Tachikoma/pull/68) in **openclaw/Tachikoma**
 - [fix(autoindex): skip hidden names that are not valid UTF-8](https://github.com/xerj-org/xerj/pull/425) in **xerj-org/xerj**
 - [fix(acp): time out hung process-list helpers after terminal exit](https://github.com/openclaw/acpx/pull/501) in **openclaw/acpx**
-- [fix: do not leave ffmpeg stdin open](https://github.com/openclaw/rastermill/pull/3) in **openclaw/rastermill**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

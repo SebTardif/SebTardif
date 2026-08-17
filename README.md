@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(e2b): stalled API host can hang sandbox create and inspect](https://github.com/openclaw/crabbox/pull/1371) in **openclaw/crabbox**
+- [fix(http): stalled control plane can hang remaining providers](https://github.com/openclaw/crabbox/pull/1372) in **openclaw/crabbox**
 - [docs: add release notes for v0.1.16](https://github.com/coolify-terraform/terraform-provider-coolify/pull/781) in **coolify-terraform/terraform-provider-coolify**
 - [ci: rebase behind Dependabot branches with git](https://github.com/assura-lang/assura/pull/1510) in **assura-lang/assura**
 - [fix(audio): distinguish realtime cancellation from timeout](https://github.com/openclaw/Tachikoma/pull/68) in **openclaw/Tachikoma**

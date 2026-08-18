@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: reject Inf fleet savings and document jitter skip](https://github.com/attune-io/attune/pull/532) in **attune-io/attune**
+- [fix: harden fleet savings rollup and test assertions](https://github.com/attune-io/attune/pull/533) in **attune-io/attune**
 - [Honor context when loading ko.local base images](https://github.com/ko-build/ko/pull/1733) in **ko-build/ko**
 - [fix(http): stalled control plane can hang remaining providers](https://github.com/openclaw/crabbox/pull/1372) in **openclaw/crabbox**
 - [docs: add release notes for v0.1.16](https://github.com/coolify-terraform/terraform-provider-coolify/pull/781) in **coolify-terraform/terraform-provider-coolify**

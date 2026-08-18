@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: harden fleet savings rollup and test assertions](https://github.com/attune-io/attune/pull/533) in **attune-io/attune**
+- [operator attune (0.1.23)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10888) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.23)](https://github.com/k8s-operatorhub/community-operators/pull/9069) in **k8s-operatorhub/community-operators**
+- [docs: add release notes for v0.1.23](https://github.com/attune-io/attune/pull/534) in **attune-io/attune**
 - [Honor context when loading ko.local base images](https://github.com/ko-build/ko/pull/1733) in **ko-build/ko**
+- [:bug: fix(webhook): enforce cluster-scope when the profile is missing](https://github.com/PlatformRelay/Kollect/pull/304) in **PlatformRelay/Kollect**
 - [fix(http): stalled control plane can hang remaining providers](https://github.com/openclaw/crabbox/pull/1372) in **openclaw/crabbox**
-- [docs: add release notes for v0.1.16](https://github.com/coolify-terraform/terraform-provider-coolify/pull/781) in **coolify-terraform/terraform-provider-coolify**
-- [ci: rebase behind Dependabot branches with git](https://github.com/assura-lang/assura/pull/1510) in **assura-lang/assura**
-- [fix(audio): distinguish realtime cancellation from timeout](https://github.com/openclaw/Tachikoma/pull/68) in **openclaw/Tachikoma**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

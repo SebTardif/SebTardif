@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: peel for_each invalid globs as invalid_input](https://github.com/patchloom/patchloom/pull/2182) in **patchloom/patchloom**
-- [docs: add release notes for v0.1.17](https://github.com/coolify-terraform/terraform-provider-coolify/pull/797) in **coolify-terraform/terraform-provider-coolify**
+- [fix(batch): suggest file.create for bare creat typo](https://github.com/patchloom/patchloom/pull/2190) in **patchloom/patchloom**
+- [feat(notification): add smtp_ehlo_domain to email notifications](https://github.com/coolify-terraform/terraform-provider-coolify/pull/800) in **coolify-terraform/terraform-provider-coolify**
 - [fix(http): do not panic if DefaultTransport is replaced](https://github.com/openclaw/crabbox/pull/1401) in **openclaw/crabbox**
 - [operator attune (0.1.23)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10888) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.23)](https://github.com/k8s-operatorhub/community-operators/pull/9069) in **k8s-operatorhub/community-operators**

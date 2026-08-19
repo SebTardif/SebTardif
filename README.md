@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: dest-exists leftovers after patch dest helpers](https://github.com/patchloom/patchloom/pull/2179) in **patchloom/patchloom**
-- [fix: union Coolify allowlists and cover service PATCH](https://github.com/coolify-terraform/terraform-provider-coolify/pull/795) in **coolify-terraform/terraform-provider-coolify**
+- [fix: peel for_each invalid globs as invalid_input](https://github.com/patchloom/patchloom/pull/2182) in **patchloom/patchloom**
+- [docs: add release notes for v0.1.17](https://github.com/coolify-terraform/terraform-provider-coolify/pull/797) in **coolify-terraform/terraform-provider-coolify**
+- [fix(http): do not panic if DefaultTransport is replaced](https://github.com/openclaw/crabbox/pull/1401) in **openclaw/crabbox**
 - [operator attune (0.1.23)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10888) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.23)](https://github.com/k8s-operatorhub/community-operators/pull/9069) in **k8s-operatorhub/community-operators**
 - [docs: add release notes for v0.1.23](https://github.com/attune-io/attune/pull/534) in **attune-io/attune**
-- [Honor context when loading ko.local base images](https://github.com/ko-build/ko/pull/1733) in **ko-build/ko**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

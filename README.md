@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: lock exact replace bodies and bump rmcp](https://github.com/patchloom/patchloom/pull/2211) in **patchloom/patchloom**
+- [fix: sort backup sessions by recency not filename](https://github.com/patchloom/patchloom/pull/2215) in **patchloom/patchloom**
 - [feat(notification): add smtp_ehlo_domain to email notifications](https://github.com/coolify-terraform/terraform-provider-coolify/pull/800) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

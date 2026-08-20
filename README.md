@@ -44,12 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(batch): suggest file.create for bare creat typo](https://github.com/patchloom/patchloom/pull/2190) in **patchloom/patchloom**
+- [fix: do not add a blank line after apply-fragment --after](https://github.com/patchloom/patchloom/pull/2209) in **patchloom/patchloom**
 - [feat(notification): add smtp_ehlo_domain to email notifications](https://github.com/coolify-terraform/terraform-provider-coolify/pull/800) in **coolify-terraform/terraform-provider-coolify**
-- [fix(http): do not panic if DefaultTransport is replaced](https://github.com/openclaw/crabbox/pull/1401) in **openclaw/crabbox**
-- [operator attune (0.1.23)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10888) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.23)](https://github.com/k8s-operatorhub/community-operators/pull/9069) in **k8s-operatorhub/community-operators**
-- [docs: add release notes for v0.1.23](https://github.com/attune-io/attune/pull/534) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

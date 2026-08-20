@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: sort backup sessions by recency not filename](https://github.com/patchloom/patchloom/pull/2215) in **patchloom/patchloom**
+- [docs: add release notes for v0.29.0](https://github.com/patchloom/patchloom/pull/2216) in **patchloom/patchloom**
 - [feat(notification): add smtp_ehlo_domain to email notifications](https://github.com/coolify-terraform/terraform-provider-coolify/pull/800) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

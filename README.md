@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(see): fail MCP see when observation omits element detection](https://github.com/openclaw/Peekaboo/pull/563) in **openclaw/Peekaboo**
+- [fix: validate SMTP from-address and extract instance email FIELDS](https://github.com/coolify-terraform/terraform-provider-coolify/pull/805) in **coolify-terraform/terraform-provider-coolify**
+- [fix(capture): bound exclusive SCK flock wait](https://github.com/openclaw/Peekaboo/pull/599) in **openclaw/Peekaboo**
 - [docs: add release notes for v0.29.0](https://github.com/patchloom/patchloom/pull/2216) in **patchloom/patchloom**
-- [feat(notification): add smtp_ehlo_domain to email notifications](https://github.com/coolify-terraform/terraform-provider-coolify/pull/800) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

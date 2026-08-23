@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: validate SMTP from-address and extract instance email FIELDS](https://github.com/coolify-terraform/terraform-provider-coolify/pull/805) in **coolify-terraform/terraform-provider-coolify**
+- [docs: add release notes for v0.1.18](https://github.com/coolify-terraform/terraform-provider-coolify/pull/810) in **coolify-terraform/terraform-provider-coolify**
 - [fix(capture): bound exclusive SCK flock wait](https://github.com/openclaw/Peekaboo/pull/599) in **openclaw/Peekaboo**
 - [docs: add release notes for v0.29.0](https://github.com/patchloom/patchloom/pull/2216) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->

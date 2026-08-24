@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: match ignore prefixes after cwd canonicalize](https://github.com/craftbag/craftbag/pull/19) in **craftbag/craftbag**
+- [fix: resolve ignore prefixes against cwd and collapse ..](https://github.com/craftbag/craftbag/pull/20) in **craftbag/craftbag**
 - [fix: default helm image tag to bare appVersion](https://github.com/attune-io/attune/pull/554) in **attune-io/attune**
+- [fix: copy non-UTF-8 config files as binary](https://github.com/Tunnelblick/Tunnelblick/pull/915) in **Tunnelblick/Tunnelblick**
 - [operator attune (0.1.24)](https://github.com/k8s-operatorhub/community-operators/pull/9096) in **k8s-operatorhub/community-operators**
 - [fix(ci): do not App-push empty commit on cleanup PRs](https://github.com/assura-lang/assura/pull/1521) in **assura-lang/assura**
 - [docs: add release notes for v0.30.0](https://github.com/patchloom/patchloom/pull/2240) in **patchloom/patchloom**

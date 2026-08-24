@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: lock SEARCH/REPLACE detect and mcp-setup honesty](https://github.com/patchloom/patchloom/pull/2225) in **patchloom/patchloom**
+- [fix(smt): snapshot compound old() as pre-state](https://github.com/assura-lang/assura/pull/1514) in **assura-lang/assura**
+- [test: lock comparison predicates on tx, MCP, and batch writes](https://github.com/patchloom/patchloom/pull/2237) in **patchloom/patchloom**
+- [fix: prefix helm default image tag with v](https://github.com/attune-io/attune/pull/547) in **attune-io/attune**
 - [fix: wait for social preview confirm before leaving Settings](https://github.com/coolify-terraform/terraform-provider-coolify/pull/817) in **coolify-terraform/terraform-provider-coolify**
-- [test: count gitops CreateOrUpdate after merge](https://github.com/attune-io/attune/pull/540) in **attune-io/attune**
 - [fix: escape easy-rsa path before embedding it in AppleScript](https://github.com/Tunnelblick/Tunnelblick/pull/911) in **Tunnelblick/Tunnelblick**
-- [fix(capture): bound exclusive SCK flock wait](https://github.com/openclaw/Peekaboo/pull/599) in **openclaw/Peekaboo**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

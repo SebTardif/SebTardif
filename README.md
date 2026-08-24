@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(smt): snapshot compound old() as pre-state](https://github.com/assura-lang/assura/pull/1514) in **assura-lang/assura**
-- [test: lock comparison predicates on tx, MCP, and batch writes](https://github.com/patchloom/patchloom/pull/2237) in **patchloom/patchloom**
-- [fix: prefix helm default image tag with v](https://github.com/attune-io/attune/pull/547) in **attune-io/attune**
-- [fix: wait for social preview confirm before leaving Settings](https://github.com/coolify-terraform/terraform-provider-coolify/pull/817) in **coolify-terraform/terraform-provider-coolify**
-- [fix: escape easy-rsa path before embedding it in AppleScript](https://github.com/Tunnelblick/Tunnelblick/pull/911) in **Tunnelblick/Tunnelblick**
+- [fix: match ignore prefixes after cwd canonicalize](https://github.com/craftbag/craftbag/pull/19) in **craftbag/craftbag**
+- [fix: default helm image tag to bare appVersion](https://github.com/attune-io/attune/pull/554) in **attune-io/attune**
+- [operator attune (0.1.24)](https://github.com/k8s-operatorhub/community-operators/pull/9096) in **k8s-operatorhub/community-operators**
+- [fix(ci): do not App-push empty commit on cleanup PRs](https://github.com/assura-lang/assura/pull/1521) in **assura-lang/assura**
+- [docs: add release notes for v0.30.0](https://github.com/patchloom/patchloom/pull/2240) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

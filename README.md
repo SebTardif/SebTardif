@@ -44,12 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: resolve ignore prefixes against cwd and collapse ..](https://github.com/craftbag/craftbag/pull/20) in **craftbag/craftbag**
-- [fix: default helm image tag to bare appVersion](https://github.com/attune-io/attune/pull/554) in **attune-io/attune**
+- [fix: treat named root-file skips as skipped, not unknown](https://github.com/craftbag/craftbag/pull/32) in **craftbag/craftbag**
+- [ci: bump golangci-lint and govulncheck for go 1.27](https://github.com/attune-io/attune/pull/563) in **attune-io/attune**
 - [fix: copy non-UTF-8 config files as binary](https://github.com/Tunnelblick/Tunnelblick/pull/915) in **Tunnelblick/Tunnelblick**
 - [operator attune (0.1.24)](https://github.com/k8s-operatorhub/community-operators/pull/9096) in **k8s-operatorhub/community-operators**
-- [fix(ci): do not App-push empty commit on cleanup PRs](https://github.com/assura-lang/assura/pull/1521) in **assura-lang/assura**
-- [docs: add release notes for v0.30.0](https://github.com/patchloom/patchloom/pull/2240) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

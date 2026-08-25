@@ -44,10 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: treat named root-file skips as skipped, not unknown](https://github.com/craftbag/craftbag/pull/32) in **craftbag/craftbag**
-- [ci: bump golangci-lint and govulncheck for go 1.27](https://github.com/attune-io/attune/pull/563) in **attune-io/attune**
-- [fix: copy non-UTF-8 config files as binary](https://github.com/Tunnelblick/Tunnelblick/pull/915) in **Tunnelblick/Tunnelblick**
-- [operator attune (0.1.24)](https://github.com/k8s-operatorhub/community-operators/pull/9096) in **k8s-operatorhub/community-operators**
+- [fix: report extra-path FIFO SKILL.md as unreadable](https://github.com/craftbag/craftbag/pull/58) in **craftbag/craftbag**
+- [fix: per-app canary seed and remaining cooldown requeue](https://github.com/attune-io/attune/pull/572) in **attune-io/attune**
+- [fix: bound the helper DNS flush so a wedged child cannot hang it](https://github.com/GeiserX/VPN-Bypass/pull/93) in **GeiserX/VPN-Bypass**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

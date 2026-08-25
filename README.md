@@ -44,10 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: keep local gate and workspace MSRV aligned with hosted CI](https://github.com/craftbag/craftbag/pull/86) in **craftbag/craftbag**
-- [fix: grant status patch rbac and add csv output](https://github.com/attune-io/attune/pull/581) in **attune-io/attune**
+- [fix: name recommendations csv last column honestly](https://github.com/attune-io/attune/pull/586) in **attune-io/attune**
+- [test: keep pre-90 why JSON invocation flag defaults](https://github.com/craftbag/craftbag/pull/93) in **craftbag/craftbag**
 - [fix(doc): nth-index YAML mapping aliases that share a key](https://github.com/patchloom/patchloom/pull/2247) in **patchloom/patchloom**
-- [fix: log a timeout when the DMG installer wait hits 30s](https://github.com/Tunnelblick/Tunnelblick/pull/918) in **Tunnelblick/Tunnelblick**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

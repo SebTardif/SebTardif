@@ -44,9 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: name recommendations csv last column honestly](https://github.com/attune-io/attune/pull/586) in **attune-io/attune**
-- [test: keep pre-90 why JSON invocation flag defaults](https://github.com/craftbag/craftbag/pull/93) in **craftbag/craftbag**
-- [fix(doc): nth-index YAML mapping aliases that share a key](https://github.com/patchloom/patchloom/pull/2247) in **patchloom/patchloom**
+- [fix: keep load envelope metadata on one line](https://github.com/craftbag/craftbag/pull/126) in **craftbag/craftbag**
+- [operator attune (0.1.25)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/10949) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.25)](https://github.com/k8s-operatorhub/community-operators/pull/9110) in **k8s-operatorhub/community-operators**
+- [docs: add release notes for v0.1.25](https://github.com/attune-io/attune/pull/590) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

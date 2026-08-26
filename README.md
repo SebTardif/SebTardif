@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: treat Unicode whitespace as YAML indent](https://github.com/craftbag/craftbag/pull/179) in **craftbag/craftbag**
-- [chore(deps): bump yaml-edit to 0.3](https://github.com/patchloom/patchloom/pull/2252) in **patchloom/patchloom**
+- [docs: drop stale catalog-as-SkillSummary host note](https://github.com/craftbag/craftbag/pull/209) in **craftbag/craftbag**
+- [test(doc): lock yaml CST expand splice and resize shrink bodies](https://github.com/patchloom/patchloom/pull/2257) in **patchloom/patchloom**
+- [ci: retry cert-manager apply after k3s apiserver bounce](https://github.com/attune-io/attune/pull/593) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

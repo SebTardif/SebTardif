@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: reject present-null YAML invocation booleans](https://github.com/craftbag/craftbag/pull/151) in **craftbag/craftbag**
+- [fix: treat Unicode whitespace as YAML indent](https://github.com/craftbag/craftbag/pull/179) in **craftbag/craftbag**
+- [chore(deps): bump yaml-edit to 0.3](https://github.com/patchloom/patchloom/pull/2252) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

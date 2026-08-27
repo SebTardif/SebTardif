@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: langs marks catalog ids without a runner](https://github.com/honepad/honepad/pull/47) in **honepad/honepad**
-- [ci: lock deny.toml allow list to used licenses](https://github.com/craftbag/craftbag/pull/253) in **craftbag/craftbag**
+- [test: drop leftover-path souvenir tests and unused-export locks](https://github.com/craftbag/craftbag/pull/295) in **craftbag/craftbag**
+- [fix(cli): limit dest-parent classify to create and rename](https://github.com/patchloom/patchloom/pull/2259) in **patchloom/patchloom**
+- [feat: langs header prints runner count](https://github.com/honepad/honepad/pull/79) in **honepad/honepad**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,9 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: drop leftover-path souvenir tests and unused-export locks](https://github.com/craftbag/craftbag/pull/295) in **craftbag/craftbag**
-- [fix(cli): limit dest-parent classify to create and rename](https://github.com/patchloom/patchloom/pull/2259) in **patchloom/patchloom**
-- [feat: langs header prints runner count](https://github.com/honepad/honepad/pull/79) in **honepad/honepad**
+- [fix: share one --version probe on activation](https://github.com/patchloom/patchloom-vscode/pull/240) in **patchloom/patchloom-vscode**
+- [fix: time out looping python work the same as adapters](https://github.com/honepad/honepad/pull/86) in **honepad/honepad**
+- [fix: do not hide extra/wanted behind leftover extra/skills/SKILL.md](https://github.com/craftbag/craftbag/pull/301) in **craftbag/craftbag**
+- [docs: add release notes for v0.31.0](https://github.com/patchloom/patchloom/pull/2260) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

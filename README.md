@@ -44,12 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [chore(release): 0.1.1](https://github.com/craftbag/craftbag/pull/331) in **craftbag/craftbag**
-- [feat: effectiveContextTokens 4k/8k/16k stop-on-fail](https://github.com/canact/canact/pull/10) in **canact/canact**
-- [fix: YAML alias splice dump and proto kind aliases](https://github.com/patchloom/patchloom/pull/2265) in **patchloom/patchloom**
-- [fix: keep run from unlocking the next level](https://github.com/honepad/honepad/pull/102) in **honepad/honepad**
-- [docs: add release notes for v0.1.19](https://github.com/coolify-terraform/terraform-provider-coolify/pull/822) in **coolify-terraform/terraform-provider-coolify**
-- [docs: add release notes for v0.6.0](https://github.com/patchloom/patchloom-vscode/pull/258) in **patchloom/patchloom-vscode**
+- [fix: merge Java and Python unlock methods into the named class](https://github.com/honepad/honepad/pull/114) in **honepad/honepad**
+- [fix: empty multi-turn args and empty token_efficiency stay Weak](https://github.com/canact/canact/pull/35) in **canact/canact**
+- [feat: load SKILL.md outline and heading sections](https://github.com/craftbag/craftbag/pull/333) in **craftbag/craftbag**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

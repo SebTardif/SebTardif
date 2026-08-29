@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: merge Java and Python unlock methods into the named class](https://github.com/honepad/honepad/pull/114) in **honepad/honepad**
-- [fix: empty multi-turn args and empty token_efficiency stay Weak](https://github.com/canact/canact/pull/35) in **canact/canact**
+- [fix: empty json and imprecise tool_selection stay Medium](https://github.com/canact/canact/pull/38) in **canact/canact**
+- [feat: color practice specs and show menu keys on the banner](https://github.com/honepad/honepad/pull/115) in **honepad/honepad**
 - [feat: load SKILL.md outline and heading sections](https://github.com/craftbag/craftbag/pull/333) in **craftbag/craftbag**
 <!-- RECENT-PRS-END -->
 

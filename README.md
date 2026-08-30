@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: close practice-desk fail and hostile-work holes](https://github.com/honepad/honepad/pull/131) in **honepad/honepad**
+- [fix: skip quoted braces on unlock and name compiled timeouts](https://github.com/honepad/honepad/pull/132) in **honepad/honepad**
 - [fix: do not persist truncated incomplete tool calls as Medium](https://github.com/canact/canact/pull/88) in **canact/canact**
 - [fix(cli): honor cancel during crabbox code reconnect sleeps](https://github.com/openclaw/crabbox/pull/1645) in **openclaw/crabbox**
 <!-- RECENT-PRS-END -->

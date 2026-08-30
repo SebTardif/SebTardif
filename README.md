@@ -44,10 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: treat nested XML param/value cards as echo](https://github.com/canact/canact/pull/71) in **canact/canact**
+- [fix: keep Python load errors when work prints first](https://github.com/honepad/honepad/pull/125) in **honepad/honepad**
 - [fix(doc): write empty {} after expanding a merge-only site](https://github.com/patchloom/patchloom/pull/2273) in **patchloom/patchloom**
-- [fix: do not treat prose ---/+++/@@ as a unified diff](https://github.com/canact/canact/pull/47) in **canact/canact**
-- [fix: show LEVEL and confirm console submit](https://github.com/honepad/honepad/pull/121) in **honepad/honepad**
-- [fix(webvnc): bound websocket handshake headers](https://github.com/openclaw/crabbox/pull/1629) in **openclaw/crabbox**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

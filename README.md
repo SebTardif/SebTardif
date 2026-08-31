@@ -44,9 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: close practice-desk unlock, clock, and submit holes](https://github.com/honepad/honepad/pull/134) in **honepad/honepad**
-- [fix: instruction_following Strong requires the asked capital](https://github.com/canact/canact/pull/91) in **canact/canact**
+- [fix: reject remaining script-lang constructor fake pass reports](https://github.com/honepad/honepad/pull/139) in **honepad/honepad**
+- [fix: cap max_tools at 20 for 0.33 Medium tool selection](https://github.com/canact/canact/pull/92) in **canact/canact**
 - [fix(cli): honor cancel during crabbox code reconnect sleeps](https://github.com/openclaw/crabbox/pull/1645) in **openclaw/crabbox**
+- [fix: abort hung session avatar, Access certs, and local login fetches](https://github.com/openclaw/clawrouter/pull/121) in **openclaw/clawrouter**
+- [fix(serve): do not overwrite unreadable config with defaults](https://github.com/openclaw/Swabble/pull/10) in **openclaw/Swabble**
+- [fix(index): stop AddNote hang when notes is not a directory](https://github.com/openclaw/clawdex/pull/10) in **openclaw/clawdex**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

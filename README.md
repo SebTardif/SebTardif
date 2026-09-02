@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: pin memory maxallowed in version-aware limit e2e](https://github.com/attune-io/attune/pull/613) in **attune-io/attune**
 - [test(doc): lock fail-closed YAML and empty get root](https://github.com/patchloom/patchloom/pull/2286) in **patchloom/patchloom**
-- [fix: skip stale recs on remaining apply paths](https://github.com/attune-io/attune/pull/611) in **attune-io/attune**
 - [fix: treat last-level reruns as tests](https://github.com/honepad/honepad/pull/142) in **honepad/honepad**
 - [fix(cli): keep agent exec run errors when cleanup fails](https://github.com/openclaw/openclaw/pull/135273) in **openclaw/openclaw**
 - [test(application): write max_restart_count in V43 settings acc](https://github.com/coolify-terraform/terraform-provider-coolify/pull/830) in **coolify-terraform/terraform-provider-coolify**

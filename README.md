@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: skip stale rec display and bound k3d e2e cleanup](https://github.com/attune-io/attune/pull/609) in **attune-io/attune**
-- [fix(doc): keep YAML CST empties and lock agent write honesty](https://github.com/patchloom/patchloom/pull/2281) in **patchloom/patchloom**
+- [test(doc): lock fail-closed YAML and empty get root](https://github.com/patchloom/patchloom/pull/2286) in **patchloom/patchloom**
+- [fix: skip stale recs on remaining apply paths](https://github.com/attune-io/attune/pull/611) in **attune-io/attune**
+- [fix: treat last-level reruns as tests](https://github.com/honepad/honepad/pull/142) in **honepad/honepad**
 - [fix(cli): keep agent exec run errors when cleanup fails](https://github.com/openclaw/openclaw/pull/135273) in **openclaw/openclaw**
 - [test(application): write max_restart_count in V43 settings acc](https://github.com/coolify-terraform/terraform-provider-coolify/pull/830) in **coolify-terraform/terraform-provider-coolify**
 - [fix: do not replace a sequence root in Document::insert_at_index](https://github.com/jelmer/yaml-edit/pull/79) in **jelmer/yaml-edit**
-- [fix: reject remaining script-lang constructor fake pass reports](https://github.com/honepad/honepad/pull/139) in **honepad/honepad**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

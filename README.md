@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(api): follow symlink targets on content patches](https://github.com/patchloom/patchloom/pull/2293) in **patchloom/patchloom**
-- [fix: bound stale reuse, fix cloudwatch search, and allow private gitops](https://github.com/attune-io/attune/pull/620) in **attune-io/attune**
-- [fix: last-level Replay refresh and fail-closed submit](https://github.com/honepad/honepad/pull/144) in **honepad/honepad**
+- [fix: do not immediately revert a resize for transient notready](https://github.com/attune-io/attune/pull/627) in **attune-io/attune**
+- [docs: add release notes for v0.32.0](https://github.com/patchloom/patchloom/pull/2295) in **patchloom/patchloom**
+- [fix: cover remaining bank public-trace holes](https://github.com/honepad/honepad/pull/146) in **honepad/honepad**
+- [fix(repair): time out hung issue-status ingest fetches](https://github.com/openclaw/clawsweeper/pull/1361) in **openclaw/clawsweeper**
 - [fix(drive): reject repeated page tokens in audit permission listing](https://github.com/openclaw/gogcli/pull/1066) in **openclaw/gogcli**
-- [fix(cli): keep agent exec run errors when cleanup fails](https://github.com/openclaw/openclaw/pull/135273) in **openclaw/openclaw**
-- [test(application): write max_restart_count in V43 settings acc](https://github.com/coolify-terraform/terraform-provider-coolify/pull/830) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

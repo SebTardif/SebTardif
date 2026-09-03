@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: do not immediately revert a resize for transient notready](https://github.com/attune-io/attune/pull/627) in **attune-io/attune**
-- [docs: add release notes for v0.32.0](https://github.com/patchloom/patchloom/pull/2295) in **patchloom/patchloom**
+- [fix(api): honest empty-hunk delete dest peels](https://github.com/patchloom/patchloom/pull/2301) in **patchloom/patchloom**
+- [fix: YAML quotes, fenced headings, MCP peel, and install docs](https://github.com/craftbag/craftbag/pull/347) in **craftbag/craftbag**
+- [test: make e2e assertions fail when the named feature is broken](https://github.com/attune-io/attune/pull/642) in **attune-io/attune**
 - [fix: cover remaining bank public-trace holes](https://github.com/honepad/honepad/pull/146) in **honepad/honepad**
+- [fix(daytona): bound control-plane HTTP requests](https://github.com/openclaw/crabbox/pull/1750) in **openclaw/crabbox**
 - [fix(repair): time out hung issue-status ingest fetches](https://github.com/openclaw/clawsweeper/pull/1361) in **openclaw/clawsweeper**
-- [fix(drive): reject repeated page tokens in audit permission listing](https://github.com/openclaw/gogcli/pull/1066) in **openclaw/gogcli**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

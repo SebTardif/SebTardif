@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: accept wrapped typed defs and close leftover refusals](https://github.com/canact/canact/pull/123) in **canact/canact**
+- [fix: leftover lecture verbs, refusals, and trailing-dot cloud hosts](https://github.com/canact/canact/pull/126) in **canact/canact**
 - [fix: help must name key 2 the way the menu does](https://github.com/honepad/honepad/pull/150) in **honepad/honepad**
 - [test: cover exclusive datadog and cloudwatch metrics sources](https://github.com/attune-io/attune/pull/650) in **attune-io/attune**
 - [chore(release): 0.1.2](https://github.com/craftbag/craftbag/pull/348) in **craftbag/craftbag**

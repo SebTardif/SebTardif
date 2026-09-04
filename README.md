@@ -44,12 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: export Aider/Cline overlays and MCP probe_model](https://github.com/canact/canact/pull/99) in **canact/canact**
-- [fix: keep bank call timestamps from going backward](https://github.com/honepad/honepad/pull/147) in **honepad/honepad**
-- [test: assert live restore on revert and resize direction on pause workloads](https://github.com/attune-io/attune/pull/644) in **attune-io/attune**
-- [fix(api): honest empty-hunk delete dest peels](https://github.com/patchloom/patchloom/pull/2301) in **patchloom/patchloom**
-- [fix: YAML quotes, fenced headings, MCP peel, and install docs](https://github.com/craftbag/craftbag/pull/347) in **craftbag/craftbag**
-- [fix(daytona): bound control-plane HTTP requests](https://github.com/openclaw/crabbox/pull/1750) in **openclaw/crabbox**
+- [fix: grade honest stream, cache, and probe edges](https://github.com/canact/canact/pull/118) in **canact/canact**
+- [test: stop naming concurrent-resize as a live concurrency bound](https://github.com/attune-io/attune/pull/649) in **attune-io/attune**
+- [chore(release): 0.1.2](https://github.com/craftbag/craftbag/pull/348) in **craftbag/craftbag**
+- [feat: readable console and declarative language packs](https://github.com/honepad/honepad/pull/149) in **honepad/honepad**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

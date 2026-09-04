@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: leftover lecture verbs, refusals, and trailing-dot cloud hosts](https://github.com/canact/canact/pull/126) in **canact/canact**
-- [fix: help must name key 2 the way the menu does](https://github.com/honepad/honepad/pull/150) in **honepad/honepad**
-- [test: cover exclusive datadog and cloudwatch metrics sources](https://github.com/attune-io/attune/pull/650) in **attune-io/attune**
-- [chore(release): 0.1.2](https://github.com/craftbag/craftbag/pull/348) in **craftbag/craftbag**
+- [fix: fill Ollama advertised context and catalog vision](https://github.com/canact/canact/pull/135) in **canact/canact**
+- [test: wait for both containers in sequential resize e2e](https://github.com/attune-io/attune/pull/657) in **attune-io/attune**
+- [fix: show the clock, not a seconds count](https://github.com/honepad/honepad/pull/154) in **honepad/honepad**
+- [docs: run Getting started from the demo tree](https://github.com/craftbag/craftbag/pull/350) in **craftbag/craftbag**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

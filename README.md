@@ -44,9 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: fill Ollama advertised context and catalog vision](https://github.com/canact/canact/pull/135) in **canact/canact**
-- [test: wait for both containers in sequential resize e2e](https://github.com/attune-io/attune/pull/657) in **attune-io/attune**
-- [fix: show the clock, not a seconds count](https://github.com/honepad/honepad/pull/154) in **honepad/honepad**
+- [ci: ignore cvc5 0.5+ in Dependabot](https://github.com/assura-lang/assura/pull/1535) in **assura-lang/assura**
+- [docs(brand): persist canact.svg as the mark source](https://github.com/canact/canact/pull/139) in **canact/canact**
+- [feat(application): expose computed domain_port_overrides](https://github.com/coolify-terraform/terraform-provider-coolify/pull/832) in **coolify-terraform/terraform-provider-coolify**
+- [fix: cut extra live Gets on safety observation and neighbor lists](https://github.com/attune-io/attune/pull/661) in **attune-io/attune**
+- [fix: Enter keeps the menu in view instead of scrolling it away](https://github.com/honepad/honepad/pull/155) in **honepad/honepad**
 - [docs: run Getting started from the demo tree](https://github.com/craftbag/craftbag/pull/350) in **craftbag/craftbag**
 <!-- RECENT-PRS-END -->
 

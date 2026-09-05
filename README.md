@@ -44,10 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: align CONTRIBUTING gate with CI codegen and conventional titles](https://github.com/assura-lang/assura/pull/1559) in **assura-lang/assura**
-- [ci: give github-cicd scenario suite 35m for deploy retry](https://github.com/coolify-terraform/terraform-provider-coolify/pull/833) in **coolify-terraform/terraform-provider-coolify**
-- [docs(brand): enlarge canact.svg so the mark fills the frame](https://github.com/canact/canact/pull/140) in **canact/canact**
-- [fix: cut extra live Gets on safety observation and neighbor lists](https://github.com/attune-io/attune/pull/661) in **attune-io/attune**
+- [fix: preview domain writes, create-only dockerfile, and safer diagnostics](https://github.com/coolify-terraform/terraform-provider-coolify/pull/835) in **coolify-terraform/terraform-provider-coolify**
+- [ci: add zizmor to workflow-sanity without failing the gate](https://github.com/attune-io/attune/pull/666) in **attune-io/attune**
+- [fix: point Source footer at openclaw/butter.bot](https://github.com/openclaw/butter.bot/pull/2) in **openclaw/butter.bot**
+- [docs: add release notes for v0.4.4](https://github.com/assura-lang/assura/pull/1563) in **assura-lang/assura**
+- [fix(ui): recover failed Appearance saves](https://github.com/openclaw/openclaw/pull/139167) in **openclaw/openclaw**
+- [operator attune (0.1.26)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11087) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

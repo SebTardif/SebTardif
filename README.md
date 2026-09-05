@@ -44,12 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: ignore cvc5 0.5+ in Dependabot](https://github.com/assura-lang/assura/pull/1535) in **assura-lang/assura**
-- [docs(brand): persist canact.svg as the mark source](https://github.com/canact/canact/pull/139) in **canact/canact**
-- [feat(application): expose computed domain_port_overrides](https://github.com/coolify-terraform/terraform-provider-coolify/pull/832) in **coolify-terraform/terraform-provider-coolify**
+- [docs: align CONTRIBUTING gate with CI codegen and conventional titles](https://github.com/assura-lang/assura/pull/1559) in **assura-lang/assura**
+- [ci: give github-cicd scenario suite 35m for deploy retry](https://github.com/coolify-terraform/terraform-provider-coolify/pull/833) in **coolify-terraform/terraform-provider-coolify**
+- [docs(brand): enlarge canact.svg so the mark fills the frame](https://github.com/canact/canact/pull/140) in **canact/canact**
 - [fix: cut extra live Gets on safety observation and neighbor lists](https://github.com/attune-io/attune/pull/661) in **attune-io/attune**
-- [fix: Enter keeps the menu in view instead of scrolling it away](https://github.com/honepad/honepad/pull/155) in **honepad/honepad**
-- [docs: run Getting started from the demo tree](https://github.com/craftbag/craftbag/pull/350) in **craftbag/craftbag**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

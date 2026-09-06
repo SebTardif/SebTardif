@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix(files): match --glob case-insensitively on Windows](https://github.com/patchloom/patchloom/pull/2309) in **patchloom/patchloom**
+- [chore: finish stealth-safe pre-public leftovers](https://github.com/canact/canact/pull/143) in **canact/canact**
 - [docs: add release notes for v0.1.20](https://github.com/coolify-terraform/terraform-provider-coolify/pull/838) in **coolify-terraform/terraform-provider-coolify**
 - [fix: persist startup-boost annotation and cap defaults maxallowed](https://github.com/attune-io/attune/pull/669) in **attune-io/attune**
 - [fix(memory): report relevant extra-path read errors](https://github.com/openclaw/openclaw/pull/139402) in **openclaw/openclaw**
 - [fix: point Source footer at openclaw/butter.bot](https://github.com/openclaw/butter.bot/pull/2) in **openclaw/butter.bot**
-- [docs: add release notes for v0.4.4](https://github.com/assura-lang/assura/pull/1563) in **assura-lang/assura**
-- [operator attune (0.1.26)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11087) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

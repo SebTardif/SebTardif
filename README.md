@@ -46,9 +46,9 @@
 <!-- RECENT-PRS-START -->
 - [docs: add release notes for v0.1.20](https://github.com/coolify-terraform/terraform-provider-coolify/pull/838) in **coolify-terraform/terraform-provider-coolify**
 - [fix: persist startup-boost annotation and cap defaults maxallowed](https://github.com/attune-io/attune/pull/669) in **attune-io/attune**
+- [fix(memory): report relevant extra-path read errors](https://github.com/openclaw/openclaw/pull/139402) in **openclaw/openclaw**
 - [fix: point Source footer at openclaw/butter.bot](https://github.com/openclaw/butter.bot/pull/2) in **openclaw/butter.bot**
 - [docs: add release notes for v0.4.4](https://github.com/assura-lang/assura/pull/1563) in **assura-lang/assura**
-- [fix(ui): recover failed Appearance saves](https://github.com/openclaw/openclaw/pull/139167) in **openclaw/openclaw**
 - [operator attune (0.1.26)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11087) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->
 

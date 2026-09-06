@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: preview domain writes, create-only dockerfile, and safer diagnostics](https://github.com/coolify-terraform/terraform-provider-coolify/pull/835) in **coolify-terraform/terraform-provider-coolify**
-- [ci: add zizmor to workflow-sanity without failing the gate](https://github.com/attune-io/attune/pull/666) in **attune-io/attune**
+- [docs: add release notes for v0.1.20](https://github.com/coolify-terraform/terraform-provider-coolify/pull/838) in **coolify-terraform/terraform-provider-coolify**
+- [fix: persist startup-boost annotation and cap defaults maxallowed](https://github.com/attune-io/attune/pull/669) in **attune-io/attune**
 - [fix: point Source footer at openclaw/butter.bot](https://github.com/openclaw/butter.bot/pull/2) in **openclaw/butter.bot**
 - [docs: add release notes for v0.4.4](https://github.com/assura-lang/assura/pull/1563) in **assura-lang/assura**
 - [fix(ui): recover failed Appearance saves](https://github.com/openclaw/openclaw/pull/139167) in **openclaw/openclaw**

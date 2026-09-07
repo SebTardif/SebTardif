@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(files): match --glob case-insensitively on Windows](https://github.com/patchloom/patchloom/pull/2309) in **patchloom/patchloom**
+- [fix(replace): treat regex $ as a CRLF line end like search](https://github.com/patchloom/patchloom/pull/2326) in **patchloom/patchloom**
 - [chore: finish stealth-safe pre-public leftovers](https://github.com/canact/canact/pull/143) in **canact/canact**
 - [docs: add release notes for v0.1.20](https://github.com/coolify-terraform/terraform-provider-coolify/pull/838) in **coolify-terraform/terraform-provider-coolify**
 - [fix: persist startup-boost annotation and cap defaults maxallowed](https://github.com/attune-io/attune/pull/669) in **attune-io/attune**

@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(cli): dest-glob recursive locks, walk cap, and miss/plan messages](https://github.com/patchloom/patchloom/pull/2370) in **patchloom/patchloom**
-- [ci: badges, OpenSSF, FOSSA, cargo-fuzz, and cargo-dist](https://github.com/canact/canact/pull/148) in **canact/canact**
+- [fix: route MCP keys by provider](https://github.com/canact/canact/pull/155) in **canact/canact**
+- [fix(api): honor charset on tidy WritePolicyOptions](https://github.com/patchloom/patchloom/pull/2373) in **patchloom/patchloom**
 - [fix: live-get pod before Infeasible eviction](https://github.com/attune-io/attune/pull/673) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 

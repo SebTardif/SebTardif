@@ -44,7 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(write): honor EditorConfig charset utf-8-bom](https://github.com/patchloom/patchloom/pull/2358) in **patchloom/patchloom**
+- [fix(cli): dest-glob recursive locks, walk cap, and miss/plan messages](https://github.com/patchloom/patchloom/pull/2370) in **patchloom/patchloom**
+- [ci: badges, OpenSSF, FOSSA, cargo-fuzz, and cargo-dist](https://github.com/canact/canact/pull/148) in **canact/canact**
+- [fix: live-get pod before Infeasible eviction](https://github.com/attune-io/attune/pull/673) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

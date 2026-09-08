@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: Claude 401 does not refresh-fallback; named MCP env skips catalog](https://github.com/canact/canact/pull/160) in **canact/canact**
-- [fix: fail restore that reuses the backup map](https://github.com/honepad/honepad/pull/159) in **honepad/honepad**
+- [fix: keep console submit and switch honest after TIME UP](https://github.com/honepad/honepad/pull/161) in **honepad/honepad**
+- [ci: apply curated notes from a release-note branch](https://github.com/canact/canact/pull/164) in **canact/canact**
+- [chore(deps): pin fast-uri and qs to clear npm audit](https://github.com/patchloom/patchloom-vscode/pull/264) in **patchloom/patchloom-vscode**
+- [docs: add release notes for v0.33.0](https://github.com/patchloom/patchloom/pull/2375) in **patchloom/patchloom**
 - [feat(import): add opt-in Apple avatar size limits](https://github.com/openclaw/clawdex/pull/21) in **openclaw/clawdex**
-- [fix(write): keep a leading BOM outside indent and dedent](https://github.com/patchloom/patchloom/pull/2374) in **patchloom/patchloom**
-- [fix: stop tdata forum topic pagination hang](https://github.com/openclaw/telecrawl/pull/35) in **openclaw/telecrawl**
-- [fix(stream): keep answers flowing on malformed GitHub blob percents](https://github.com/openclaw/ask-molty/pull/20) in **openclaw/ask-molty**
+- [fix(ci): set timeout-minutes on ClawSweeper dispatch](https://github.com/openclaw/clawgrit-reports/pull/2) in **openclaw/clawgrit-reports**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

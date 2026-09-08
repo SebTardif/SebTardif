@@ -44,9 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: route MCP keys by provider](https://github.com/canact/canact/pull/155) in **canact/canact**
-- [fix(api): honor charset on tidy WritePolicyOptions](https://github.com/patchloom/patchloom/pull/2373) in **patchloom/patchloom**
-- [fix: live-get pod before Infeasible eviction](https://github.com/attune-io/attune/pull/673) in **attune-io/attune**
+- [test: Claude 401 does not refresh-fallback; named MCP env skips catalog](https://github.com/canact/canact/pull/160) in **canact/canact**
+- [fix: fail restore that reuses the backup map](https://github.com/honepad/honepad/pull/159) in **honepad/honepad**
+- [feat(import): add opt-in Apple avatar size limits](https://github.com/openclaw/clawdex/pull/21) in **openclaw/clawdex**
+- [fix(write): keep a leading BOM outside indent and dedent](https://github.com/patchloom/patchloom/pull/2374) in **patchloom/patchloom**
+- [fix: stop tdata forum topic pagination hang](https://github.com/openclaw/telecrawl/pull/35) in **openclaw/telecrawl**
+- [fix(stream): keep answers flowing on malformed GitHub blob percents](https://github.com/openclaw/ask-molty/pull/20) in **openclaw/ask-molty**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

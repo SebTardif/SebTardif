@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [chore: bump dirs from 6 to 7](https://github.com/canact/canact/pull/168) in **canact/canact**
-- [feat: align extension with patchloom CLI 0.33.0](https://github.com/patchloom/patchloom-vscode/pull/265) in **patchloom/patchloom-vscode**
-- [fix: do not restart a dead clock on a no-op switch](https://github.com/honepad/honepad/pull/163) in **honepad/honepad**
+- [feat: constrain the vision reply to two letters or NONE](https://github.com/canact/canact/pull/196) in **canact/canact**
+- [ci: notes-branch releases and cheap release-please ci](https://github.com/attune-io/attune/pull/675) in **attune-io/attune**
+- [fix: do not create a vscode workspace on reset or unlock](https://github.com/honepad/honepad/pull/165) in **honepad/honepad**
+- [ci: slim release-please heads and stop compiling on main](https://github.com/patchloom/patchloom-vscode/pull/267) in **patchloom/patchloom-vscode**
 - [docs: add release notes for v0.33.0](https://github.com/patchloom/patchloom/pull/2375) in **patchloom/patchloom**
-- [feat(import): add opt-in Apple avatar size limits](https://github.com/openclaw/clawdex/pull/21) in **openclaw/clawdex**
-- [fix(ci): set timeout-minutes on ClawSweeper dispatch](https://github.com/openclaw/clawgrit-reports/pull/2) in **openclaw/clawgrit-reports**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

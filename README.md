@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep console submit and switch honest after TIME UP](https://github.com/honepad/honepad/pull/161) in **honepad/honepad**
-- [ci: apply curated notes from a release-note branch](https://github.com/canact/canact/pull/164) in **canact/canact**
-- [chore(deps): pin fast-uri and qs to clear npm audit](https://github.com/patchloom/patchloom-vscode/pull/264) in **patchloom/patchloom-vscode**
+- [chore: bump dirs from 6 to 7](https://github.com/canact/canact/pull/168) in **canact/canact**
+- [feat: align extension with patchloom CLI 0.33.0](https://github.com/patchloom/patchloom-vscode/pull/265) in **patchloom/patchloom-vscode**
+- [fix: do not restart a dead clock on a no-op switch](https://github.com/honepad/honepad/pull/163) in **honepad/honepad**
 - [docs: add release notes for v0.33.0](https://github.com/patchloom/patchloom/pull/2375) in **patchloom/patchloom**
 - [feat(import): add opt-in Apple avatar size limits](https://github.com/openclaw/clawdex/pull/21) in **openclaw/clawdex**
 - [fix(ci): set timeout-minutes on ClawSweeper dispatch](https://github.com/openclaw/clawgrit-reports/pull/2) in **openclaw/clawgrit-reports**

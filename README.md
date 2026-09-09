@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [test: assert persist template fields and exact usage floors](https://github.com/attune-io/attune/pull/681) in **attune-io/attune**
+- [test: lock runner output-cap wiring and human vs json placement](https://github.com/canact/canact/pull/207) in **canact/canact**
 - [fix: resolve python prefix to python3 on start](https://github.com/honepad/honepad/pull/177) in **honepad/honepad**
-- [fix: persist template after hold and stale current](https://github.com/attune-io/attune/pull/680) in **attune-io/attune**
-- [fix: keep 0.2 host-policy fields honest](https://github.com/canact/canact/pull/206) in **canact/canact**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

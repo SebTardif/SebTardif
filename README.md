@@ -44,10 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: GitHub Pages book and GPG-signed tags](https://github.com/canact/canact/pull/203) in **canact/canact**
-- [fix: prefer live pod state for floor, skip, and last-replica eviction](https://github.com/attune-io/attune/pull/677) in **attune-io/attune**
-- [chore: add quiet community and supply-chain files](https://github.com/honepad/honepad/pull/168) in **honepad/honepad**
-- [ci: slim release-please heads and stop compiling on main](https://github.com/patchloom/patchloom-vscode/pull/267) in **patchloom/patchloom-vscode**
+- [fix: resolve python prefix to python3 on start](https://github.com/honepad/honepad/pull/177) in **honepad/honepad**
+- [fix: persist template after hold and stale current](https://github.com/attune-io/attune/pull/680) in **attune-io/attune**
+- [fix: keep 0.2 host-policy fields honest](https://github.com/canact/canact/pull/206) in **canact/canact**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

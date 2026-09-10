@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: oneshot walk past blocked first replica](https://github.com/attune-io/attune/pull/684) in **attune-io/attune**
-- [fix: leftover unknown session lang points at start --reset](https://github.com/honepad/honepad/pull/178) in **honepad/honepad**
-- [fix(server_proxy): keep planned configuration on apply](https://github.com/coolify-terraform/terraform-provider-coolify/pull/844) in **coolify-terraform/terraform-provider-coolify**
+- [fix: keep safety revert running during namespace freeze](https://github.com/attune-io/attune/pull/686) in **attune-io/attune**
+- [feat: add load_balancer public-practice problem](https://github.com/honepad/honepad/pull/192) in **honepad/honepad**
+- [fix(backup): keep create-error state valid and fail 5xx acc probes](https://github.com/coolify-terraform/terraform-provider-coolify/pull/851) in **coolify-terraform/terraform-provider-coolify**
 - [test: lock runner output-cap wiring and human vs json placement](https://github.com/canact/canact/pull/207) in **canact/canact**
 <!-- RECENT-PRS-END -->
 

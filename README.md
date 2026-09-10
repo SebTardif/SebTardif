@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: extra-pack pubsub and text_editor for 36 runners](https://github.com/honepad/honepad/pull/197) in **honepad/honepad**
+- [test: pin extra-desk last-level NEXT and picker](https://github.com/honepad/honepad/pull/198) in **honepad/honepad**
 - [fix: match clamped revert target for safety restore retry](https://github.com/attune-io/attune/pull/688) in **attune-io/attune**
 - [fix(ci): one social-preview reminder and skip test-only nags](https://github.com/coolify-terraform/terraform-provider-coolify/pull/855) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->

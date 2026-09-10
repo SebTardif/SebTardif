@@ -44,8 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: pin extra-desk last-level NEXT and picker](https://github.com/honepad/honepad/pull/198) in **honepad/honepad**
-- [fix: match clamped revert target for safety restore retry](https://github.com/attune-io/attune/pull/688) in **attune-io/attune**
+- [feat: hidden traces for levels 2 and 3](https://github.com/honepad/honepad/pull/221) in **honepad/honepad**
+- [test: assert write stream on converged resize and persist](https://github.com/attune-io/attune/pull/705) in **attune-io/attune**
+- [fix(files): fill 8 KiB binary probe through short reads](https://github.com/patchloom/patchloom/pull/2397) in **patchloom/patchloom**
+- [ci: drop leftover cleanup-PR notes helper](https://github.com/assura-lang/assura/pull/1568) in **assura-lang/assura**
 - [fix(ci): one social-preview reminder and skip test-only nags](https://github.com/coolify-terraform/terraform-provider-coolify/pull/855) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

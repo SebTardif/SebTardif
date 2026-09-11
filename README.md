@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: cap hpa dest leftover from applied cpu](https://github.com/attune-io/attune/pull/727) in **attune-io/attune**
-- [fix(ast): scan cwd and share stem match for reverse deps](https://github.com/patchloom/patchloom/pull/2420) in **patchloom/patchloom**
-- [ci: sync Cargo.lock on release-please PRs](https://github.com/workpen/workpen/pull/36) in **workpen/workpen**
-- [chore: drop unused sys import in check-human-gate](https://github.com/honepad/honepad/pull/246) in **honepad/honepad**
-- [feat(proxy): keep stream:true for Grok always-SSE](https://github.com/wiremuxhq/wiremux/pull/15) in **wiremuxhq/wiremux**
-- [fix(smt): wrap Int/Nat arithmetic at 64-bit](https://github.com/assura-lang/assura/pull/1589) in **assura-lang/assura**
+- [fix(file): peel whitespace-only create content](https://github.com/patchloom/patchloom/pull/2430) in **patchloom/patchloom**
+- [feat: Gemini streamGenerateContent URL for SSE](https://github.com/wiremuxhq/wiremux/pull/21) in **wiremuxhq/wiremux**
+- [feat: launch honepad 0.1.0](https://github.com/honepad/honepad/pull/248) in **honepad/honepad**
+- [fix: dest-deny fixtures, check_dest NUL/special, junction test](https://github.com/workpen/workpen/pull/46) in **workpen/workpen**
+- [docs: wrap-safe overflow guards in cookbook and examples](https://github.com/assura-lang/assura/pull/1594) in **assura-lang/assura**
+- [ci: fall back to vendored cert-manager manifest on download 500](https://github.com/attune-io/attune/pull/733) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

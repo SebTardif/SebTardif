@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: dest-deny check_dest and verify_post_open](https://github.com/workpen/workpen/pull/11) in **workpen/workpen**
-- [fix: library dest guard, parse timeout, and notes-branch delete](https://github.com/patchloom/patchloom/pull/2411) in **patchloom/patchloom**
-- [fix: keep submit debrief honest after hidden fail](https://github.com/honepad/honepad/pull/234) in **honepad/honepad**
-- [feat: name safety lifecycle and retry v1.32 resize verify](https://github.com/attune-io/attune/pull/711) in **attune-io/attune**
-- [ci(vscode): bump extension job to Node 22](https://github.com/assura-lang/assura/pull/1570) in **assura-lang/assura**
-- [chore: point agents at the design path](https://github.com/wiremuxhq/wiremux/pull/2) in **wiremuxhq/wiremux**
+- [fix: cap hpa dest leftover from applied cpu](https://github.com/attune-io/attune/pull/727) in **attune-io/attune**
+- [fix(ast): scan cwd and share stem match for reverse deps](https://github.com/patchloom/patchloom/pull/2420) in **patchloom/patchloom**
+- [ci: sync Cargo.lock on release-please PRs](https://github.com/workpen/workpen/pull/36) in **workpen/workpen**
+- [chore: drop unused sys import in check-human-gate](https://github.com/honepad/honepad/pull/246) in **honepad/honepad**
+- [feat(proxy): keep stream:true for Grok always-SSE](https://github.com/wiremuxhq/wiremux/pull/15) in **wiremuxhq/wiremux**
+- [fix(smt): wrap Int/Nat arithmetic at 64-bit](https://github.com/assura-lang/assura/pull/1589) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

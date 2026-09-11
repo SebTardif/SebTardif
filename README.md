@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: hidden traces for levels 2 and 3](https://github.com/honepad/honepad/pull/221) in **honepad/honepad**
-- [test: assert write stream on converged resize and persist](https://github.com/attune-io/attune/pull/705) in **attune-io/attune**
-- [fix(files): fill 8 KiB binary probe through short reads](https://github.com/patchloom/patchloom/pull/2397) in **patchloom/patchloom**
-- [ci: drop leftover cleanup-PR notes helper](https://github.com/assura-lang/assura/pull/1568) in **assura-lang/assura**
-- [fix(ci): one social-preview reminder and skip test-only nags](https://github.com/coolify-terraform/terraform-provider-coolify/pull/855) in **coolify-terraform/terraform-provider-coolify**
+- [feat: dest-deny check_dest and verify_post_open](https://github.com/workpen/workpen/pull/11) in **workpen/workpen**
+- [fix: library dest guard, parse timeout, and notes-branch delete](https://github.com/patchloom/patchloom/pull/2411) in **patchloom/patchloom**
+- [fix: keep submit debrief honest after hidden fail](https://github.com/honepad/honepad/pull/234) in **honepad/honepad**
+- [feat: name safety lifecycle and retry v1.32 resize verify](https://github.com/attune-io/attune/pull/711) in **attune-io/attune**
+- [ci(vscode): bump extension job to Node 22](https://github.com/assura-lang/assura/pull/1570) in **assura-lang/assura**
+- [chore: point agents at the design path](https://github.com/wiremuxhq/wiremux/pull/2) in **wiremuxhq/wiremux**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

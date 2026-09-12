@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: read Go and C++ reports from a nonce file](https://github.com/honepad/honepad/pull/267) in **honepad/honepad**
-- [fix(auth): keep wire fallback off shipped presets](https://github.com/wiremuxhq/wiremux/pull/50) in **wiremuxhq/wiremux**
-- [fix(path-guard): deny broken out-of-tree symlinks and grant presented extra-roots](https://github.com/workpen/workpen/pull/72) in **workpen/workpen**
-- [chore(release): 0.2.0](https://github.com/craftbag/craftbag/pull/371) in **craftbag/craftbag**
+- [fix(stream): fan-out Chat/Responses and Gemini json_schema](https://github.com/wiremuxhq/wiremux/pull/56) in **wiremuxhq/wiremux**
+- [docs: pin README library dep to 0.2](https://github.com/craftbag/craftbag/pull/372) in **craftbag/craftbag**
+- [fix(cli): canonicalize why --root like run](https://github.com/workpen/workpen/pull/73) in **workpen/workpen**
+- [test: make Go report-file tests fail on the real cheat](https://github.com/honepad/honepad/pull/268) in **honepad/honepad**
 - [test(ast): lock public or_timeout peels in embedder-smoke](https://github.com/patchloom/patchloom/pull/2451) in **patchloom/patchloom**
 - [operator attune (0.1.27)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11164) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->

@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(dest-deny): name matching glob or hardlink sibling](https://github.com/workpen/workpen/pull/70) in **workpen/workpen**
-- [fix: reject compiled fake-pass reports and accept C# JS TS tokens](https://github.com/honepad/honepad/pull/265) in **honepad/honepad**
-- [feat: own remaining LLM TokenProviders and cache floor](https://github.com/wiremuxhq/wiremux/pull/48) in **wiremuxhq/wiremux**
+- [fix: read Go and C++ reports from a nonce file](https://github.com/honepad/honepad/pull/267) in **honepad/honepad**
+- [fix(auth): keep wire fallback off shipped presets](https://github.com/wiremuxhq/wiremux/pull/50) in **wiremuxhq/wiremux**
+- [fix(path-guard): deny broken out-of-tree symlinks and grant presented extra-roots](https://github.com/workpen/workpen/pull/72) in **workpen/workpen**
 - [chore(release): 0.2.0](https://github.com/craftbag/craftbag/pull/371) in **craftbag/craftbag**
 - [test(ast): lock public or_timeout peels in embedder-smoke](https://github.com/patchloom/patchloom/pull/2451) in **patchloom/patchloom**
 - [operator attune (0.1.27)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11164) in **redhat-openshift-ecosystem/community-operators-prod**

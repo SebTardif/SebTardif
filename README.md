@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(maps): Gemini tool_choice and leftover stream holes](https://github.com/wiremuxhq/wiremux/pull/58) in **wiremuxhq/wiremux**
+- [fix(maps): Chat o-series decode and consume helper errors](https://github.com/wiremuxhq/wiremux/pull/61) in **wiremuxhq/wiremux**
+- [fix: abort unknown-model 400 and log refresh merge errors](https://github.com/canact/canact/pull/208) in **canact/canact**
+- [docs: add chip-cloud social preview](https://github.com/honepad/honepad/pull/269) in **honepad/honepad**
 - [docs: pin README library dep to 0.2](https://github.com/craftbag/craftbag/pull/372) in **craftbag/craftbag**
 - [fix(cli): canonicalize why --root like run](https://github.com/workpen/workpen/pull/73) in **workpen/workpen**
-- [test: make Go report-file tests fail on the real cheat](https://github.com/honepad/honepad/pull/268) in **honepad/honepad**
 - [test(ast): lock public or_timeout peels in embedder-smoke](https://github.com/patchloom/patchloom/pull/2451) in **patchloom/patchloom**
-- [operator attune (0.1.27)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11164) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

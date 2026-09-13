@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(stream): fan-out Chat/Responses and Gemini json_schema](https://github.com/wiremuxhq/wiremux/pull/56) in **wiremuxhq/wiremux**
+- [fix(maps): Gemini tool_choice and leftover stream holes](https://github.com/wiremuxhq/wiremux/pull/58) in **wiremuxhq/wiremux**
 - [docs: pin README library dep to 0.2](https://github.com/craftbag/craftbag/pull/372) in **craftbag/craftbag**
 - [fix(cli): canonicalize why --root like run](https://github.com/workpen/workpen/pull/73) in **workpen/workpen**
 - [test: make Go report-file tests fail on the real cheat](https://github.com/honepad/honepad/pull/268) in **honepad/honepad**

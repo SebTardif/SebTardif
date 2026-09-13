@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix(deny): fail-closed Windows hardlink when names < nlink](https://github.com/workpen/workpen/pull/74) in **workpen/workpen**
 - [fix(maps): Chat o-series decode and consume helper errors](https://github.com/wiremuxhq/wiremux/pull/61) in **wiremuxhq/wiremux**
 - [fix: abort unknown-model 400 and log refresh merge errors](https://github.com/canact/canact/pull/208) in **canact/canact**
 - [docs: add chip-cloud social preview](https://github.com/honepad/honepad/pull/269) in **honepad/honepad**
 - [docs: pin README library dep to 0.2](https://github.com/craftbag/craftbag/pull/372) in **craftbag/craftbag**
-- [fix(cli): canonicalize why --root like run](https://github.com/workpen/workpen/pull/73) in **workpen/workpen**
 - [test(ast): lock public or_timeout peels in embedder-smoke](https://github.com/patchloom/patchloom/pull/2451) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 

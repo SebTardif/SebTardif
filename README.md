@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: fix gitleaks pin and Trusted Publishing caller](https://github.com/wiremuxhq/wiremux/pull/87) in **wiremuxhq/wiremux**
-- [docs: bump test count to 1650+ and clarify make test](https://github.com/coolify-terraform/terraform-provider-coolify/pull/862) in **coolify-terraform/terraform-provider-coolify**
-- [ci: refuse unpublished crates before crates.io OIDC](https://github.com/workpen/workpen/pull/107) in **workpen/workpen**
-- [fix: do not send OPENAI_API_KEY to xAI or Anthropic hosts](https://github.com/canact/canact/pull/213) in **canact/canact**
-- [ci: rebase behind dependabot prs with app token](https://github.com/attune-io/attune/pull/749) in **attune-io/attune**
-- [ci: poll for Dependabot stubs after GITHUB_TOKEN rebase](https://github.com/assura-lang/assura/pull/1600) in **assura-lang/assura**
+- [fix: print advertised window and unprobed vision in human table](https://github.com/canact/canact/pull/225) in **canact/canact**
+- [fix(deny): peel cmd/pwsh flags and keep Windows dest-deny ACEs](https://github.com/workpen/workpen/pull/118) in **workpen/workpen**
+- [fix: try login account before shipped keychain names](https://github.com/wiremuxhq/wiremux/pull/96) in **wiremuxhq/wiremux**
+- [ci: expand e2e matrix to kubernetes 1.36 and 1.37](https://github.com/attune-io/attune/pull/751) in **attune-io/attune**
+- [feat: pin Coolify v4.3.19 and fix GitHub/GitLab App updates](https://github.com/coolify-terraform/terraform-provider-coolify/pull/863) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

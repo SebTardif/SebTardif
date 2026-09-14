@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(maps): emit Anthropic thinking on Messages](https://github.com/wiremuxhq/wiremux/pull/70) in **wiremuxhq/wiremux**
-- [fix(deny): dest-deny attached -lc script bodies](https://github.com/workpen/workpen/pull/84) in **workpen/workpen**
+- [fix(client): Responses text, stream 200 errors, oat Bearer](https://github.com/wiremuxhq/wiremux/pull/79) in **wiremuxhq/wiremux**
+- [ci: poll for Dependabot stubs after GITHUB_TOKEN rebase](https://github.com/assura-lang/assura/pull/1600) in **assura-lang/assura**
+- [ci: replace channel-watch issue on pin or target change](https://github.com/coolify-terraform/terraform-provider-coolify/pull/859) in **coolify-terraform/terraform-provider-coolify**
+- [fix(cli): resolve extra-root from cwd and dest-deny env leftovers](https://github.com/workpen/workpen/pull/85) in **workpen/workpen**
 - [fix: abort unknown-model 400 and log refresh merge errors](https://github.com/canact/canact/pull/208) in **canact/canact**
 - [docs: add chip-cloud social preview](https://github.com/honepad/honepad/pull/269) in **honepad/honepad**
-- [docs: pin README library dep to 0.2](https://github.com/craftbag/craftbag/pull/372) in **craftbag/craftbag**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,10 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat(deny): dest-deny cmd/powershell bodies after wrappers](https://github.com/workpen/workpen/pull/106) in **workpen/workpen**
-- [feat: consume wiremux 0.2.1 for LLM connect](https://github.com/canact/canact/pull/211) in **canact/canact**
-- [docs: point consume attach at crates.io 0.2.1](https://github.com/wiremuxhq/wiremux/pull/85) in **wiremuxhq/wiremux**
-- [ci: skip acceptance tests on generic script changes](https://github.com/coolify-terraform/terraform-provider-coolify/pull/861) in **coolify-terraform/terraform-provider-coolify**
+- [ci: fix gitleaks pin and Trusted Publishing caller](https://github.com/wiremuxhq/wiremux/pull/87) in **wiremuxhq/wiremux**
+- [docs: bump test count to 1650+ and clarify make test](https://github.com/coolify-terraform/terraform-provider-coolify/pull/862) in **coolify-terraform/terraform-provider-coolify**
+- [ci: refuse unpublished crates before crates.io OIDC](https://github.com/workpen/workpen/pull/107) in **workpen/workpen**
+- [fix: do not send OPENAI_API_KEY to xAI or Anthropic hosts](https://github.com/canact/canact/pull/213) in **canact/canact**
+- [ci: rebase behind dependabot prs with app token](https://github.com/attune-io/attune/pull/749) in **attune-io/attune**
 - [ci: poll for Dependabot stubs after GITHUB_TOKEN rebase](https://github.com/assura-lang/assura/pull/1600) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 

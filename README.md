@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [feat: consume wiremux 0.4.0](https://github.com/canact/canact/pull/228) in **canact/canact**
+- [fix: hold omitted vpa target resources instead of treating them as zero](https://github.com/attune-io/attune/pull/770) in **attune-io/attune**
 - [fix: map non-stream Chat bodies to all client wires](https://github.com/wiremuxhq/wiremux/pull/113) in **wiremuxhq/wiremux**
-- [fix: skip envelope e2e when live pods have no spec.resources](https://github.com/attune-io/attune/pull/769) in **attune-io/attune**
-- [feat: use Grok login when XAI_API_KEY is unset](https://github.com/canact/canact/pull/227) in **canact/canact**
 - [feat(cli): bound workpen run with --timeout](https://github.com/workpen/workpen/pull/121) in **workpen/workpen**
 - [fix(cache): reject SnapshotFile names that escape CacheDir](https://github.com/openclaw/crawlkit/pull/134) in **openclaw/crawlkit**
-- [fix(markdown): reject person and index symlink I/O](https://github.com/openclaw/clawdex/pull/40) in **openclaw/clawdex**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

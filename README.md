@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: Protocol slot, login hints, and proxy body cap](https://github.com/wiremuxhq/wiremux/pull/112) in **wiremuxhq/wiremux**
-- [fix: harden vpa source and hpa idle edges](https://github.com/attune-io/attune/pull/767) in **attune-io/attune**
+- [fix: map non-stream Chat bodies to all client wires](https://github.com/wiremuxhq/wiremux/pull/113) in **wiremuxhq/wiremux**
+- [fix: skip envelope e2e when live pods have no spec.resources](https://github.com/attune-io/attune/pull/769) in **attune-io/attune**
 - [feat: use Grok login when XAI_API_KEY is unset](https://github.com/canact/canact/pull/227) in **canact/canact**
 - [feat(cli): bound workpen run with --timeout](https://github.com/workpen/workpen/pull/121) in **workpen/workpen**
 - [fix(cache): reject SnapshotFile names that escape CacheDir](https://github.com/openclaw/crawlkit/pull/134) in **openclaw/crawlkit**

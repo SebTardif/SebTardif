@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(sentinel): seed custom URL on import and harden CI notify](https://github.com/coolify-terraform/terraform-provider-coolify/pull/888) in **coolify-terraform/terraform-provider-coolify**
-- [fix: send same-dialect proxy stream errors as SSE data frames](https://github.com/wiremuxhq/wiremux/pull/136) in **wiremuxhq/wiremux**
-- [fix: show vpa and hpa list blocks in kubectl attune status](https://github.com/attune-io/attune/pull/775) in **attune-io/attune**
-- [fix: treat MCP GROK_API_KEY as the xAI family](https://github.com/canact/canact/pull/229) in **canact/canact**
+- [feat: mark Wire non-exhaustive and honor Converse tool none](https://github.com/wiremuxhq/wiremux/pull/144) in **wiremuxhq/wiremux**
+- [ci: do not close channel watch on fetch failures](https://github.com/coolify-terraform/terraform-provider-coolify/pull/892) in **coolify-terraform/terraform-provider-coolify**
+- [fix: read Grok Build context_window in catalog helper](https://github.com/canact/canact/pull/231) in **canact/canact**
+- [fix: classify oomkill without a later finishedat](https://github.com/attune-io/attune/pull/777) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep Converse mixed assistant text with toolUse](https://github.com/wiremuxhq/wiremux/pull/127) in **wiremuxhq/wiremux**
+- [fix(sentinel): seed custom URL on import and harden CI notify](https://github.com/coolify-terraform/terraform-provider-coolify/pull/888) in **coolify-terraform/terraform-provider-coolify**
+- [fix: send same-dialect proxy stream errors as SSE data frames](https://github.com/wiremuxhq/wiremux/pull/136) in **wiremuxhq/wiremux**
 - [fix: show vpa and hpa list blocks in kubectl attune status](https://github.com/attune-io/attune/pull/775) in **attune-io/attune**
-- [fix: omit-after-set flatten, ssl_mode preserve, and review follow-ups](https://github.com/coolify-terraform/terraform-provider-coolify/pull/883) in **coolify-terraform/terraform-provider-coolify**
 - [fix: treat MCP GROK_API_KEY as the xAI family](https://github.com/canact/canact/pull/229) in **canact/canact**
 <!-- RECENT-PRS-END -->
 

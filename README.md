@@ -44,12 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat(aws): resolve SSO, credential_process, ECS, and IMDS](https://github.com/wiremuxhq/wiremux/pull/167) in **wiremuxhq/wiremux**
+- [fix: abort when vendor chat says model not found](https://github.com/canact/canact/pull/245) in **canact/canact**
+- [fix: dest Messages path model in message_start and unary JSON](https://github.com/wiremuxhq/wiremux/pull/184) in **wiremuxhq/wiremux**
+- [fix: fail-closed create and boost apply paths](https://github.com/attune-io/attune/pull/781) in **attune-io/attune**
 - [feat: align extension with patchloom CLI 0.34.0](https://github.com/patchloom/patchloom-vscode/pull/273) in **patchloom/patchloom-vscode**
-- [fix: time out scala bootstrap and clojure help probe](https://github.com/honepad/honepad/pull/275) in **honepad/honepad**
-- [docs: add v0.1.27 to v0.1.28 upgrading section](https://github.com/attune-io/attune/pull/778) in **attune-io/attune**
-- [docs: pin library Cargo examples at 0.5](https://github.com/canact/canact/pull/232) in **canact/canact**
-- [operator attune (0.1.28)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11202) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: dest Chat user reaches Chat](https://github.com/wiremuxhq/wiremux/pull/194) in **wiremuxhq/wiremux**
+- [fix: append /v1 to Ollama listen URLs](https://github.com/canact/canact/pull/255) in **canact/canact**
+- [test: poll metrics-endpoint for registered controller series](https://github.com/attune-io/attune/pull/784) in **attune-io/attune**
 - [fix(tidy): stage scan bytes and refuse stale disk](https://github.com/patchloom/patchloom/pull/2496) in **patchloom/patchloom**
-- [fix: dest Gemini responseSchema reaches Chat json_schema](https://github.com/wiremuxhq/wiremux/pull/190) in **wiremuxhq/wiremux**
-- [fix: treat multimodal refusal as measured Weak vision](https://github.com/canact/canact/pull/249) in **canact/canact**
-- [fix: fail-closed create and boost apply paths](https://github.com/attune-io/attune/pull/781) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

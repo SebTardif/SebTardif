@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: abort when vendor chat says model not found](https://github.com/canact/canact/pull/245) in **canact/canact**
-- [fix: dest Messages path model in message_start and unary JSON](https://github.com/wiremuxhq/wiremux/pull/184) in **wiremuxhq/wiremux**
+- [fix(tidy): stage scan bytes and refuse stale disk](https://github.com/patchloom/patchloom/pull/2496) in **patchloom/patchloom**
+- [fix: dest Gemini responseSchema reaches Chat json_schema](https://github.com/wiremuxhq/wiremux/pull/190) in **wiremuxhq/wiremux**
+- [fix: treat multimodal refusal as measured Weak vision](https://github.com/canact/canact/pull/249) in **canact/canact**
 - [fix: fail-closed create and boost apply paths](https://github.com/attune-io/attune/pull/781) in **attune-io/attune**
-- [feat: align extension with patchloom CLI 0.34.0](https://github.com/patchloom/patchloom-vscode/pull/273) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

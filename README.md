@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat(doc): add --if-exists to CLI doc set](https://github.com/patchloom/patchloom/pull/2556) in **patchloom/patchloom**
-- [fix: dest Messages metadata.user_id reaches Chat user](https://github.com/wiremuxhq/wiremux/pull/199) in **wiremuxhq/wiremux**
+- [feat: md/doc include-walk, AST CLI mutators, and plan tree cache](https://github.com/patchloom/patchloom/pull/2559) in **patchloom/patchloom**
+- [fix: dest Gemini responseFormat and parametersJsonSchema reach Chat](https://github.com/wiremuxhq/wiremux/pull/204) in **wiremuxhq/wiremux**
 - [fix: trim whitespace on explicit --base-url before host routing](https://github.com/canact/canact/pull/257) in **canact/canact**
 - [test: poll metrics-endpoint for registered controller series](https://github.com/attune-io/attune/pull/784) in **attune-io/attune**
 <!-- RECENT-PRS-END -->

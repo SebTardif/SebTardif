@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: md/doc include-walk, AST CLI mutators, and plan tree cache](https://github.com/patchloom/patchloom/pull/2559) in **patchloom/patchloom**
-- [fix: dest Gemini responseFormat and parametersJsonSchema reach Chat](https://github.com/wiremuxhq/wiremux/pull/204) in **wiremuxhq/wiremux**
+- [docs: embedder host no longer says rename refuses directories](https://github.com/patchloom/patchloom/pull/2563) in **patchloom/patchloom**
+- [fix: dest Converse requestMetadata reaches Chat metadata](https://github.com/wiremuxhq/wiremux/pull/207) in **wiremuxhq/wiremux**
+- [fix: refuse /1 catch-alls at the helper and in rule.add](https://github.com/GeiserX/VPN-Bypass/pull/108) in **GeiserX/VPN-Bypass**
 - [fix: trim whitespace on explicit --base-url before host routing](https://github.com/canact/canact/pull/257) in **canact/canact**
 - [test: poll metrics-endpoint for registered controller series](https://github.com/attune-io/attune/pull/784) in **attune-io/attune**
 <!-- RECENT-PRS-END -->

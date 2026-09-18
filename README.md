@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: dest Gemini responseModalities and speechConfig reach Chat](https://github.com/wiremuxhq/wiremux/pull/212) in **wiremuxhq/wiremux**
-- [fix: preserve extended resources and close resize apply gaps](https://github.com/attune-io/attune/pull/800) in **attune-io/attune**
-- [fix(wrap): fail closed on Linux dest-deny remount errors](https://github.com/workpen/workpen/pull/125) in **workpen/workpen**
-- [docs: embedder host no longer says rename refuses directories](https://github.com/patchloom/patchloom/pull/2563) in **patchloom/patchloom**
-- [fix: refuse /1 catch-alls at the helper and in rule.add](https://github.com/GeiserX/VPN-Bypass/pull/108) in **GeiserX/VPN-Bypass**
-- [fix: trim whitespace on explicit --base-url before host routing](https://github.com/canact/canact/pull/257) in **canact/canact**
+- [feat: expose TransientKind on ClientError](https://github.com/wiremuxhq/wiremux/pull/221) in **wiremuxhq/wiremux**
+- [fix: honor agent.lock in gc and dest-deny pwsh stdin dash](https://github.com/workpen/workpen/pull/129) in **workpen/workpen**
+- [fix(cli): do not panic when completions stdout is a closed pipe](https://github.com/patchloom/patchloom/pull/2577) in **patchloom/patchloom**
+- [docs: pin library Cargo examples at 0.7](https://github.com/canact/canact/pull/260) in **canact/canact**
+- [fix: emit oneshot envelope skip when every replica is blocked](https://github.com/attune-io/attune/pull/817) in **attune-io/attune**
+- [feat: align extension with patchloom CLI 0.35.0](https://github.com/patchloom/patchloom-vscode/pull/275) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

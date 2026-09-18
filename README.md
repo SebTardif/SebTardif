@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: dest Gemini responseModalities and speechConfig reach Chat](https://github.com/wiremuxhq/wiremux/pull/212) in **wiremuxhq/wiremux**
+- [fix: preserve extended resources and close resize apply gaps](https://github.com/attune-io/attune/pull/800) in **attune-io/attune**
+- [fix(wrap): fail closed on Linux dest-deny remount errors](https://github.com/workpen/workpen/pull/125) in **workpen/workpen**
 - [docs: embedder host no longer says rename refuses directories](https://github.com/patchloom/patchloom/pull/2563) in **patchloom/patchloom**
-- [fix: dest Converse requestMetadata reaches Chat metadata](https://github.com/wiremuxhq/wiremux/pull/207) in **wiremuxhq/wiremux**
 - [fix: refuse /1 catch-alls at the helper and in rule.add](https://github.com/GeiserX/VPN-Bypass/pull/108) in **GeiserX/VPN-Bypass**
 - [fix: trim whitespace on explicit --base-url before host routing](https://github.com/canact/canact/pull/257) in **canact/canact**
-- [test: poll metrics-endpoint for registered controller series](https://github.com/attune-io/attune/pull/784) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

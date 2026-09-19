@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: expose TransientKind on ClientError](https://github.com/wiremuxhq/wiremux/pull/221) in **wiremuxhq/wiremux**
-- [fix: honor agent.lock in gc and dest-deny pwsh stdin dash](https://github.com/workpen/workpen/pull/129) in **workpen/workpen**
-- [fix(cli): do not panic when completions stdout is a closed pipe](https://github.com/patchloom/patchloom/pull/2577) in **patchloom/patchloom**
-- [docs: pin library Cargo examples at 0.7](https://github.com/canact/canact/pull/260) in **canact/canact**
-- [fix: emit oneshot envelope skip when every replica is blocked](https://github.com/attune-io/attune/pull/817) in **attune-io/attune**
-- [feat: align extension with patchloom CLI 0.35.0](https://github.com/patchloom/patchloom-vscode/pull/275) in **patchloom/patchloom-vscode**
+- [docs(tidy): say omitted tidy.fix unmixes mixed EOL](https://github.com/patchloom/patchloom/pull/2583) in **patchloom/patchloom**
+- [fix: dest ingest catalog miss beats shipped skip](https://github.com/wiremuxhq/wiremux/pull/224) in **wiremuxhq/wiremux**
+- [fix(wrap): dest-deny extra-root /tmp dest names](https://github.com/workpen/workpen/pull/131) in **workpen/workpen**
+- [fix: do not treat Ruby shift or strings as heredoc openers](https://github.com/honepad/honepad/pull/279) in **honepad/honepad**
+- [docs: add v0.1.28 to v0.1.29 upgrade section](https://github.com/attune-io/attune/pull/818) in **attune-io/attune**
+- [operator attune (0.1.29)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11287) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

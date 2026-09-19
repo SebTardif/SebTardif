@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(wrap): grant /var/select so macOS sh -c is quiet](https://github.com/workpen/workpen/pull/156) in **workpen/workpen**
-- [fix: dest Responses stream remaps Chat annotations, audio, and custom tools](https://github.com/wiremuxhq/wiremux/pull/226) in **wiremuxhq/wiremux**
+- [fix(wrap): keep drained stdout when run timeout fires](https://github.com/workpen/workpen/pull/160) in **workpen/workpen**
+- [fix: dest Messages and dest Converse skip empty audio-byte frames](https://github.com/wiremuxhq/wiremux/pull/231) in **wiremuxhq/wiremux**
+- [fix: hold memoryFromCpuRatio until cpu samples exist](https://github.com/attune-io/attune/pull/820) in **attune-io/attune**
 - [docs(tidy): say omitted tidy.fix unmixes mixed EOL](https://github.com/patchloom/patchloom/pull/2583) in **patchloom/patchloom**
 - [fix: do not treat Ruby shift or strings as heredoc openers](https://github.com/honepad/honepad/pull/279) in **honepad/honepad**
-- [docs: add v0.1.28 to v0.1.29 upgrade section](https://github.com/attune-io/attune/pull/818) in **attune-io/attune**
 - [operator attune (0.1.29)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11287) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->
 

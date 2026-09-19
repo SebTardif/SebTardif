@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: dest Responses stream remaps Chat annotations, audio, and custom tools](https://github.com/wiremuxhq/wiremux/pull/226) in **wiremuxhq/wiremux**
+- [fix(deny): dest-deny GNU glued short dests](https://github.com/workpen/workpen/pull/155) in **workpen/workpen**
 - [docs(tidy): say omitted tidy.fix unmixes mixed EOL](https://github.com/patchloom/patchloom/pull/2583) in **patchloom/patchloom**
-- [fix: dest ingest catalog miss beats shipped skip](https://github.com/wiremuxhq/wiremux/pull/224) in **wiremuxhq/wiremux**
-- [fix(wrap): dest-deny extra-root /tmp dest names](https://github.com/workpen/workpen/pull/131) in **workpen/workpen**
 - [fix: do not treat Ruby shift or strings as heredoc openers](https://github.com/honepad/honepad/pull/279) in **honepad/honepad**
 - [docs: add v0.1.28 to v0.1.29 upgrade section](https://github.com/attune-io/attune/pull/818) in **attune-io/attune**
 - [operator attune (0.1.29)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11287) in **redhat-openshift-ecosystem/community-operators-prod**

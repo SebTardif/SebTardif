@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: dest Responses complete metadata remaps dest Chat complete metadata](https://github.com/wiremuxhq/wiremux/pull/253) in **wiremuxhq/wiremux**
-- [fix(cli): treat broken stdout pipe as success for search and read](https://github.com/patchloom/patchloom/pull/2587) in **patchloom/patchloom**
-- [fix(wrap): skip hardlink scan in cache dest-deny walks](https://github.com/workpen/workpen/pull/163) in **workpen/workpen**
-- [fix: count only CPU datapoints while memoryFromCpuRatio waits](https://github.com/attune-io/attune/pull/822) in **attune-io/attune**
+- [fix: dest Responses complete moderation remaps dest Chat complete moderation](https://github.com/wiremuxhq/wiremux/pull/254) in **wiremuxhq/wiremux**
+- [fix(wrap): glob-only dest-deny walk under extra-root cache dirs](https://github.com/workpen/workpen/pull/165) in **workpen/workpen**
+- [fix: peel extra stars on Begin Patch and stop fuzzy indent growth](https://github.com/patchloom/patchloom/pull/2591) in **patchloom/patchloom**
+- [fix: reuse ratio-derived recs across cpu gaps](https://github.com/attune-io/attune/pull/823) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

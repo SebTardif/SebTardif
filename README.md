@@ -44,12 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(wrap): keep drained stdout when run timeout fires](https://github.com/workpen/workpen/pull/160) in **workpen/workpen**
-- [fix: dest Messages and dest Converse skip empty audio-byte frames](https://github.com/wiremuxhq/wiremux/pull/231) in **wiremuxhq/wiremux**
-- [fix: hold memoryFromCpuRatio until cpu samples exist](https://github.com/attune-io/attune/pull/820) in **attune-io/attune**
-- [docs(tidy): say omitted tidy.fix unmixes mixed EOL](https://github.com/patchloom/patchloom/pull/2583) in **patchloom/patchloom**
-- [fix: do not treat Ruby shift or strings as heredoc openers](https://github.com/honepad/honepad/pull/279) in **honepad/honepad**
-- [operator attune (0.1.29)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11287) in **redhat-openshift-ecosystem/community-operators-prod**
+- [fix: dest Responses complete metadata remaps dest Chat complete metadata](https://github.com/wiremuxhq/wiremux/pull/253) in **wiremuxhq/wiremux**
+- [fix(cli): treat broken stdout pipe as success for search and read](https://github.com/patchloom/patchloom/pull/2587) in **patchloom/patchloom**
+- [fix(wrap): skip hardlink scan in cache dest-deny walks](https://github.com/workpen/workpen/pull/163) in **workpen/workpen**
+- [fix: count only CPU datapoints while memoryFromCpuRatio waits](https://github.com/attune-io/attune/pull/822) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,10 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: dest Responses complete moderation remaps dest Chat complete moderation](https://github.com/wiremuxhq/wiremux/pull/254) in **wiremuxhq/wiremux**
-- [fix(wrap): glob-only dest-deny walk under extra-root cache dirs](https://github.com/workpen/workpen/pull/165) in **workpen/workpen**
-- [fix: peel extra stars on Begin Patch and stop fuzzy indent growth](https://github.com/patchloom/patchloom/pull/2591) in **patchloom/patchloom**
-- [fix: reuse ratio-derived recs across cpu gaps](https://github.com/attune-io/attune/pull/823) in **attune-io/attune**
+- [fix: dest Chat service_tier audio and tool_calls id remap dest Gemini](https://github.com/wiremuxhq/wiremux/pull/263) in **wiremuxhq/wiremux**
+- [docs: pin README install examples to v0.5.0](https://github.com/workpen/workpen/pull/176) in **workpen/workpen**
+- [chore: release 0.36.0](https://github.com/patchloom/patchloom/pull/2602) in **patchloom/patchloom**
+- [fix: map oauth refresh failure to Auth](https://github.com/canact/canact/pull/272) in **canact/canact**
+- [operator attune (0.1.30)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11295) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.30)](https://github.com/k8s-operatorhub/community-operators/pull/9371) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: dest-deny demo GIF with hardlink assertions](https://github.com/workpen/workpen/pull/188) in **workpen/workpen**
+- [feat: dest-model crate-root encode and TransientKind is_reset](https://github.com/wiremuxhq/wiremux/pull/276) in **wiremuxhq/wiremux**
+- [fix: treat openai-codex and codex as one cache family](https://github.com/canact/canact/pull/274) in **canact/canact**
+- [docs: README dest-deny session you can paste](https://github.com/workpen/workpen/pull/189) in **workpen/workpen**
 - [fix(patch): skip git rename/copy meta in Begin Patch hunks](https://github.com/patchloom/patchloom/pull/2609) in **patchloom/patchloom**
-- [docs: point 0.8.0 notes consume link at main](https://github.com/wiremuxhq/wiremux/pull/270) in **wiremuxhq/wiremux**
-- [fix(output): survive malformed ACP message chunks and plans](https://github.com/openclaw/acpx/pull/652) in **openclaw/acpx**
-- [fix: map oauth refresh failure to Auth](https://github.com/canact/canact/pull/272) in **canact/canact**
+- [fix(flows): bound compatibility JSON recovery work](https://github.com/openclaw/acpx/pull/653) in **openclaw/acpx**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

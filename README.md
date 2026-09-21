@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: dest-model crate-root encode and TransientKind is_reset](https://github.com/wiremuxhq/wiremux/pull/276) in **wiremuxhq/wiremux**
-- [fix: treat openai-codex and codex as one cache family](https://github.com/canact/canact/pull/274) in **canact/canact**
+- [chore: greenfield scaffold for snapif](https://github.com/snapif/snapif/pull/1) in **snapif/snapif**
+- [feat: pin Coolify 4.3.23 and version-gate 4.4 writes](https://github.com/coolify-terraform/terraform-provider-coolify/pull/897) in **coolify-terraform/terraform-provider-coolify**
+- [fix(maps): dest Responses STREAM metadata remaps dest Chat STREAM](https://github.com/wiremuxhq/wiremux/pull/278) in **wiremuxhq/wiremux**
+- [docs: pin library Cargo examples at 0.8](https://github.com/canact/canact/pull/275) in **canact/canact**
 - [docs: README dest-deny session you can paste](https://github.com/workpen/workpen/pull/189) in **workpen/workpen**
 - [fix(patch): skip git rename/copy meta in Begin Patch hunks](https://github.com/patchloom/patchloom/pull/2609) in **patchloom/patchloom**
-- [fix(flows): bound compatibility JSON recovery work](https://github.com/openclaw/acpx/pull/653) in **openclaw/acpx**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

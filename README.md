@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: send server_role=both when is_build_server turns off on Coolify 4.4](https://github.com/coolify-terraform/terraform-provider-coolify/pull/900) in **coolify-terraform/terraform-provider-coolify**
-- [fix: catch named [dependencies.crate] tables in forbid-deps](https://github.com/snapif/snapif/pull/3) in **snapif/snapif**
-- [feat: operator prometheus identity for cluster-wide auth](https://github.com/attune-io/attune/pull/828) in **attune-io/attune**
+- [fix: publish the clamped recommendation confidence](https://github.com/attune-io/attune/pull/846) in **attune-io/attune**
+- [feat: snapif CLI gate/test/replay](https://github.com/snapif/snapif/pull/10) in **snapif/snapif**
+- [ci: upload CodeQL Go results on release-please heads](https://github.com/coolify-terraform/terraform-provider-coolify/pull/904) in **coolify-terraform/terraform-provider-coolify**
 - [fix(maps): dest Responses STREAM metadata remaps dest Chat STREAM](https://github.com/wiremuxhq/wiremux/pull/278) in **wiremuxhq/wiremux**
 - [docs: pin library Cargo examples at 0.8](https://github.com/canact/canact/pull/275) in **canact/canact**
 - [docs: README dest-deny session you can paste](https://github.com/workpen/workpen/pull/189) in **workpen/workpen**

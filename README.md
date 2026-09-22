@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: publish the clamped recommendation confidence](https://github.com/attune-io/attune/pull/846) in **attune-io/attune**
-- [feat: snapif CLI gate/test/replay](https://github.com/snapif/snapif/pull/10) in **snapif/snapif**
+- [test: pin http status, cli exit, and cascade boundary](https://github.com/snapif/snapif/pull/12) in **snapif/snapif**
+- [test: lock cpu-only clamp and false resize conditions](https://github.com/attune-io/attune/pull/847) in **attune-io/attune**
 - [ci: upload CodeQL Go results on release-please heads](https://github.com/coolify-terraform/terraform-provider-coolify/pull/904) in **coolify-terraform/terraform-provider-coolify**
+- [fix(helper): stop stacked FaceTime poll timers on reinjection](https://github.com/openclaw/openclaw-facetime/pull/47) in **openclaw/openclaw-facetime**
 - [fix(maps): dest Responses STREAM metadata remaps dest Chat STREAM](https://github.com/wiremuxhq/wiremux/pull/278) in **wiremuxhq/wiremux**
-- [docs: pin library Cargo examples at 0.8](https://github.com/canact/canact/pull/275) in **canact/canact**
-- [docs: README dest-deny session you can paste](https://github.com/workpen/workpen/pull/189) in **workpen/workpen**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

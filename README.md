@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: lock HTTP 529 overload and null choice criteria](https://github.com/snapif/snapif/pull/26) in **snapif/snapif**
+- [fix: name a missing question type and accept a UTF-8 BOM](https://github.com/snapif/snapif/pull/40) in **snapif/snapif**
 - [fix: do not give clang++ the MSVC cl flags](https://github.com/honepad/honepad/pull/286) in **honepad/honepad**
 - [operator attune (0.1.31)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11306) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.31)](https://github.com/k8s-operatorhub/community-operators/pull/9379) in **k8s-operatorhub/community-operators**
 - [fix: request workflows permission for operatorhub fork pushes](https://github.com/attune-io/attune/pull/850) in **attune-io/attune**
-- [ci: upload CodeQL Go results on release-please heads](https://github.com/coolify-terraform/terraform-provider-coolify/pull/904) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -45,11 +45,11 @@
 
 <!-- RECENT-PRS-START -->
 - [fix: name a redirect target and an empty HTTP success body](https://github.com/snapif/snapif/pull/42) in **snapif/snapif**
+- [fix(guest): preserve directory modes during cross-device moves](https://github.com/openclaw/fs-safe/pull/616) in **openclaw/fs-safe**
 - [fix: do not give clang++ the MSVC cl flags](https://github.com/honepad/honepad/pull/286) in **honepad/honepad**
 - [operator attune (0.1.31)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11306) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.31)](https://github.com/k8s-operatorhub/community-operators/pull/9379) in **k8s-operatorhub/community-operators**
 - [fix: request workflows permission for operatorhub fork pushes](https://github.com/attune-io/attune/pull/850) in **attune-io/attune**
-- [fix: stop POSIX Codex descendants after natural leader exits](https://github.com/openclaw/clawsweeper/pull/1650) in **openclaw/clawsweeper**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

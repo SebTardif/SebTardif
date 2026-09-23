@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: name a redirect target and an empty HTTP success body](https://github.com/snapif/snapif/pull/42) in **snapif/snapif**
+- [fix: distinguish a missing base URL from one that is not a URL](https://github.com/snapif/snapif/pull/62) in **snapif/snapif**
+- [ci: rebase Dependabot branches by git ancestry](https://github.com/assura-lang/assura/pull/1608) in **assura-lang/assura**
+- [fix(connection): reject unsafe SSH users before Open Terminal](https://github.com/openclaw/openclaw-windows-node/pull/1478) in **openclaw/openclaw-windows-node**
 - [fix(guest): preserve directory modes during cross-device moves](https://github.com/openclaw/fs-safe/pull/616) in **openclaw/fs-safe**
 - [fix: do not give clang++ the MSVC cl flags](https://github.com/honepad/honepad/pull/286) in **honepad/honepad**
 - [operator attune (0.1.31)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11306) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.31)](https://github.com/k8s-operatorhub/community-operators/pull/9379) in **k8s-operatorhub/community-operators**
-- [fix: request workflows permission for operatorhub fork pushes](https://github.com/attune-io/attune/pull/850) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

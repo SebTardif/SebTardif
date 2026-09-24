@@ -44,9 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: escalate when the gate log lock is poisoned](https://github.com/snapif/snapif/pull/72) in **snapif/snapif**
-- [fix(demos): state the zip overflow check as remaining space](https://github.com/assura-lang/assura/pull/1617) in **assura-lang/assura**
-- [fix(node): ignore non-connect failed replies](https://github.com/openclaw/openclaw-windows-node/pull/1483) in **openclaw/openclaw-windows-node**
+- [ci: run the SMT feature-matrix cfg lint in the CVC5 job](https://github.com/assura-lang/assura/pull/1626) in **assura-lang/assura**
+- [fix: honor content hash on expanded writes and plan read past EOF](https://github.com/patchloom/patchloom/pull/2626) in **patchloom/patchloom**
+- [fix: do not grow a request when the usage percentile is missing](https://github.com/attune-io/attune/pull/858) in **attune-io/attune**
+- [docs: add the Snapif mark](https://github.com/snapif/snapif/pull/80) in **snapif/snapif**
+- [fix(a2ui): one array index fills memory on the tray](https://github.com/openclaw/openclaw-windows-node/pull/1502) in **openclaw/openclaw-windows-node**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

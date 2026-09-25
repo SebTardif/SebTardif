@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: fail closed on hook input, transcripts, and confidence](https://github.com/snapif/snapif/pull/118) in **snapif/snapif**
-- [fix(smt): use Rust toward-zero integer division](https://github.com/assura-lang/assura/pull/1651) in **assura-lang/assura**
-- [test: assert Converse json toolResult bytes](https://github.com/wiremuxhq/wiremux/pull/294) in **wiremuxhq/wiremux**
+- [fix(fmt): space comparison operators without splitting generics](https://github.com/assura-lang/assura/pull/1655) in **assura-lang/assura**
+- [fix: keep Messages tool arguments before content_block_stop](https://github.com/wiremuxhq/wiremux/pull/298) in **wiremuxhq/wiremux**
+- [fix: keep a middle approval phrase when the hook clips a long turn](https://github.com/snapif/snapif/pull/122) in **snapif/snapif**
+- [feat: slim execute_plan schema and add operation_schema](https://github.com/patchloom/patchloom/pull/2631) in **patchloom/patchloom**
+- [fix(tests): tray source checks fail when the checkout is LF](https://github.com/openclaw/openclaw-windows-node/pull/1518) in **openclaw/openclaw-windows-node**
 - [fix(agents): report offline trash failures after agent delete](https://github.com/openclaw/openclaw/pull/158052) in **openclaw/openclaw**
-- [feat: replace one notebook cell source by id](https://github.com/patchloom/patchloom/pull/2628) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

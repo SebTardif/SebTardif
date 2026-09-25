@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: drop the one-time 0.1.0 release pin](https://github.com/snapif/snapif/pull/109) in **snapif/snapif**
-- [fix: Chat stream finish_reason tool_calls after a custom tool](https://github.com/wiremuxhq/wiremux/pull/291) in **wiremuxhq/wiremux**
-- [fix(cli): point check-rust counterexamples at the Rust file](https://github.com/assura-lang/assura/pull/1643) in **assura-lang/assura**
+- [fix: fail closed on hook input, transcripts, and confidence](https://github.com/snapif/snapif/pull/118) in **snapif/snapif**
+- [fix(smt): use Rust toward-zero integer division](https://github.com/assura-lang/assura/pull/1651) in **assura-lang/assura**
+- [test: assert Converse json toolResult bytes](https://github.com/wiremuxhq/wiremux/pull/294) in **wiremuxhq/wiremux**
+- [fix(agents): report offline trash failures after agent delete](https://github.com/openclaw/openclaw/pull/158052) in **openclaw/openclaw**
 - [feat: replace one notebook cell source by id](https://github.com/patchloom/patchloom/pull/2628) in **patchloom/patchloom**
-- [fix(ci): pull MinIO from Chainguard for acceptance boot](https://github.com/coolify-terraform/terraform-provider-coolify/pull/905) in **coolify-terraform/terraform-provider-coolify**
-- [chore: refresh roadmap, glob asserts, and thiserror 2.0.21](https://github.com/workpen/workpen/pull/191) in **workpen/workpen**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: refuse a gate call file that is not an object](https://github.com/snapif/snapif/pull/86) in **snapif/snapif**
-- [fix: keep cloudwatch owner matches off sibling names](https://github.com/attune-io/attune/pull/860) in **attune-io/attune**
-- [fix(app): propagate ambiguous running-state checks](https://github.com/openclaw/Peekaboo/pull/795) in **openclaw/Peekaboo**
-- [fix(check-rust): keep // inside string literals in doc clauses](https://github.com/assura-lang/assura/pull/1629) in **assura-lang/assura**
-- [fix: honor content hash on expanded writes and plan read past EOF](https://github.com/patchloom/patchloom/pull/2626) in **patchloom/patchloom**
+- [fix: keep an approval excerpt inside the text that matched](https://github.com/snapif/snapif/pull/96) in **snapif/snapif**
+- [fix(smt): show the contract result in counterexamples](https://github.com/assura-lang/assura/pull/1635) in **assura-lang/assura**
+- [fix(ci): pull MinIO from Chainguard for acceptance boot](https://github.com/coolify-terraform/terraform-provider-coolify/pull/905) in **coolify-terraform/terraform-provider-coolify**
+- [chore: refresh roadmap, glob asserts, and thiserror 2.0.21](https://github.com/workpen/workpen/pull/191) in **workpen/workpen**
+- [docs: add the v0.1.32 upgrade section](https://github.com/attune-io/attune/pull/861) in **attune-io/attune**
+- [fix: pair same-name Gemini function responses in order](https://github.com/wiremuxhq/wiremux/pull/286) in **wiremuxhq/wiremux**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

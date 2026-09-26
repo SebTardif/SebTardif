@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: fail streams that end on an error or a truncated frame](https://github.com/wiremuxhq/wiremux/pull/305) in **wiremuxhq/wiremux**
+- [docs: pin CI and Security badges to main](https://github.com/workpen/workpen/pull/192) in **workpen/workpen**
+- [fix: tidy a directory's hidden files from a plan](https://github.com/patchloom/patchloom/pull/2640) in **patchloom/patchloom**
+- [feat: consume wiremux 0.9.1](https://github.com/canact/canact/pull/277) in **canact/canact**
 - [fix(fmt): space comparison operators without splitting generics](https://github.com/assura-lang/assura/pull/1655) in **assura-lang/assura**
-- [fix: keep Messages tool arguments before content_block_stop](https://github.com/wiremuxhq/wiremux/pull/298) in **wiremuxhq/wiremux**
 - [fix: keep a middle approval phrase when the hook clips a long turn](https://github.com/snapif/snapif/pull/122) in **snapif/snapif**
-- [feat: slim execute_plan schema and add operation_schema](https://github.com/patchloom/patchloom/pull/2631) in **patchloom/patchloom**
-- [fix(tests): tray source checks fail when the checkout is LF](https://github.com/openclaw/openclaw-windows-node/pull/1518) in **openclaw/openclaw-windows-node**
-- [fix(agents): report offline trash failures after agent delete](https://github.com/openclaw/openclaw/pull/158052) in **openclaw/openclaw**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

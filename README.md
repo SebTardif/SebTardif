@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: fail streams that end on an error or a truncated frame](https://github.com/wiremuxhq/wiremux/pull/305) in **wiremuxhq/wiremux**
+- [fix: keep image text order on Responses and Converse](https://github.com/wiremuxhq/wiremux/pull/308) in **wiremuxhq/wiremux**
 - [docs: pin CI and Security badges to main](https://github.com/workpen/workpen/pull/192) in **workpen/workpen**
 - [fix: tidy a directory's hidden files from a plan](https://github.com/patchloom/patchloom/pull/2640) in **patchloom/patchloom**
 - [feat: consume wiremux 0.9.1](https://github.com/canact/canact/pull/277) in **canact/canact**

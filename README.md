@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: name only the env vars an MCP provider will use](https://github.com/canact/canact/pull/283) in **canact/canact**
 - [fix: keep Responses failures, search calls, and encrypted reasoning](https://github.com/wiremuxhq/wiremux/pull/324) in **wiremuxhq/wiremux**
 - [fix: keep a verified source update when history cannot be recorded](https://github.com/openclaw/ocm/pull/288) in **openclaw/ocm**
 - [test(contract): fail when a domain gate is missing from the write body](https://github.com/coolify-terraform/terraform-provider-coolify/pull/909) in **coolify-terraform/terraform-provider-coolify**
 - [docs: pin CI and Security badges to main](https://github.com/workpen/workpen/pull/192) in **workpen/workpen**
 - [fix: tidy a directory's hidden files from a plan](https://github.com/patchloom/patchloom/pull/2640) in **patchloom/patchloom**
-- [feat: consume wiremux 0.9.1](https://github.com/canact/canact/pull/277) in **canact/canact**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep Chat audio and image on singular decode](https://github.com/wiremuxhq/wiremux/pull/319) in **wiremuxhq/wiremux**
+- [fix: keep Responses failures, search calls, and encrypted reasoning](https://github.com/wiremuxhq/wiremux/pull/324) in **wiremuxhq/wiremux**
 - [fix: keep a verified source update when history cannot be recorded](https://github.com/openclaw/ocm/pull/288) in **openclaw/ocm**
 - [test(contract): fail when a domain gate is missing from the write body](https://github.com/coolify-terraform/terraform-provider-coolify/pull/909) in **coolify-terraform/terraform-provider-coolify**
 - [docs: pin CI and Security badges to main](https://github.com/workpen/workpen/pull/192) in **workpen/workpen**

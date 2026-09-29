@@ -44,11 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: publish the key that signed the release tags](https://github.com/snapif/snapif/pull/139) in **snapif/snapif**
+- [docs: show the test command and calibrate file kinds](https://github.com/snapif/snapif/pull/144) in **snapif/snapif**
 - [fix: clarify stream indexes and hosted-tool errors](https://github.com/wiremuxhq/wiremux/pull/337) in **wiremuxhq/wiremux**
 - [feat: align the extension with Patchloom CLI 0.37.0](https://github.com/patchloom/patchloom-vscode/pull/285) in **patchloom/patchloom-vscode**
-- [docs: pin library Cargo examples at 0.9](https://github.com/canact/canact/pull/284) in **canact/canact**
-- [fix: bound script waits and stop the task drain from spinning](https://github.com/Tunnelblick/Tunnelblick/pull/929) in **Tunnelblick/Tunnelblick**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

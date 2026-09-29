@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: show the test command and calibrate file kinds](https://github.com/snapif/snapif/pull/144) in **snapif/snapif**
-- [fix: clarify stream indexes and hosted-tool errors](https://github.com/wiremuxhq/wiremux/pull/337) in **wiremuxhq/wiremux**
+- [fix: let fake script confidence drive top_prob](https://github.com/snapif/snapif/pull/165) in **snapif/snapif**
+- [ci: close pipeline gaps from the reusable CI skills](https://github.com/wiremuxhq/wiremux/pull/338) in **wiremuxhq/wiremux**
 - [feat: align the extension with Patchloom CLI 0.37.0](https://github.com/patchloom/patchloom-vscode/pull/285) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 

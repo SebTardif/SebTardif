@@ -44,9 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: let fake script confidence drive top_prob](https://github.com/snapif/snapif/pull/165) in **snapif/snapif**
-- [ci: close pipeline gaps from the reusable CI skills](https://github.com/wiremuxhq/wiremux/pull/338) in **wiremuxhq/wiremux**
-- [feat: align the extension with Patchloom CLI 0.37.0](https://github.com/patchloom/patchloom-vscode/pull/285) in **patchloom/patchloom-vscode**
+- [feat: overwrite the proxy model and forward Messages betas](https://github.com/wiremuxhq/wiremux/pull/360) in **wiremuxhq/wiremux**
+- [docs: correct confidence, ready reason, throttle, and memory hpa text](https://github.com/attune-io/attune/pull/886) in **attune-io/attune**
+- [fix: name y as a console reset delete](https://github.com/honepad/honepad/pull/292) in **honepad/honepad**
+- [test: require the noul Brier, not only that a score exists](https://github.com/snapif/snapif/pull/176) in **snapif/snapif**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

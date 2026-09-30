@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: round-trip Messages container, context, and MCP servers](https://github.com/wiremuxhq/wiremux/pull/368) in **wiremuxhq/wiremux**
-- [docs: pin 0.6.0 and describe the default child](https://github.com/workpen/workpen/pull/213) in **workpen/workpen**
-- [fix: scale CloudWatch CPU as millicores by default](https://github.com/attune-io/attune/pull/892) in **attune-io/attune**
-- [test: lock scorecard totals and calibrate JSON shape](https://github.com/snapif/snapif/pull/179) in **snapif/snapif**
-- [fix: drop a negative last run when a session loads](https://github.com/honepad/honepad/pull/297) in **honepad/honepad**
+- [docs: first-session guide for the CLI, library, and MCP](https://github.com/canact/canact/pull/300) in **canact/canact**
+- [fix: scale HPA CPU targets from the full pod total](https://github.com/attune-io/attune/pull/896) in **attune-io/attune**
+- [test: lock hook deny for an unknown script harm](https://github.com/snapif/snapif/pull/183) in **snapif/snapif**
+- [ci: build release binaries from the tagged crate](https://github.com/wiremuxhq/wiremux/pull/375) in **wiremuxhq/wiremux**
+- [feat(cli): add workpen doctor](https://github.com/workpen/workpen/pull/224) in **workpen/workpen**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

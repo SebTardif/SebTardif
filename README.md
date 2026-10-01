@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: per-container CPU and memory settings](https://github.com/attune-io/attune/pull/904) in **attune-io/attune**
-- [test: cover docker registry read and delete failures](https://github.com/coolify-terraform/terraform-provider-coolify/pull/928) in **coolify-terraform/terraform-provider-coolify**
+- [fix(map): record a Converse drop for Chat stream](https://github.com/wiremuxhq/wiremux/pull/404) in **wiremuxhq/wiremux**
+- [docs: pin install text to 0.7.0](https://github.com/workpen/workpen/pull/239) in **workpen/workpen**
+- [fix: keep imported environment uuid and failed database creates](https://github.com/coolify-terraform/terraform-provider-coolify/pull/932) in **coolify-terraform/terraform-provider-coolify**
+- [test: lock an unterminated probe stream as a scored transient](https://github.com/canact/canact/pull/319) in **canact/canact**
+- [feat: sign Amazon Managed Prometheus queries with SigV4](https://github.com/attune-io/attune/pull/910) in **attune-io/attune**
 - [fix(router): let a pending navigation finish when invalidate runs](https://github.com/openclaw/uirouter/pull/46) in **openclaw/uirouter**
-- [fix(postbox): scan the media cache once per import](https://github.com/openclaw/telecrawl/pull/52) in **openclaw/telecrawl**
-- [fix: say when a tools file parent is a file](https://github.com/canact/canact/pull/317) in **canact/canact**
-- [ci: run the client library tests](https://github.com/wiremuxhq/wiremux/pull/398) in **wiremuxhq/wiremux**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

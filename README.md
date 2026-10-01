@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(map): record a Converse drop for Chat stream](https://github.com/wiremuxhq/wiremux/pull/404) in **wiremuxhq/wiremux**
-- [docs: pin install text to 0.7.0](https://github.com/workpen/workpen/pull/239) in **workpen/workpen**
-- [fix: keep imported environment uuid and failed database creates](https://github.com/coolify-terraform/terraform-provider-coolify/pull/932) in **coolify-terraform/terraform-provider-coolify**
+- [fix(client): classify Responses server_error as transient](https://github.com/wiremuxhq/wiremux/pull/413) in **wiremuxhq/wiremux**
+- [fix: keep equivalent compose domain URLs](https://github.com/coolify-terraform/terraform-provider-coolify/pull/936) in **coolify-terraform/terraform-provider-coolify**
+- [ci: bound k3d image import so a hung tools node cannot cancel nightly](https://github.com/attune-io/attune/pull/913) in **attune-io/attune**
+- [fix(wrap): report descendants the reaper did not track](https://github.com/workpen/workpen/pull/241) in **workpen/workpen**
 - [test: lock an unterminated probe stream as a scored transient](https://github.com/canact/canact/pull/319) in **canact/canact**
-- [feat: sign Amazon Managed Prometheus queries with SigV4](https://github.com/attune-io/attune/pull/910) in **attune-io/attune**
-- [fix(router): let a pending navigation finish when invalidate runs](https://github.com/openclaw/uirouter/pull/46) in **openclaw/uirouter**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

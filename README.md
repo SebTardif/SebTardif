@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: push the current release to Chocolatey](https://github.com/wiremuxhq/wiremux/pull/393) in **wiremuxhq/wiremux**
-- [fix(guard): allow a dangling symlink that stays in the workspace](https://github.com/workpen/workpen/pull/231) in **workpen/workpen**
-- [fix: reject a base URL port that is not a TCP port](https://github.com/canact/canact/pull/311) in **canact/canact**
-- [chore: bump yanked yoke-derive to 0.8.4](https://github.com/snapif/snapif/pull/187) in **snapif/snapif**
-- [feat: keep startup-boost samples out of the CPU percentile](https://github.com/attune-io/attune/pull/898) in **attune-io/attune**
+- [fix: say when a tools file parent is a file](https://github.com/canact/canact/pull/317) in **canact/canact**
+- [feat: add Coolify 4.4 tip SQLite, registry logins, and disk interval](https://github.com/coolify-terraform/terraform-provider-coolify/pull/927) in **coolify-terraform/terraform-provider-coolify**
+- [ci: run the client library tests](https://github.com/wiremuxhq/wiremux/pull/398) in **wiremuxhq/wiremux**
+- [fix(permissions): render terminal controls visibly in approval prompts](https://github.com/openclaw/acpx/pull/845) in **openclaw/acpx**
+- [feat: raise memory after an OOMKill on the original request](https://github.com/attune-io/attune/pull/899) in **attune-io/attune**
+- [fix(wrap): stop setsid grandchildren when run returns](https://github.com/workpen/workpen/pull/236) in **workpen/workpen**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

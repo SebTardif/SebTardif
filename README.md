@@ -44,11 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: raise memory after an original-request oom](https://github.com/attune-io/attune/pull/914) in **attune-io/attune**
-- [fix: keep Gemini code execution parts](https://github.com/wiremuxhq/wiremux/pull/419) in **wiremuxhq/wiremux**
-- [ci: mark published version pins for release-please](https://github.com/workpen/workpen/pull/243) in **workpen/workpen**
+- [fix: keep Gemini image output modality](https://github.com/wiremuxhq/wiremux/pull/434) in **wiremuxhq/wiremux**
+- [fix(wrap): adopt a fast setsid grandchild and report it](https://github.com/workpen/workpen/pull/246) in **workpen/workpen**
+- [fix: show budget caps in explain and on deferred resize events](https://github.com/attune-io/attune/pull/915) in **attune-io/attune**
 - [fix: keep service URL ports Coolify returns](https://github.com/coolify-terraform/terraform-provider-coolify/pull/938) in **coolify-terraform/terraform-provider-coolify**
-- [test: lock an unterminated probe stream as a scored transient](https://github.com/canact/canact/pull/319) in **canact/canact**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

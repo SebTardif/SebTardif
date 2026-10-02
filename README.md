@@ -44,10 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: run client library tests and workflow lint in make check](https://github.com/wiremuxhq/wiremux/pull/438) in **wiremuxhq/wiremux**
-- [test: reject a swallowed git failure in commit_is_dangling](https://github.com/workpen/workpen/pull/250) in **workpen/workpen**
-- [fix: restore namespace-defaults rows in the configuration reference](https://github.com/attune-io/attune/pull/916) in **attune-io/attune**
-- [fix: keep service URL ports Coolify returns](https://github.com/coolify-terraform/terraform-provider-coolify/pull/938) in **coolify-terraform/terraform-provider-coolify**
+- [fix: keep a Chat completion id on stream chunks](https://github.com/wiremuxhq/wiremux/pull/449) in **wiremuxhq/wiremux**
+- [fix: keep unchanged policies on the previous behavior](https://github.com/attune-io/attune/pull/917) in **attune-io/attune**
+- [fix: do not report a zombie helper or follow an agent.lock symlink](https://github.com/workpen/workpen/pull/251) in **workpen/workpen**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

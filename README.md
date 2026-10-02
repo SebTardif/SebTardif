@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(client): classify Responses server_error as transient](https://github.com/wiremuxhq/wiremux/pull/413) in **wiremuxhq/wiremux**
-- [fix: keep equivalent compose domain URLs](https://github.com/coolify-terraform/terraform-provider-coolify/pull/936) in **coolify-terraform/terraform-provider-coolify**
-- [ci: bound k3d image import so a hung tools node cannot cancel nightly](https://github.com/attune-io/attune/pull/913) in **attune-io/attune**
-- [fix(wrap): report descendants the reaper did not track](https://github.com/workpen/workpen/pull/241) in **workpen/workpen**
+- [test: raise memory after an original-request oom](https://github.com/attune-io/attune/pull/914) in **attune-io/attune**
+- [fix: keep Gemini code execution parts](https://github.com/wiremuxhq/wiremux/pull/419) in **wiremuxhq/wiremux**
+- [ci: mark published version pins for release-please](https://github.com/workpen/workpen/pull/243) in **workpen/workpen**
+- [fix: keep service URL ports Coolify returns](https://github.com/coolify-terraform/terraform-provider-coolify/pull/938) in **coolify-terraform/terraform-provider-coolify**
 - [test: lock an unterminated probe stream as a scored transient](https://github.com/canact/canact/pull/319) in **canact/canact**
 <!-- RECENT-PRS-END -->
 

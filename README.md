@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep Gemini image output modality](https://github.com/wiremuxhq/wiremux/pull/434) in **wiremuxhq/wiremux**
-- [fix(wrap): adopt a fast setsid grandchild and report it](https://github.com/workpen/workpen/pull/246) in **workpen/workpen**
-- [fix: show budget caps in explain and on deferred resize events](https://github.com/attune-io/attune/pull/915) in **attune-io/attune**
+- [ci: run client library tests and workflow lint in make check](https://github.com/wiremuxhq/wiremux/pull/438) in **wiremuxhq/wiremux**
+- [test: reject a swallowed git failure in commit_is_dangling](https://github.com/workpen/workpen/pull/250) in **workpen/workpen**
+- [fix: restore namespace-defaults rows in the configuration reference](https://github.com/attune-io/attune/pull/916) in **attune-io/attune**
 - [fix: keep service URL ports Coolify returns](https://github.com/coolify-terraform/terraform-provider-coolify/pull/938) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 

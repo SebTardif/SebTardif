@@ -44,11 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep Messages cache creation breakdown](https://github.com/wiremuxhq/wiremux/pull/471) in **wiremuxhq/wiremux**
-- [feat: exit 2 from canact probe --fail-on](https://github.com/canact/canact/pull/321) in **canact/canact**
-- [docs: describe the empty list hint](https://github.com/craftbag/craftbag/pull/379) in **craftbag/craftbag**
-- [fix: skip daemonset pods when controllerrevisions cannot be listed](https://github.com/attune-io/attune/pull/919) in **attune-io/attune**
-- [fix: reject a timeout that does not fit on the clock](https://github.com/workpen/workpen/pull/252) in **workpen/workpen**
+- [fix: keep Gemini file data parts](https://github.com/wiremuxhq/wiremux/pull/494) in **wiremuxhq/wiremux**
+- [docs: name the rollout cases that resize more pods](https://github.com/attune-io/attune/pull/920) in **attune-io/attune**
+- [fix: report a description list as invalid YAML](https://github.com/craftbag/craftbag/pull/380) in **craftbag/craftbag**
+- [fix: include retry-after and the vendor text on a 429](https://github.com/canact/canact/pull/324) in **canact/canact**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

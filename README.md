@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [ci: publish the archive and its checksum sidecar](https://github.com/craftbag/craftbag/pull/385) in **craftbag/craftbag**
+- [docs: keep the first samples aligned with live behavior](https://github.com/attune-io/attune/pull/926) in **attune-io/attune**
 - [fix: keep Chat logprobs refusal separate](https://github.com/wiremuxhq/wiremux/pull/500) in **wiremuxhq/wiremux**
-- [docs: show newer fields in the API reference sample](https://github.com/attune-io/attune/pull/925) in **attune-io/attune**
-- [ci: push release lock sync with the app token](https://github.com/craftbag/craftbag/pull/383) in **craftbag/craftbag**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

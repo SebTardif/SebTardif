@@ -44,9 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep a Chat completion id on stream chunks](https://github.com/wiremuxhq/wiremux/pull/449) in **wiremuxhq/wiremux**
-- [fix: keep unchanged policies on the previous behavior](https://github.com/attune-io/attune/pull/917) in **attune-io/attune**
-- [fix: do not report a zombie helper or follow an agent.lock symlink](https://github.com/workpen/workpen/pull/251) in **workpen/workpen**
+- [fix: keep Messages cache creation breakdown](https://github.com/wiremuxhq/wiremux/pull/471) in **wiremuxhq/wiremux**
+- [feat: exit 2 from canact probe --fail-on](https://github.com/canact/canact/pull/321) in **canact/canact**
+- [docs: describe the empty list hint](https://github.com/craftbag/craftbag/pull/379) in **craftbag/craftbag**
+- [fix: skip daemonset pods when controllerrevisions cannot be listed](https://github.com/attune-io/attune/pull/919) in **attune-io/attune**
+- [fix: reject a timeout that does not fit on the clock](https://github.com/workpen/workpen/pull/252) in **workpen/workpen**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

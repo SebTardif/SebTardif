@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep a comma inside a quoted trigger scalar](https://github.com/craftbag/craftbag/pull/403) in **craftbag/craftbag**
-- [fix: refuse a loopback provider whose suffix changes the host](https://github.com/canact/canact/pull/326) in **canact/canact**
-- [fix: refuse catalog API URLs that contain quotes or controls](https://github.com/wiremuxhq/wiremux/pull/509) in **wiremuxhq/wiremux**
-- [test: assert the hpa base repair event names the stored request](https://github.com/attune-io/attune/pull/948) in **attune-io/attune**
-- [fix: report a killed child as 128 plus the signal](https://github.com/workpen/workpen/pull/260) in **workpen/workpen**
-- [New version: Craftbag.Craftbag version 0.2.1](https://github.com/microsoft/winget-pkgs/pull/446398) in **microsoft/winget-pkgs**
+- [fix: yield text when a stream call gets a JSON completion](https://github.com/wiremuxhq/wiremux/pull/520) in **wiremuxhq/wiremux**
+- [build: bump ruff from 0.16.9 to 0.16.10](https://github.com/honepad/honepad/pull/300) in **honepad/honepad**
+- [fix: reject YAML booleans and nested maps on string fields](https://github.com/craftbag/craftbag/pull/406) in **craftbag/craftbag**
+- [ci: auto-merge Dependabot patch and minor updates](https://github.com/canact/canact/pull/327) in **canact/canact**
+- [chore: update libc to 0.2.190](https://github.com/workpen/workpen/pull/261) in **workpen/workpen**
+- [New version: Craftbag.Craftbag version 0.2.2](https://github.com/microsoft/winget-pkgs/pull/446609) in **microsoft/winget-pkgs**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

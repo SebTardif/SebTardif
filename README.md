@@ -44,10 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: surface Responses vendor failures through the proxy](https://github.com/wiremuxhq/wiremux/pull/502) in **wiremuxhq/wiremux**
-- [ci: pin mcp-publisher and tighten auto-merge and triage](https://github.com/craftbag/craftbag/pull/386) in **craftbag/craftbag**
-- [New version: Craftbag.Craftbag version 0.2.0](https://github.com/microsoft/winget-pkgs/pull/446304) in **microsoft/winget-pkgs**
-- [docs: keep the first samples aligned with live behavior](https://github.com/attune-io/attune/pull/926) in **attune-io/attune**
+- [fix: omit unquoted null and reject flow on optional frontmatter](https://github.com/craftbag/craftbag/pull/396) in **craftbag/craftbag**
+- [fix: surface cross-wire vendor failures as HTTP 400](https://github.com/wiremuxhq/wiremux/pull/508) in **wiremuxhq/wiremux**
+- [fix: report a killed child as 128 plus the signal](https://github.com/workpen/workpen/pull/260) in **workpen/workpen**
+- [New version: Craftbag.Craftbag version 0.2.1](https://github.com/microsoft/winget-pkgs/pull/446398) in **microsoft/winget-pkgs**
+- [fix: resize current daemonset pods and skip in-progress rollouts](https://github.com/attune-io/attune/pull/947) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

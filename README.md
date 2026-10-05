@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: do not report one skill file as a name collision with itself](https://github.com/craftbag/craftbag/pull/412) in **craftbag/craftbag**
-- [fix: reject nested userinfo and empty completion stubs](https://github.com/wiremuxhq/wiremux/pull/524) in **wiremuxhq/wiremux**
-- [fix: correct resize gates, oom floors, and policy defaults](https://github.com/attune-io/attune/pull/990) in **attune-io/attune**
-- [docs: document probe --fail-on exit codes](https://github.com/canact/canact/pull/330) in **canact/canact**
-- [fix: print policy usage for policy --help](https://github.com/workpen/workpen/pull/262) in **workpen/workpen**
-- [build: bump ruff from 0.16.9 to 0.16.10](https://github.com/honepad/honepad/pull/300) in **honepad/honepad**
+- [fix: policy errors cite policy usage](https://github.com/workpen/workpen/pull/268) in **workpen/workpen**
+- [fix(parser): diagnose a one-character clause keyword typo](https://github.com/assura-lang/assura/pull/1677) in **assura-lang/assura**
+- [fix: keep safety observation open until the kubelet applies the resize](https://github.com/attune-io/attune/pull/1001) in **attune-io/attune**
+- [fix: keep HostTokenField compatible with 0.2.2](https://github.com/craftbag/craftbag/pull/414) in **craftbag/craftbag**
+- [ci: auto-merge Dependabot pin and patch groups](https://github.com/snapif/snapif/pull/189) in **snapif/snapif**
+- [fix: keep probe logs off the key route](https://github.com/canact/canact/pull/331) in **canact/canact**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

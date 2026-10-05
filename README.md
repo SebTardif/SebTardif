@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: yield text when a stream call gets a JSON completion](https://github.com/wiremuxhq/wiremux/pull/520) in **wiremuxhq/wiremux**
+- [fix: do not report one skill file as a name collision with itself](https://github.com/craftbag/craftbag/pull/412) in **craftbag/craftbag**
+- [fix: reject nested userinfo and empty completion stubs](https://github.com/wiremuxhq/wiremux/pull/524) in **wiremuxhq/wiremux**
+- [fix: correct resize gates, oom floors, and policy defaults](https://github.com/attune-io/attune/pull/990) in **attune-io/attune**
+- [docs: document probe --fail-on exit codes](https://github.com/canact/canact/pull/330) in **canact/canact**
+- [fix: print policy usage for policy --help](https://github.com/workpen/workpen/pull/262) in **workpen/workpen**
 - [build: bump ruff from 0.16.9 to 0.16.10](https://github.com/honepad/honepad/pull/300) in **honepad/honepad**
-- [fix: reject YAML booleans and nested maps on string fields](https://github.com/craftbag/craftbag/pull/406) in **craftbag/craftbag**
-- [ci: auto-merge Dependabot patch and minor updates](https://github.com/canact/canact/pull/327) in **canact/canact**
-- [chore: update libc to 0.2.190](https://github.com/workpen/workpen/pull/261) in **workpen/workpen**
-- [New version: Craftbag.Craftbag version 0.2.2](https://github.com/microsoft/winget-pkgs/pull/446609) in **microsoft/winget-pkgs**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

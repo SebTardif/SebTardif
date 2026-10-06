@@ -44,12 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: confirm a timed-out resize and boost from the live pod](https://github.com/attune-io/attune/pull/1015) in **attune-io/attune**
+- [fix: stop a timeout when the stdout reader stalls](https://github.com/workpen/workpen/pull/272) in **workpen/workpen**
+- [fix: match rm after a bash += assignment](https://github.com/snapif/snapif/pull/201) in **snapif/snapif**
 - [feat(check-rust): assume loop invariants and callee ensures](https://github.com/assura-lang/assura/pull/1679) in **assura-lang/assura**
-- [fix: recheck a live cwd immediately before age gc removes it](https://github.com/workpen/workpen/pull/271) in **workpen/workpen**
-- [fix: evaluate SLO windows longer than the observation period](https://github.com/attune-io/attune/pull/1005) in **attune-io/attune**
-- [fix: drop userinfo from an opaque redirect location](https://github.com/snapif/snapif/pull/192) in **snapif/snapif**
-- [New version: Craftbag.Craftbag version 0.2.3](https://github.com/microsoft/winget-pkgs/pull/447212) in **microsoft/winget-pkgs**
-- [fix: keep HostTokenField compatible with 0.2.2](https://github.com/craftbag/craftbag/pull/414) in **craftbag/craftbag**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

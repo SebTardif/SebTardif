@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: confirm a timed-out resize and boost from the live pod](https://github.com/attune-io/attune/pull/1015) in **attune-io/attune**
-- [fix: stop a timeout when the stdout reader stalls](https://github.com/workpen/workpen/pull/272) in **workpen/workpen**
-- [fix: match rm after a bash += assignment](https://github.com/snapif/snapif/pull/201) in **snapif/snapif**
-- [feat(check-rust): assume loop invariants and callee ensures](https://github.com/assura-lang/assura/pull/1679) in **assura-lang/assura**
+- [fix: name the file and line when a calibration row has the wrong shape](https://github.com/snapif/snapif/pull/206) in **snapif/snapif**
+- [fix: count native sidecars and rollout templates](https://github.com/attune-io/attune/pull/1020) in **attune-io/attune**
+- [docs: pin library Cargo examples at 0.10](https://github.com/canact/canact/pull/334) in **canact/canact**
+- [docs: document run --timeout exit 124](https://github.com/workpen/workpen/pull/273) in **workpen/workpen**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

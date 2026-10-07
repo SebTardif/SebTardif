@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(controller): expire only the containers startup boost raised](https://github.com/attune-io/attune/pull/1024) in **attune-io/attune**
-- [fix: match rm run by ssh, containers, and service runners](https://github.com/snapif/snapif/pull/212) in **snapif/snapif**
-- [fix: keep non-JSON custom tool input on the response](https://github.com/wiremuxhq/wiremux/pull/528) in **wiremuxhq/wiremux**
+- [fix: relax Gemini responseSchema the same way as tools](https://github.com/wiremuxhq/wiremux/pull/535) in **wiremuxhq/wiremux**
+- [fix: scope tenant metrics access to the policy namespace](https://github.com/attune-io/attune/pull/1033) in **attune-io/attune**
+- [fix: match shell scripts the host actually runs](https://github.com/snapif/snapif/pull/220) in **snapif/snapif**
 - [docs: pin library Cargo examples at 0.10](https://github.com/canact/canact/pull/334) in **canact/canact**
 - [docs: document run --timeout exit 124](https://github.com/workpen/workpen/pull/273) in **workpen/workpen**
 <!-- RECENT-PRS-END -->

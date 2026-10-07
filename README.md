@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: relax Gemini responseSchema the same way as tools](https://github.com/wiremuxhq/wiremux/pull/535) in **wiremuxhq/wiremux**
-- [fix: scope tenant metrics access to the policy namespace](https://github.com/attune-io/attune/pull/1033) in **attune-io/attune**
-- [fix: match shell scripts the host actually runs](https://github.com/snapif/snapif/pull/220) in **snapif/snapif**
-- [docs: pin library Cargo examples at 0.10](https://github.com/canact/canact/pull/334) in **canact/canact**
-- [docs: document run --timeout exit 124](https://github.com/workpen/workpen/pull/273) in **workpen/workpen**
+- [fix: keep a configured empty description](https://github.com/coolify-terraform/terraform-provider-coolify/pull/960) in **coolify-terraform/terraform-provider-coolify**
+- [fix: count a no-tools refusal as a completed Weak](https://github.com/canact/canact/pull/337) in **canact/canact**
+- [operator attune (0.1.33)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11440) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.33)](https://github.com/k8s-operatorhub/community-operators/pull/9439) in **k8s-operatorhub/community-operators**
+- [fix: correct CONSUME slots and keep STS key ids out of errors](https://github.com/wiremuxhq/wiremux/pull/542) in **wiremuxhq/wiremux**
+- [fix: persist a revert while tenant metrics stay rejected](https://github.com/attune-io/attune/pull/1035) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: name the file and line when a calibration row has the wrong shape](https://github.com/snapif/snapif/pull/206) in **snapif/snapif**
-- [fix: count native sidecars and rollout templates](https://github.com/attune-io/attune/pull/1020) in **attune-io/attune**
+- [fix(controller): expire only the containers startup boost raised](https://github.com/attune-io/attune/pull/1024) in **attune-io/attune**
+- [fix: match rm run by ssh, containers, and service runners](https://github.com/snapif/snapif/pull/212) in **snapif/snapif**
+- [fix: keep non-JSON custom tool input on the response](https://github.com/wiremuxhq/wiremux/pull/528) in **wiremuxhq/wiremux**
 - [docs: pin library Cargo examples at 0.10](https://github.com/canact/canact/pull/334) in **canact/canact**
 - [docs: document run --timeout exit 124](https://github.com/workpen/workpen/pull/273) in **workpen/workpen**
 <!-- RECENT-PRS-END -->

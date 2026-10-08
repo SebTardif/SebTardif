@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep a configured empty description](https://github.com/coolify-terraform/terraform-provider-coolify/pull/960) in **coolify-terraform/terraform-provider-coolify**
+- [fix: report config format timeouts as format_failed](https://github.com/patchloom/patchloom/pull/2648) in **patchloom/patchloom**
+- [fix: name the volume backup schedule in errors](https://github.com/coolify-terraform/terraform-provider-coolify/pull/964) in **coolify-terraform/terraform-provider-coolify**
 - [fix: count a no-tools refusal as a completed Weak](https://github.com/canact/canact/pull/337) in **canact/canact**
 - [operator attune (0.1.33)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11440) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.33)](https://github.com/k8s-operatorhub/community-operators/pull/9439) in **k8s-operatorhub/community-operators**
 - [fix: correct CONSUME slots and keep STS key ids out of errors](https://github.com/wiremuxhq/wiremux/pull/542) in **wiremuxhq/wiremux**
-- [fix: persist a revert while tenant metrics stay rejected](https://github.com/attune-io/attune/pull/1035) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

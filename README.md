@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: ignore missing backup days on volume backup import](https://github.com/coolify-terraform/terraform-provider-coolify/pull/965) in **coolify-terraform/terraform-provider-coolify**
-- [chore: bump tree-sitter-php to 0.25](https://github.com/patchloom/patchloom/pull/2649) in **patchloom/patchloom**
-- [fix: mark unmeasured matrix cells skipped](https://github.com/canact/canact/pull/341) in **canact/canact**
+- [fix: keep import and omitted values from forcing replacement](https://github.com/coolify-terraform/terraform-provider-coolify/pull/982) in **coolify-terraform/terraform-provider-coolify**
+- [fix: report map and proxy failures the CLI hid](https://github.com/wiremuxhq/wiremux/pull/546) in **wiremuxhq/wiremux**
+- [fix: count file_path when path is not a usable string](https://github.com/canact/canact/pull/344) in **canact/canact**
+- [docs: correct format failure and killpg comments](https://github.com/patchloom/patchloom/pull/2651) in **patchloom/patchloom**
 - [fix: keep a native-admin upgrade reset from exiting the API](https://github.com/openclaw/openclaw-enterprise/pull/1663) in **openclaw/openclaw-enterprise**
 - [fix(browser): match URL globs without a backtracking regex](https://github.com/openclaw/openclaw/pull/166727) in **openclaw/openclaw**
-- [operator attune (0.1.33)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11440) in **redhat-openshift-ecosystem/community-operators-prod**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

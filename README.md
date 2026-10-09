@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: wait for the crates.io index before the next publish](https://github.com/wiremuxhq/wiremux/pull/549) in **wiremuxhq/wiremux**
+- [docs: point the CI badge at main](https://github.com/wiremuxhq/wiremux/pull/558) in **wiremuxhq/wiremux**
+- [fix(doc): keep TOML integers above i64::MAX exact](https://github.com/patchloom/patchloom/pull/2655) in **patchloom/patchloom**
+- [fix: treat Gemini MAX_TOKENS as a length cut](https://github.com/canact/canact/pull/348) in **canact/canact**
 - [fix: keep CLI stderr when a Quick Action times out](https://github.com/patchloom/patchloom-vscode/pull/290) in **patchloom/patchloom-vscode**
 - [fix: do not guess Hetzner enable_backups after import](https://github.com/coolify-terraform/terraform-provider-coolify/pull/983) in **coolify-terraform/terraform-provider-coolify**
-- [fix: count file_path when path is not a usable string](https://github.com/canact/canact/pull/344) in **canact/canact**
-- [docs: correct format failure and killpg comments](https://github.com/patchloom/patchloom/pull/2651) in **patchloom/patchloom**
-- [fix: keep a native-admin upgrade reset from exiting the API](https://github.com/openclaw/openclaw-enterprise/pull/1663) in **openclaw/openclaw-enterprise**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

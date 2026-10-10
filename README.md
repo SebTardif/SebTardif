@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: reject an unclosed ini section and fail the path-filter gate](https://github.com/patchloom/patchloom/pull/2657) in **patchloom/patchloom**
 - [docs: point the CI badge at main](https://github.com/wiremuxhq/wiremux/pull/558) in **wiremuxhq/wiremux**
-- [fix(doc): keep TOML integers above i64::MAX exact](https://github.com/patchloom/patchloom/pull/2655) in **patchloom/patchloom**
 - [fix: treat Gemini MAX_TOKENS as a length cut](https://github.com/canact/canact/pull/348) in **canact/canact**
 - [fix: keep CLI stderr when a Quick Action times out](https://github.com/patchloom/patchloom-vscode/pull/290) in **patchloom/patchloom-vscode**
 - [fix: do not guess Hetzner enable_backups after import](https://github.com/coolify-terraform/terraform-provider-coolify/pull/983) in **coolify-terraform/terraform-provider-coolify**

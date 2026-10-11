@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(plan): stop a dropped key from changing the edit](https://github.com/patchloom/patchloom/pull/2660) in **patchloom/patchloom**
-- [feat(client): return the encode LossReport from streaming](https://github.com/wiremuxhq/wiremux/pull/560) in **wiremuxhq/wiremux**
+- [test: lock refusal index, image bytes, and completed usage](https://github.com/wiremuxhq/wiremux/pull/564) in **wiremuxhq/wiremux**
+- [chore(deps): bump serde_json to 1.0.152](https://github.com/patchloom/patchloom/pull/2662) in **patchloom/patchloom**
 - [fix: consume wiremux 0.10.6](https://github.com/canact/canact/pull/350) in **canact/canact**
 - [fix: keep CLI stderr when a Quick Action times out](https://github.com/patchloom/patchloom-vscode/pull/290) in **patchloom/patchloom-vscode**
 - [fix: do not guess Hetzner enable_backups after import](https://github.com/coolify-terraform/terraform-provider-coolify/pull/983) in **coolify-terraform/terraform-provider-coolify**

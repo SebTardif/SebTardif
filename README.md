@@ -44,9 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [chore(deps): bump serde_json to 1.0.154](https://github.com/patchloom/patchloom/pull/2665) in **patchloom/patchloom**
+- [fix: consume wiremux 0.11.0](https://github.com/canact/canact/pull/352) in **canact/canact**
+- [fix(rename): name binary and directory moves in preview](https://github.com/patchloom/patchloom/pull/2666) in **patchloom/patchloom**
+- [fix: record the containers in an hpa resource base](https://github.com/attune-io/attune/pull/1037) in **attune-io/attune**
 - [chore: bump serde_json to 1.0.154](https://github.com/wiremuxhq/wiremux/pull/569) in **wiremuxhq/wiremux**
-- [fix: consume wiremux 0.10.6](https://github.com/canact/canact/pull/350) in **canact/canact**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,10 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: lock the xAI setup-token hint](https://github.com/wiremuxhq/wiremux/pull/567) in **wiremuxhq/wiremux**
-- [chore(deps): bump serde_json to 1.0.152](https://github.com/patchloom/patchloom/pull/2662) in **patchloom/patchloom**
+- [chore(deps): bump serde_json to 1.0.154](https://github.com/patchloom/patchloom/pull/2665) in **patchloom/patchloom**
+- [chore: bump serde_json to 1.0.154](https://github.com/wiremuxhq/wiremux/pull/569) in **wiremuxhq/wiremux**
 - [fix: consume wiremux 0.10.6](https://github.com/canact/canact/pull/350) in **canact/canact**
-- [fix: keep CLI stderr when a Quick Action times out](https://github.com/patchloom/patchloom-vscode/pull/290) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

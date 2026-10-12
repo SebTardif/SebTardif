@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: consume wiremux 0.11.0](https://github.com/canact/canact/pull/352) in **canact/canact**
+- [docs: pin library Cargo examples at 0.11](https://github.com/canact/canact/pull/355) in **canact/canact**
 - [fix(rename): name binary and directory moves in preview](https://github.com/patchloom/patchloom/pull/2666) in **patchloom/patchloom**
 - [fix: record the containers in an hpa resource base](https://github.com/attune-io/attune/pull/1037) in **attune-io/attune**
 - [chore: bump serde_json to 1.0.154](https://github.com/wiremuxhq/wiremux/pull/569) in **wiremuxhq/wiremux**

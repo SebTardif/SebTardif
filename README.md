@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: do not finish a same-wire stream on an error chunk](https://github.com/wiremuxhq/wiremux/pull/580) in **wiremuxhq/wiremux**
+- [chore: bump tokio to 1.53.3](https://github.com/canact/canact/pull/361) in **canact/canact**
+- [fix(smt): stop reporting a CVC5 counterexample as a timeout](https://github.com/assura-lang/assura/pull/1690) in **assura-lang/assura**
+- [fix: decode a large Converse JSON completion on stream](https://github.com/wiremuxhq/wiremux/pull/593) in **wiremuxhq/wiremux**
+- [fix: install the pinned govulncheck binary](https://github.com/attune-io/attune/pull/1045) in **attune-io/attune**
 - [feat: send Traefik certificate resolver only when set](https://github.com/coolify-terraform/terraform-provider-coolify/pull/987) in **coolify-terraform/terraform-provider-coolify**
 - [fix(repo-credentials): retry a fence that a refused admission did not commit](https://github.com/openclaw/openclaw-enterprise/pull/2251) in **openclaw/openclaw-enterprise**
-- [docs: pin library Cargo examples at 0.11](https://github.com/canact/canact/pull/355) in **canact/canact**
-- [fix(rename): name binary and directory moves in preview](https://github.com/patchloom/patchloom/pull/2666) in **patchloom/patchloom**
-- [fix: record the containers in an hpa resource base](https://github.com/attune-io/attune/pull/1037) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

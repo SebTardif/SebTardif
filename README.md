@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: reject a Responses gateway error that has no status](https://github.com/wiremuxhq/wiremux/pull/577) in **wiremuxhq/wiremux**
+- [fix: do not finish a same-wire stream on an error chunk](https://github.com/wiremuxhq/wiremux/pull/580) in **wiremuxhq/wiremux**
 - [feat: send Traefik certificate resolver only when set](https://github.com/coolify-terraform/terraform-provider-coolify/pull/987) in **coolify-terraform/terraform-provider-coolify**
 - [docs: pin library Cargo examples at 0.11](https://github.com/canact/canact/pull/355) in **canact/canact**
 - [fix(rename): name binary and directory moves in preview](https://github.com/patchloom/patchloom/pull/2666) in **patchloom/patchloom**

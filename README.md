@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep Responses input image detail](https://github.com/wiremuxhq/wiremux/pull/638) in **wiremuxhq/wiremux**
+- [fix: keep Gemini urlContext so the model can read the page](https://github.com/wiremuxhq/wiremux/pull/644) in **wiremuxhq/wiremux**
 - [fix(cli): stop telling doctor users to run setup-cvc5.sh](https://github.com/assura-lang/assura/pull/1702) in **assura-lang/assura**
 - [fix: reject a whitespace-only probe base URL](https://github.com/canact/canact/pull/366) in **canact/canact**
 <!-- RECENT-PRS-END -->

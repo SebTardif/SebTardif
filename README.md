@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: unset profile fields when an env value is empty](https://github.com/wiremuxhq/wiremux/pull/598) in **wiremuxhq/wiremux**
-- [fix: store the original hpa base when the percent does not change](https://github.com/attune-io/attune/pull/1046) in **attune-io/attune**
-- [fix: reject a whitespace-only probe provider](https://github.com/canact/canact/pull/365) in **canact/canact**
-- [fix(smt): encode string length and literals for the CVC5 shell](https://github.com/assura-lang/assura/pull/1694) in **assura-lang/assura**
+- [fix(cli): stop telling doctor users to run setup-cvc5.sh](https://github.com/assura-lang/assura/pull/1702) in **assura-lang/assura**
+- [fix: keep Converse tool list cachePoint blocks](https://github.com/wiremuxhq/wiremux/pull/618) in **wiremuxhq/wiremux**
+- [fix: reject a whitespace-only probe base URL](https://github.com/canact/canact/pull/366) in **canact/canact**
+- [test: assert the full safety query and throttle message](https://github.com/attune-io/attune/pull/1047) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

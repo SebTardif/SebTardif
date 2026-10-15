@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: join assistant media and keep tool images](https://github.com/wiremuxhq/wiremux/pull/645) in **wiremuxhq/wiremux**
-- [test: give the go e2e suite context 50 minutes](https://github.com/attune-io/attune/pull/1051) in **attune-io/attune**
-- [feat(smt): migrate native cvc5 to crate 0.6.1](https://github.com/assura-lang/assura/pull/1704) in **assura-lang/assura**
+- [fix: recompute hpa retune after a conflict](https://github.com/attune-io/attune/pull/1052) in **attune-io/attune**
+- [fix: keep Vertex model catalogs and skip a spare document prompt](https://github.com/wiremuxhq/wiremux/pull/646) in **wiremuxhq/wiremux**
+- [docs: native CVC5 source builds are no longer blocked](https://github.com/assura-lang/assura/pull/1705) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

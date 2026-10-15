@@ -44,6 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [operator attune (0.1.34)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11649) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.34)](https://github.com/k8s-operatorhub/community-operators/pull/9638) in **k8s-operatorhub/community-operators**
 - [test: retune hpa from production resize history](https://github.com/attune-io/attune/pull/1054) in **attune-io/attune**
 - [fix: reject a Chat stream error when the delta is empty](https://github.com/wiremuxhq/wiremux/pull/649) in **wiremuxhq/wiremux**
 - [docs: native CVC5 source builds are no longer blocked](https://github.com/assura-lang/assura/pull/1705) in **assura-lang/assura**

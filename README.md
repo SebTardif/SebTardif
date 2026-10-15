@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: recompute hpa retune after a conflict](https://github.com/attune-io/attune/pull/1052) in **attune-io/attune**
-- [fix: keep Vertex model catalogs and skip a spare document prompt](https://github.com/wiremuxhq/wiremux/pull/646) in **wiremuxhq/wiremux**
+- [test: retune hpa from production resize history](https://github.com/attune-io/attune/pull/1054) in **attune-io/attune**
+- [fix: reject a Chat stream error when the delta is empty](https://github.com/wiremuxhq/wiremux/pull/649) in **wiremuxhq/wiremux**
 - [docs: native CVC5 source builds are no longer blocked](https://github.com/assura-lang/assura/pull/1705) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 

@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: keep ini spacing and value comments](https://github.com/patchloom/patchloom/pull/2673) in **patchloom/patchloom**
+- [fix: honor anchored deny globs and untrimmed roots](https://github.com/workpen/workpen/pull/284) in **workpen/workpen**
+- [fix: Messages image file ids survive a round trip](https://github.com/wiremuxhq/wiremux/pull/661) in **wiremuxhq/wiremux**
 - [docs: pin library Cargo examples at 0.12](https://github.com/canact/canact/pull/369) in **canact/canact**
-- [fix: keep image detail, tool arguments, and Azure model lists](https://github.com/wiremuxhq/wiremux/pull/658) in **wiremuxhq/wiremux**
-- [fix: report a live macOS setsid orphan and commit each gc ref](https://github.com/workpen/workpen/pull/282) in **workpen/workpen**
 - [operator attune (0.1.34)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11649) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.34)](https://github.com/k8s-operatorhub/community-operators/pull/9638) in **k8s-operatorhub/community-operators**
-- [test: retune hpa from production resize history](https://github.com/attune-io/attune/pull/1054) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

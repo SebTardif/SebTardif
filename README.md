@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep ini spacing and value comments](https://github.com/patchloom/patchloom/pull/2673) in **patchloom/patchloom**
-- [fix: honor anchored deny globs and untrimmed roots](https://github.com/workpen/workpen/pull/284) in **workpen/workpen**
+- [fix: persist the current grader epoch after cache migration](https://github.com/canact/canact/pull/373) in **canact/canact**
+- [fix: fail the ci gate when a job is abandoned](https://github.com/patchloom/patchloom/pull/2678) in **patchloom/patchloom**
+- [fix: end a macOS pre-exec stop that never continues](https://github.com/workpen/workpen/pull/290) in **workpen/workpen**
+- [fix: accept a score legend that is a list of labels](https://github.com/snapif/snapif/pull/228) in **snapif/snapif**
 - [fix: Messages image file ids survive a round trip](https://github.com/wiremuxhq/wiremux/pull/661) in **wiremuxhq/wiremux**
-- [docs: pin library Cargo examples at 0.12](https://github.com/canact/canact/pull/369) in **canact/canact**
-- [operator attune (0.1.34)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11649) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.34)](https://github.com/k8s-operatorhub/community-operators/pull/9638) in **k8s-operatorhub/community-operators**
+- [fix: dispatch comment commands when the target token fails](https://github.com/openclaw/clawsweeper.bot/pull/5) in **openclaw/clawsweeper.bot**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

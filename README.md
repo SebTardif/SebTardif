@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix(mac): persist the Ollama base URL in config.json](https://github.com/openclaw/Peekaboo/pull/1104) in **openclaw/Peekaboo**
+- [fix: keep a hook prompt when gate has no trusted object](https://github.com/snapif/snapif/pull/230) in **snapif/snapif**
 - [fix: keep the vendor message when a Messages text block is empty](https://github.com/wiremuxhq/wiremux/pull/666) in **wiremuxhq/wiremux**
 - [ci: finish a release after the ask](https://github.com/workpen/workpen/pull/294) in **workpen/workpen**
-- [fix(foundation): keep a cancelled no-op quit as a no-op](https://github.com/openclaw/Peekaboo/pull/1098) in **openclaw/Peekaboo**
+- [New version: Patchloom.Patchloom version 0.37.3](https://github.com/microsoft/winget-pkgs/pull/454360) in **microsoft/winget-pkgs**
 - [fix: persist the current grader epoch after cache migration](https://github.com/canact/canact/pull/373) in **canact/canact**
-- [fix: fail the ci gate when a job is abandoned](https://github.com/patchloom/patchloom/pull/2678) in **patchloom/patchloom**
-- [fix: match powershell -EncodedCommand as the script](https://github.com/snapif/snapif/pull/229) in **snapif/snapif**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

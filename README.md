@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: keep the vendor message when a Messages text block is empty](https://github.com/wiremuxhq/wiremux/pull/666) in **wiremuxhq/wiremux**
+- [ci: finish a release after the ask](https://github.com/workpen/workpen/pull/294) in **workpen/workpen**
+- [fix(foundation): keep a cancelled no-op quit as a no-op](https://github.com/openclaw/Peekaboo/pull/1098) in **openclaw/Peekaboo**
 - [fix: persist the current grader epoch after cache migration](https://github.com/canact/canact/pull/373) in **canact/canact**
 - [fix: fail the ci gate when a job is abandoned](https://github.com/patchloom/patchloom/pull/2678) in **patchloom/patchloom**
-- [fix: end a macOS pre-exec stop that never continues](https://github.com/workpen/workpen/pull/290) in **workpen/workpen**
-- [fix: accept a score legend that is a list of labels](https://github.com/snapif/snapif/pull/228) in **snapif/snapif**
-- [fix: Messages image file ids survive a round trip](https://github.com/wiremuxhq/wiremux/pull/661) in **wiremuxhq/wiremux**
-- [fix: dispatch comment commands when the target token fails](https://github.com/openclaw/clawsweeper.bot/pull/5) in **openclaw/clawsweeper.bot**
+- [fix: match powershell -EncodedCommand as the script](https://github.com/snapif/snapif/pull/229) in **snapif/snapif**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

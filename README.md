@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep leading zeros in a doc value token](https://github.com/patchloom/patchloom/pull/2686) in **patchloom/patchloom**
-- [fix: keep a Responses stream leaf on response.failed](https://github.com/wiremuxhq/wiremux/pull/672) in **wiremuxhq/wiremux**
+- [fix: name the missing credential on a profile](https://github.com/wiremuxhq/wiremux/pull/673) in **wiremuxhq/wiremux**
+- [fix: keep a multiline TOML array comment on its item](https://github.com/patchloom/patchloom/pull/2687) in **patchloom/patchloom**
 - [ci: run the coverage floor from make check](https://github.com/honepad/honepad/pull/316) in **honepad/honepad**
 - [fix: deny an oversized hook body and a shell past the depth cap](https://github.com/snapif/snapif/pull/236) in **snapif/snapif**
 - [fix(mac): persist the Ollama base URL in config.json](https://github.com/openclaw/Peekaboo/pull/1104) in **openclaw/Peekaboo**

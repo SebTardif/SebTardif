@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: reject dishonest trace and report results](https://github.com/honepad/honepad/pull/313) in **honepad/honepad**
-- [fix: keep a Responses leaf when an error object is present](https://github.com/wiremuxhq/wiremux/pull/669) in **wiremuxhq/wiremux**
+- [fix: keep leading zeros in a doc value token](https://github.com/patchloom/patchloom/pull/2686) in **patchloom/patchloom**
+- [fix: keep a Responses stream leaf on response.failed](https://github.com/wiremuxhq/wiremux/pull/672) in **wiremuxhq/wiremux**
+- [ci: run the coverage floor from make check](https://github.com/honepad/honepad/pull/316) in **honepad/honepad**
 - [fix: deny an oversized hook body and a shell past the depth cap](https://github.com/snapif/snapif/pull/236) in **snapif/snapif**
 - [fix(mac): persist the Ollama base URL in config.json](https://github.com/openclaw/Peekaboo/pull/1104) in **openclaw/Peekaboo**
 - [ci: finish a release after the ask](https://github.com/workpen/workpen/pull/294) in **workpen/workpen**
-- [New version: Patchloom.Patchloom version 0.37.3](https://github.com/microsoft/winget-pkgs/pull/454360) in **microsoft/winget-pkgs**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

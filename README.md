@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: keep the vendor message on a model list error object](https://github.com/wiremuxhq/wiremux/pull/681) in **wiremuxhq/wiremux**
 - [fix: quote YAML 1.1 boolean letters y and n](https://github.com/craftbag/craftbag/pull/431) in **craftbag/craftbag**
-- [fix: return the vendor error when response.failed drops a leaf](https://github.com/wiremuxhq/wiremux/pull/679) in **wiremuxhq/wiremux**
 - [fix: reject replace plans that set both path and glob](https://github.com/patchloom/patchloom/pull/2692) in **patchloom/patchloom**
 - [ci: run the coverage floor from make check](https://github.com/honepad/honepad/pull/316) in **honepad/honepad**
 <!-- RECENT-PRS-END -->

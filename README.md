@@ -44,12 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: stage ingest profiles before replacing them](https://github.com/wiremuxhq/wiremux/pull/675) in **wiremuxhq/wiremux**
-- [docs: correct the getting started walk and examples](https://github.com/craftbag/craftbag/pull/424) in **craftbag/craftbag**
-- [docs: use the real doc select predicate form](https://github.com/patchloom/patchloom/pull/2689) in **patchloom/patchloom**
+- [fix: quote YAML 1.1 boolean letters y and n](https://github.com/craftbag/craftbag/pull/431) in **craftbag/craftbag**
+- [fix: return the vendor error when response.failed drops a leaf](https://github.com/wiremuxhq/wiremux/pull/679) in **wiremuxhq/wiremux**
+- [fix: reject replace plans that set both path and glob](https://github.com/patchloom/patchloom/pull/2692) in **patchloom/patchloom**
 - [ci: run the coverage floor from make check](https://github.com/honepad/honepad/pull/316) in **honepad/honepad**
-- [fix: deny an oversized hook body and a shell past the depth cap](https://github.com/snapif/snapif/pull/236) in **snapif/snapif**
-- [fix(mac): persist the Ollama base URL in config.json](https://github.com/openclaw/Peekaboo/pull/1104) in **openclaw/Peekaboo**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [operator attune (0.1.35)](https://github.com/k8s-operatorhub/community-operators/pull/9660) in **k8s-operatorhub/community-operators**
 - [fix: keep a no-policy week from paging the weekly report alert](https://github.com/attune-io/attune/pull/1060) in **attune-io/attune**
 - [fix: send forced Claude tool choice as auto](https://github.com/wiremuxhq/wiremux/pull/684) in **wiremuxhq/wiremux**
 - [fix: stop sending storage host_path to Coolify](https://github.com/coolify-terraform/terraform-provider-coolify/pull/992) in **coolify-terraform/terraform-provider-coolify**
 - [fix: name replace_all in SEARCH/REPLACE multi-match errors](https://github.com/patchloom/patchloom/pull/2703) in **patchloom/patchloom**
 - [fix: quote YAML 1.1 boolean letters y and n](https://github.com/craftbag/craftbag/pull/431) in **craftbag/craftbag**
-- [New version: Craftbag.Craftbag version 0.3.0](https://github.com/microsoft/winget-pkgs/pull/455602) in **microsoft/winget-pkgs**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: require the weekly report week header and policy count](https://github.com/attune-io/attune/pull/1059) in **attune-io/attune**
+- [fix: keep a no-policy week from paging the weekly report alert](https://github.com/attune-io/attune/pull/1060) in **attune-io/attune**
 - [fix: send forced Claude tool choice as auto](https://github.com/wiremuxhq/wiremux/pull/684) in **wiremuxhq/wiremux**
 - [fix: stop sending storage host_path to Coolify](https://github.com/coolify-terraform/terraform-provider-coolify/pull/992) in **coolify-terraform/terraform-provider-coolify**
 - [fix: name replace_all in SEARCH/REPLACE multi-match errors](https://github.com/patchloom/patchloom/pull/2703) in **patchloom/patchloom**

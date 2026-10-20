@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [test: require the weekly report week header and policy count](https://github.com/attune-io/attune/pull/1059) in **attune-io/attune**
 - [fix: send forced Claude tool choice as auto](https://github.com/wiremuxhq/wiremux/pull/684) in **wiremuxhq/wiremux**
 - [fix: stop sending storage host_path to Coolify](https://github.com/coolify-terraform/terraform-provider-coolify/pull/992) in **coolify-terraform/terraform-provider-coolify**
 - [fix: name replace_all in SEARCH/REPLACE multi-match errors](https://github.com/patchloom/patchloom/pull/2703) in **patchloom/patchloom**
-- [feat: send a weekly rightsizing report](https://github.com/attune-io/attune/pull/1056) in **attune-io/attune**
 - [fix: quote YAML 1.1 boolean letters y and n](https://github.com/craftbag/craftbag/pull/431) in **craftbag/craftbag**
 - [New version: Craftbag.Craftbag version 0.3.0](https://github.com/microsoft/winget-pkgs/pull/455602) in **microsoft/winget-pkgs**
 <!-- RECENT-PRS-END -->

@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: omit Responses include unless the caller set it](https://github.com/wiremuxhq/wiremux/pull/687) in **wiremuxhq/wiremux**
+- [fix: keep Gemini tool text wrapped in a cache breakpoint](https://github.com/wiremuxhq/wiremux/pull/692) in **wiremuxhq/wiremux**
+- [ci: let Dependabot rebase push workflow file updates](https://github.com/assura-lang/assura/pull/1710) in **assura-lang/assura**
+- [fix: keep host paths and MCP replies on the contract the host named](https://github.com/craftbag/craftbag/pull/434) in **craftbag/craftbag**
 - [chore: ignore unmaintained zbus crates in osv-scanner](https://github.com/canact/canact/pull/382) in **canact/canact**
 - [fix: keep real methods and the desk the user already chose](https://github.com/honepad/honepad/pull/322) in **honepad/honepad**
 - [docs: add the v0.1.35 upgrade section](https://github.com/attune-io/attune/pull/1061) in **attune-io/attune**
-- [operator attune (0.1.35)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11681) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.35)](https://github.com/k8s-operatorhub/community-operators/pull/9660) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

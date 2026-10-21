@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: close review gaps in the tool gate, cache, and MCP](https://github.com/canact/canact/pull/381) in **canact/canact**
+- [chore: ignore unmaintained zbus crates in osv-scanner](https://github.com/canact/canact/pull/382) in **canact/canact**
 - [fix: keep real methods and the desk the user already chose](https://github.com/honepad/honepad/pull/322) in **honepad/honepad**
 - [docs: add the v0.1.35 upgrade section](https://github.com/attune-io/attune/pull/1061) in **attune-io/attune**
 - [operator attune (0.1.35)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11681) in **redhat-openshift-ecosystem/community-operators-prod**

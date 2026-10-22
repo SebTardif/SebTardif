@@ -44,12 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep Gemini tool text wrapped in a cache breakpoint](https://github.com/wiremuxhq/wiremux/pull/692) in **wiremuxhq/wiremux**
-- [ci: let Dependabot rebase push workflow file updates](https://github.com/assura-lang/assura/pull/1710) in **assura-lang/assura**
-- [fix: keep host paths and MCP replies on the contract the host named](https://github.com/craftbag/craftbag/pull/434) in **craftbag/craftbag**
-- [chore: ignore unmaintained zbus crates in osv-scanner](https://github.com/canact/canact/pull/382) in **canact/canact**
-- [fix: keep real methods and the desk the user already chose](https://github.com/honepad/honepad/pull/322) in **honepad/honepad**
-- [docs: add the v0.1.35 upgrade section](https://github.com/attune-io/attune/pull/1061) in **attune-io/attune**
+- [fix: strip Unicode whitespace around JSON and typed tokens](https://github.com/argmend/argmend/pull/31) in **argmend/argmend**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

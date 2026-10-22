@@ -44,7 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep content keywords from being skipped by coercion](https://github.com/argmend/argmend/pull/76) in **argmend/argmend**
+- [chore(deps): bump ovsx to 1.3.0](https://github.com/patchloom/patchloom-vscode/pull/295) in **patchloom/patchloom-vscode**
+- [fix: reject distrusted webpki intermediates](https://github.com/workpen/workpen/pull/297) in **workpen/workpen**
+- [fix: drop one unknown key when unevaluatedProperties is false](https://github.com/argmend/argmend/pull/78) in **argmend/argmend**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

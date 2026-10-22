@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [chore(deps): bump ovsx to 1.3.0](https://github.com/patchloom/patchloom-vscode/pull/295) in **patchloom/patchloom-vscode**
-- [fix: reject distrusted webpki intermediates](https://github.com/workpen/workpen/pull/297) in **workpen/workpen**
-- [fix: drop one unknown key when unevaluatedProperties is false](https://github.com/argmend/argmend/pull/78) in **argmend/argmend**
+- [feat: publish argmend 0.2.3](https://github.com/argmend/argmend/pull/86) in **argmend/argmend**
+- [fix: make palette, preview, and MCP setup match the CLI](https://github.com/patchloom/patchloom-vscode/pull/317) in **patchloom/patchloom-vscode**
+- [fix: why agrees with run on /dev/null and devices](https://github.com/workpen/workpen/pull/300) in **workpen/workpen**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

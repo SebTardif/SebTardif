@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: do not list every ignored file during gc](https://github.com/workpen/workpen/pull/315) in **workpen/workpen**
+- [fix: name agent.lock when init cannot create it](https://github.com/workpen/workpen/pull/317) in **workpen/workpen**
 - [feat: publish argmend 0.2.4](https://github.com/argmend/argmend/pull/104) in **argmend/argmend**
 - [Remove leaked Helm index cache on error](https://github.com/fluxcd/source-controller/pull/2201) in **fluxcd/source-controller**
 - [fix(mac): mark a failed tool row as failed](https://github.com/openclaw/Peekaboo/pull/1134) in **openclaw/Peekaboo**

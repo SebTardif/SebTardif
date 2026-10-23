@@ -44,9 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: compare duplicate aliases after coercion](https://github.com/argmend/argmend/pull/99) in **argmend/argmend**
+- [Fix Azure blob download close errors](https://github.com/fluxcd/source-controller/pull/2200) in **fluxcd/source-controller**
 - [fix: keep deny matching bounded and honest on Windows](https://github.com/workpen/workpen/pull/308) in **workpen/workpen**
-- [fix: stop repairs that invent a value](https://github.com/argmend/argmend/pull/98) in **argmend/argmend**
-- [fix: stop Batch Apply when the plan changes after the dry run](https://github.com/patchloom/patchloom-vscode/pull/319) in **patchloom/patchloom-vscode**
+- [fix(mac): mark a failed tool row as failed](https://github.com/openclaw/Peekaboo/pull/1134) in **openclaw/Peekaboo**
+- [fix: preserve dashboard URL and job-state correctness](https://github.com/steipete/BlackBar/pull/21) in **steipete/BlackBar**
+- [fix: preserve query timestamps, filters, and JSON output](https://github.com/steipete/bslog/pull/18) in **steipete/bslog**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

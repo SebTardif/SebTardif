@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: compare duplicate aliases after coercion](https://github.com/argmend/argmend/pull/99) in **argmend/argmend**
-- [Fix Azure blob download close errors](https://github.com/fluxcd/source-controller/pull/2200) in **fluxcd/source-controller**
-- [fix: keep deny matching bounded and honest on Windows](https://github.com/workpen/workpen/pull/308) in **workpen/workpen**
+- [fix: do not list every ignored file during gc](https://github.com/workpen/workpen/pull/315) in **workpen/workpen**
+- [feat: publish argmend 0.2.4](https://github.com/argmend/argmend/pull/104) in **argmend/argmend**
+- [Remove leaked Helm index cache on error](https://github.com/fluxcd/source-controller/pull/2201) in **fluxcd/source-controller**
 - [fix(mac): mark a failed tool row as failed](https://github.com/openclaw/Peekaboo/pull/1134) in **openclaw/Peekaboo**
 - [fix: preserve dashboard URL and job-state correctness](https://github.com/steipete/BlackBar/pull/21) in **steipete/BlackBar**
 - [fix: preserve query timestamps, filters, and JSON output](https://github.com/steipete/bslog/pull/18) in **steipete/bslog**

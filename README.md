@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: reject a zero token cap on Chat, Responses, and Gemini](https://github.com/wiremuxhq/wiremux/pull/708) in **wiremuxhq/wiremux**
+- [fix: let library apply_patch pass replace_all](https://github.com/patchloom/patchloom/pull/2709) in **patchloom/patchloom**
 - [fix: name agent.lock when init cannot create it](https://github.com/workpen/workpen/pull/317) in **workpen/workpen**
 - [feat: publish argmend 0.2.4](https://github.com/argmend/argmend/pull/104) in **argmend/argmend**
 - [Remove leaked Helm index cache on error](https://github.com/fluxcd/source-controller/pull/2201) in **fluxcd/source-controller**
 - [fix(mac): mark a failed tool row as failed](https://github.com/openclaw/Peekaboo/pull/1134) in **openclaw/Peekaboo**
-- [fix: preserve dashboard URL and job-state correctness](https://github.com/steipete/BlackBar/pull/21) in **steipete/BlackBar**
-- [fix: preserve query timestamps, filters, and JSON output](https://github.com/steipete/bslog/pull/18) in **steipete/bslog**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

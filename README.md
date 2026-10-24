@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: classify contain patch reads and quote YAML 0b strings](https://github.com/patchloom/patchloom/pull/2712) in **patchloom/patchloom**
+- [chore: bump rmcp 3.7.0, tokio 1.54.1, and yaml-edit 0.3.5](https://github.com/patchloom/patchloom/pull/2713) in **patchloom/patchloom**
 - [fix: drop wrapped thinking instead of panicking on Chat and Responses](https://github.com/wiremuxhq/wiremux/pull/709) in **wiremuxhq/wiremux**
 - [fix: name agent.lock when init cannot create it](https://github.com/workpen/workpen/pull/317) in **workpen/workpen**
 - [feat: publish argmend 0.2.4](https://github.com/argmend/argmend/pull/104) in **argmend/argmend**

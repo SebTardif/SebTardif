@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: reject a zero token cap on Chat, Responses, and Gemini](https://github.com/wiremuxhq/wiremux/pull/708) in **wiremuxhq/wiremux**
-- [fix: let library apply_patch pass replace_all](https://github.com/patchloom/patchloom/pull/2709) in **patchloom/patchloom**
+- [fix: classify contain patch reads and quote YAML 0b strings](https://github.com/patchloom/patchloom/pull/2712) in **patchloom/patchloom**
+- [fix: drop wrapped thinking instead of panicking on Chat and Responses](https://github.com/wiremuxhq/wiremux/pull/709) in **wiremuxhq/wiremux**
 - [fix: name agent.lock when init cannot create it](https://github.com/workpen/workpen/pull/317) in **workpen/workpen**
 - [feat: publish argmend 0.2.4](https://github.com/argmend/argmend/pull/104) in **argmend/argmend**
 - [Remove leaked Helm index cache on error](https://github.com/fluxcd/source-controller/pull/2201) in **fluxcd/source-controller**

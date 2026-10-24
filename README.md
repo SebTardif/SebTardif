@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [chore: bump rmcp 3.7.0, tokio 1.54.1, and yaml-edit 0.3.5](https://github.com/patchloom/patchloom/pull/2713) in **patchloom/patchloom**
+- [fix: name the parent when doc set cannot descend into a scalar](https://github.com/patchloom/patchloom/pull/2719) in **patchloom/patchloom**
 - [fix: drop wrapped thinking instead of panicking on Chat and Responses](https://github.com/wiremuxhq/wiremux/pull/709) in **wiremuxhq/wiremux**
 - [fix: name agent.lock when init cannot create it](https://github.com/workpen/workpen/pull/317) in **workpen/workpen**
 - [feat: publish argmend 0.2.4](https://github.com/argmend/argmend/pull/104) in **argmend/argmend**
 - [Remove leaked Helm index cache on error](https://github.com/fluxcd/source-controller/pull/2201) in **fluxcd/source-controller**
-- [fix(mac): mark a failed tool row as failed](https://github.com/openclaw/Peekaboo/pull/1134) in **openclaw/Peekaboo**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

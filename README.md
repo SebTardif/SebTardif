@@ -44,6 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: consume wiremux 0.11.9 and clear yanked tokio](https://github.com/canact/canact/pull/385) in **canact/canact**
 - [fix: name the parent when doc set cannot descend into a scalar](https://github.com/patchloom/patchloom/pull/2719) in **patchloom/patchloom**
 - [fix: drop wrapped thinking instead of panicking on Chat and Responses](https://github.com/wiremuxhq/wiremux/pull/709) in **wiremuxhq/wiremux**
 - [fix: name agent.lock when init cannot create it](https://github.com/workpen/workpen/pull/317) in **workpen/workpen**

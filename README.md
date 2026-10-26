@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: score a hash inside a Python string as code](https://github.com/canact/canact/pull/387) in **canact/canact**
-- [fix: skip POST /api/v1/enable on Coolify 4.5.0](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1000) in **coolify-terraform/terraform-provider-coolify**
+- [docs: timeouts are errors at every layer](https://github.com/assura-lang/assura/pull/1724) in **assura-lang/assura**
+- [feat: send Coolify 4.5.0 writes without breaking older servers](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1003) in **coolify-terraform/terraform-provider-coolify**
+- [fix: reject a coercion a schema branch excludes](https://github.com/argmend/argmend/pull/106) in **argmend/argmend**
+- [fix(text-editor): state the cut cursor and undo rules](https://github.com/honepad/honepad/pull/324) in **honepad/honepad**
+- [fix: do not score an unanswered context ladder as a recall miss](https://github.com/canact/canact/pull/388) in **canact/canact**
 - [fix: name the parent when doc set cannot descend into a scalar](https://github.com/patchloom/patchloom/pull/2719) in **patchloom/patchloom**
-- [fix: drop wrapped thinking instead of panicking on Chat and Responses](https://github.com/wiremuxhq/wiremux/pull/709) in **wiremuxhq/wiremux**
-- [fix: name agent.lock when init cannot create it](https://github.com/workpen/workpen/pull/317) in **workpen/workpen**
-- [feat: publish argmend 0.2.4](https://github.com/argmend/argmend/pull/104) in **argmend/argmend**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

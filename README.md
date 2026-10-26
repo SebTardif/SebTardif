@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: score cat, head, and tail of a drive-letter file](https://github.com/snapif/snapif/pull/244) in **snapif/snapif**
-- [feat: publish argmend 0.2.5](https://github.com/argmend/argmend/pull/112) in **argmend/argmend**
-- [fix: build with go 1.27.3 for cve-2026-111943](https://github.com/attune-io/attune/pull/1067) in **attune-io/attune**
+- [fix: do not drop closed-object keys or invent keys from broken strings](https://github.com/argmend/argmend/pull/121) in **argmend/argmend**
+- [test: report a missing OOM as a harness failure in the OOMBump e2e](https://github.com/attune-io/attune/pull/1070) in **attune-io/attune**
+- [fix: score a command that prints a file as the text it prints](https://github.com/snapif/snapif/pull/245) in **snapif/snapif**
 - [fix: skip cloud catalog calls on Coolify older than 4.2.0](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1012) in **coolify-terraform/terraform-provider-coolify**
-- [fix(cli): completion install hides the missing-cache recovery command](https://github.com/openclaw/openclaw/pull/184191) in **openclaw/openclaw**
+- [fix(matrix): profile set without --account renames the wrong bot](https://github.com/openclaw/openclaw/pull/184687) in **openclaw/openclaw**
 - [docs: run the coverage gate with the venv python](https://github.com/honepad/honepad/pull/327) in **honepad/honepad**
 <!-- RECENT-PRS-END -->
 

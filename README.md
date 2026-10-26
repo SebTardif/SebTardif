@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: timeouts are errors at every layer](https://github.com/assura-lang/assura/pull/1724) in **assura-lang/assura**
-- [feat: send Coolify 4.5.0 writes without breaking older servers](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1003) in **coolify-terraform/terraform-provider-coolify**
-- [fix: reject a coercion a schema branch excludes](https://github.com/argmend/argmend/pull/106) in **argmend/argmend**
-- [fix(text-editor): state the cut cursor and undo rules](https://github.com/honepad/honepad/pull/324) in **honepad/honepad**
-- [fix: do not score an unanswered context ladder as a recall miss](https://github.com/canact/canact/pull/388) in **canact/canact**
-- [fix: name the parent when doc set cannot descend into a scalar](https://github.com/patchloom/patchloom/pull/2719) in **patchloom/patchloom**
+- [fix(cli): completion install hides the missing-cache recovery command](https://github.com/openclaw/openclaw/pull/184191) in **openclaw/openclaw**
+- [fix: recheck a coercion a nested schema branch excludes](https://github.com/argmend/argmend/pull/107) in **argmend/argmend**
+- [fix: warn when a Hostinger name is not a VPS hostname](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1007) in **coolify-terraform/terraform-provider-coolify**
+- [docs: run the coverage gate with the venv python](https://github.com/honepad/honepad/pull/327) in **honepad/honepad**
+- [fix(cli): empty directory check --json uses the project envelope](https://github.com/assura-lang/assura/pull/1725) in **assura-lang/assura**
+- [chore(deps): pin patched msal-node and serialize-javascript](https://github.com/patchloom/patchloom-vscode/pull/321) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

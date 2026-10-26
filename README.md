@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: score cat, head, and tail of a drive-letter file](https://github.com/snapif/snapif/pull/244) in **snapif/snapif**
+- [feat: publish argmend 0.2.5](https://github.com/argmend/argmend/pull/112) in **argmend/argmend**
+- [fix: build with go 1.27.3 for cve-2026-111943](https://github.com/attune-io/attune/pull/1067) in **attune-io/attune**
+- [fix: skip cloud catalog calls on Coolify older than 4.2.0](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1012) in **coolify-terraform/terraform-provider-coolify**
 - [fix(cli): completion install hides the missing-cache recovery command](https://github.com/openclaw/openclaw/pull/184191) in **openclaw/openclaw**
-- [fix: recheck a coercion a nested schema branch excludes](https://github.com/argmend/argmend/pull/107) in **argmend/argmend**
-- [fix: warn when a Hostinger name is not a VPS hostname](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1007) in **coolify-terraform/terraform-provider-coolify**
 - [docs: run the coverage gate with the venv python](https://github.com/honepad/honepad/pull/327) in **honepad/honepad**
-- [fix(cli): empty directory check --json uses the project envelope](https://github.com/assura-lang/assura/pull/1725) in **assura-lang/assura**
-- [chore(deps): pin patched msal-node and serialize-javascript](https://github.com/patchloom/patchloom-vscode/pull/321) in **patchloom/patchloom-vscode**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

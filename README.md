@@ -45,10 +45,9 @@
 
 <!-- RECENT-PRS-START -->
 - [feat: publish argmend 0.2.7](https://github.com/argmend/argmend/pull/134) in **argmend/argmend**
-- [fix: score node preloads, awk, ruby -r, and osascript](https://github.com/snapif/snapif/pull/256) in **snapif/snapif**
+- [fix: score more programs the host actually runs](https://github.com/snapif/snapif/pull/257) in **snapif/snapif**
 - [test: report a missing OOM as a harness failure in the OOMBump e2e](https://github.com/attune-io/attune/pull/1070) in **attune-io/attune**
 - [fix: skip cloud catalog calls on Coolify older than 4.2.0](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1012) in **coolify-terraform/terraform-provider-coolify**
-- [fix(matrix): profile set without --account renames the wrong bot](https://github.com/openclaw/openclaw/pull/184687) in **openclaw/openclaw**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

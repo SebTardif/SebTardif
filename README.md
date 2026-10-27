@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: do not drop closed-object keys or invent keys from broken strings](https://github.com/argmend/argmend/pull/121) in **argmend/argmend**
+- [feat: publish argmend 0.2.6](https://github.com/argmend/argmend/pull/128) in **argmend/argmend**
+- [fix: score the Windows script files the host runs](https://github.com/snapif/snapif/pull/250) in **snapif/snapif**
 - [test: report a missing OOM as a harness failure in the OOMBump e2e](https://github.com/attune-io/attune/pull/1070) in **attune-io/attune**
-- [fix: score a command that prints a file as the text it prints](https://github.com/snapif/snapif/pull/245) in **snapif/snapif**
 - [fix: skip cloud catalog calls on Coolify older than 4.2.0](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1012) in **coolify-terraform/terraform-provider-coolify**
 - [fix(matrix): profile set without --account renames the wrong bot](https://github.com/openclaw/openclaw/pull/184687) in **openclaw/openclaw**
 - [docs: run the coverage gate with the venv python](https://github.com/honepad/honepad/pull/327) in **honepad/honepad**

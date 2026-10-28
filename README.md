@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: score the Windows py launcher and cscript](https://github.com/snapif/snapif/pull/260) in **snapif/snapif**
 - [feat: publish argmend 0.2.7](https://github.com/argmend/argmend/pull/134) in **argmend/argmend**
-- [fix: score more programs the host actually runs](https://github.com/snapif/snapif/pull/257) in **snapif/snapif**
 - [test: report a missing OOM as a harness failure in the OOMBump e2e](https://github.com/attune-io/attune/pull/1070) in **attune-io/attune**
 - [fix: skip cloud catalog calls on Coolify older than 4.2.0](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1012) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->

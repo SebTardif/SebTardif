@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: correct 4.5.1 attribute docs and the FOSSA license badge](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1020) in **coolify-terraform/terraform-provider-coolify**
 - [fix: score the Windows py launcher and cscript](https://github.com/snapif/snapif/pull/260) in **snapif/snapif**
 - [feat: publish argmend 0.2.7](https://github.com/argmend/argmend/pull/134) in **argmend/argmend**
 - [test: report a missing OOM as a harness failure in the OOMBump e2e](https://github.com/attune-io/attune/pull/1070) in **attune-io/attune**
-- [fix: skip cloud catalog calls on Coolify older than 4.2.0](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1012) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

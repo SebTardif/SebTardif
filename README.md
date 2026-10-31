@@ -46,6 +46,7 @@
 <!-- RECENT-PRS-START -->
 - [fix: correct 4.5.1 attribute docs and the FOSSA license badge](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1020) in **coolify-terraform/terraform-provider-coolify**
 - [fix: score the Windows py launcher and cscript](https://github.com/snapif/snapif/pull/260) in **snapif/snapif**
+- [fix(parser): keep decorated private assignment targets as references](https://github.com/openclaw/bun/pull/217) in **openclaw/bun**
 - [feat: publish argmend 0.2.7](https://github.com/argmend/argmend/pull/134) in **argmend/argmend**
 - [test: report a missing OOM as a harness failure in the OOMBump e2e](https://github.com/attune-io/attune/pull/1070) in **attune-io/attune**
 <!-- RECENT-PRS-END -->

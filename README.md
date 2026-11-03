@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: correct 4.5.1 attribute docs and the FOSSA license badge](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1020) in **coolify-terraform/terraform-provider-coolify**
-- [fix: score the Windows py launcher and cscript](https://github.com/snapif/snapif/pull/260) in **snapif/snapif**
+- [feat(provider): add proxy, mTLS, timeout, and header commands](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1031) in **coolify-terraform/terraform-provider-coolify**
+- [chore: bump zip and sevenz-rust2 to current compatible releases](https://github.com/snapif/snapif/pull/267) in **snapif/snapif**
+- [ci: list Dependabot CI runs by commit](https://github.com/assura-lang/assura/pull/1734) in **assura-lang/assura**
 - [fix(parser): keep decorated private assignment targets as references](https://github.com/openclaw/bun/pull/217) in **openclaw/bun**
 - [feat: publish argmend 0.2.7](https://github.com/argmend/argmend/pull/134) in **argmend/argmend**
 - [test: report a missing OOM as a harness failure in the OOMBump e2e](https://github.com/attune-io/attune/pull/1070) in **attune-io/attune**

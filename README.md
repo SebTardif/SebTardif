@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: bump golang.org/x/net to 0.62.0](https://github.com/attune-io/attune/pull/1076) in **attune-io/attune**
 - [fix: explain the session lock excepts](https://github.com/honepad/honepad/pull/336) in **honepad/honepad**
 - [fix(application): accept a null git HTTPS username](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1037) in **coolify-terraform/terraform-provider-coolify**
 - [fix(proxy): strip hop headers when the colon is spaced](https://github.com/nolabs-ai/nono/pull/2254) in **nolabs-ai/nono**
 - [chore: bump zip and sevenz-rust2 to current compatible releases](https://github.com/snapif/snapif/pull/267) in **snapif/snapif**
 - [fix: keep pending finalization from clobbering the live catalog](https://github.com/openclaw/clawhub/pull/4225) in **openclaw/clawhub**
-- [ci: list Dependabot CI runs by commit](https://github.com/assura-lang/assura/pull/1734) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

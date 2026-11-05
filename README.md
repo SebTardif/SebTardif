@@ -44,12 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep windows path punctuation and paths inside a sentence](https://github.com/argmend/argmend/pull/137) in **argmend/argmend**
-- [fix: name the caller path when append refuses a binary file](https://github.com/patchloom/patchloom/pull/2723) in **patchloom/patchloom**
-- [fix: sum savings across live pods and bump direct modules](https://github.com/attune-io/attune/pull/1081) in **attune-io/attune**
-- [fix(mac): keep JIT entitlements on the Codex code-mode host](https://github.com/openclaw/openclaw/pull/192867) in **openclaw/openclaw**
-- [fix: explain the session lock excepts](https://github.com/honepad/honepad/pull/336) in **honepad/honepad**
-- [fix(application): accept a null git HTTPS username](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1037) in **coolify-terraform/terraform-provider-coolify**
+- [docs: show omitted change caps use maxChangePercent](https://github.com/attune-io/attune/pull/1087) in **attune-io/attune**
+- [ci: add macOS tests, an MSRV check, and issue triage](https://github.com/argmend/argmend/pull/154) in **argmend/argmend**
+- [fix: age-gc only worktrees under the leftover directory](https://github.com/workpen/workpen/pull/328) in **workpen/workpen**
+- [fix: name the caller path when file ops refuse](https://github.com/patchloom/patchloom/pull/2725) in **patchloom/patchloom**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

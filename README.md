@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: apply if, not, and oneOf inside parameters](https://github.com/argmend/argmend/pull/175) in **argmend/argmend**
-- [test: require exactly one eviction in the last-replica race](https://github.com/attune-io/attune/pull/1089) in **attune-io/attune**
+- [docs: split the README into short sections](https://github.com/argmend/argmend/pull/207) in **argmend/argmend**
+- [chore: drop the command catalog from the README](https://github.com/snapif/snapif/pull/269) in **snapif/snapif**
+- [fix: keep savings and explain honest for list failures and profiles](https://github.com/attune-io/attune/pull/1090) in **attune-io/attune**
 - [fix: keep a retired scanner hide pending until ClawScan finishes](https://github.com/openclaw/clawhub/pull/4453) in **openclaw/clawhub**
 - [fix: age-gc only worktrees under the leftover directory](https://github.com/workpen/workpen/pull/328) in **workpen/workpen**
-- [New version: Patchloom.Patchloom version 0.37.7](https://github.com/microsoft/winget-pkgs/pull/471620) in **microsoft/winget-pkgs**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

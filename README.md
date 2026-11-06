@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: split the README into short sections](https://github.com/argmend/argmend/pull/207) in **argmend/argmend**
-- [chore: drop the command catalog from the README](https://github.com/snapif/snapif/pull/269) in **snapif/snapif**
-- [fix: keep savings and explain honest for list failures and profiles](https://github.com/attune-io/attune/pull/1090) in **attune-io/attune**
-- [fix: keep a retired scanner hide pending until ClawScan finishes](https://github.com/openclaw/clawhub/pull/4453) in **openclaw/clawhub**
-- [fix: age-gc only worktrees under the leftover directory](https://github.com/workpen/workpen/pull/328) in **workpen/workpen**
+- [fix: reserve quota headroom before the next resize](https://github.com/attune-io/attune/pull/1100) in **attune-io/attune**
+- [fix: reject MCP cheap together with full](https://github.com/canact/canact/pull/394) in **canact/canact**
+- [feat(gc): age-gc registered worktrees when a host opts in](https://github.com/workpen/workpen/pull/336) in **workpen/workpen**
+- [fix: compare large integers with a power-of-ten bound](https://github.com/argmend/argmend/pull/218) in **argmend/argmend**
+- [fix: omit an empty model on a Messages stream start](https://github.com/wiremuxhq/wiremux/pull/723) in **wiremuxhq/wiremux**
+- [docs: explain how the decision model fits the policy row](https://github.com/snapif/snapif/pull/276) in **snapif/snapif**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: reserve quota headroom before the next resize](https://github.com/attune-io/attune/pull/1100) in **attune-io/attune**
-- [fix: reject MCP cheap together with full](https://github.com/canact/canact/pull/394) in **canact/canact**
-- [feat(gc): age-gc registered worktrees when a host opts in](https://github.com/workpen/workpen/pull/336) in **workpen/workpen**
-- [fix: compare large integers with a power-of-ten bound](https://github.com/argmend/argmend/pull/218) in **argmend/argmend**
-- [fix: omit an empty model on a Messages stream start](https://github.com/wiremuxhq/wiremux/pull/723) in **wiremuxhq/wiremux**
-- [docs: explain how the decision model fits the policy row](https://github.com/snapif/snapif/pull/276) in **snapif/snapif**
+- [fix: keep wrapped tool JSON and the Gemini call that owns the arguments](https://github.com/wiremuxhq/wiremux/pull/728) in **wiremuxhq/wiremux**
+- [chore: record snapif 0.2.10 in the fuzz lock](https://github.com/snapif/snapif/pull/280) in **snapif/snapif**
+- [fix: consume wiremux 0.11.11](https://github.com/canact/canact/pull/395) in **canact/canact**
+- [fix: keep applied sizes and status rows across upgrade edges](https://github.com/attune-io/attune/pull/1103) in **attune-io/attune**
+- [docs: install with cargo add](https://github.com/argmend/argmend/pull/219) in **argmend/argmend**
+- [feat(wrap): add a Windows re-exec jail with outbound network](https://github.com/workpen/workpen/pull/338) in **workpen/workpen**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

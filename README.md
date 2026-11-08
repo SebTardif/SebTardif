@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: check out bounded-run.sh for the image mirror](https://github.com/attune-io/attune/pull/1112) in **attune-io/attune**
+- [fix: refuse a failed tool result when the wire has no error field](https://github.com/wiremuxhq/wiremux/pull/732) in **wiremuxhq/wiremux**
+- [feat: pin the Coolify API contract to v4.6.0](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1048) in **coolify-terraform/terraform-provider-coolify**
+- [fix: let a CronJob keep the pod its Job owns](https://github.com/attune-io/attune/pull/1123) in **attune-io/attune**
 - [fix(deny): refuse workspace symlinks on run argv](https://github.com/workpen/workpen/pull/341) in **workpen/workpen**
 - [operator attune (0.1.36)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11899) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.36)](https://github.com/k8s-operatorhub/community-operators/pull/9878) in **k8s-operatorhub/community-operators**
-- [fix: keep wrapped tool JSON and the Gemini call that owns the arguments](https://github.com/wiremuxhq/wiremux/pull/728) in **wiremuxhq/wiremux**
-- [chore: record snapif 0.2.10 in the fuzz lock](https://github.com/snapif/snapif/pull/280) in **snapif/snapif**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

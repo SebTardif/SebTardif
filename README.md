@@ -44,12 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: add glama.json for the MCP directory claim](https://github.com/assura-lang/assura/pull/1751) in **assura-lang/assura**
-- [fix: count a millisecond fact beside another seconds timeout](https://github.com/canact/canact/pull/403) in **canact/canact**
-- [ci: cache the pinned prometheus helm chart](https://github.com/attune-io/attune/pull/1126) in **attune-io/attune**
-- [operator attune (0.1.37)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11903) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.37)](https://github.com/k8s-operatorhub/community-operators/pull/9881) in **k8s-operatorhub/community-operators**
-- [fix: fill an empty Messages error tool result](https://github.com/wiremuxhq/wiremux/pull/736) in **wiremuxhq/wiremux**
+- [fix: shield an international number when a later group runs past 15 digits](https://github.com/hushid/hushid/pull/26) in **hushid/hushid**
+- [fix: quiet skipped namespace ACE and keep Windows live cwd](https://github.com/workpen/workpen/pull/346) in **workpen/workpen**
+- [docs: fix getting-started commands that fail on a fresh clone](https://github.com/assura-lang/assura/pull/1754) in **assura-lang/assura**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

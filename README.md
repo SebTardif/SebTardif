@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [docs: add glama.json for the MCP directory claim](https://github.com/assura-lang/assura/pull/1751) in **assura-lang/assura**
 - [fix: count a millisecond fact beside another seconds timeout](https://github.com/canact/canact/pull/403) in **canact/canact**
-- [feat(smt): annotate integer bounds in counterexample output](https://github.com/assura-lang/assura/pull/1750) in **assura-lang/assura**
 - [ci: cache the pinned prometheus helm chart](https://github.com/attune-io/attune/pull/1126) in **attune-io/attune**
 - [operator attune (0.1.37)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/11903) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.37)](https://github.com/k8s-operatorhub/community-operators/pull/9881) in **k8s-operatorhub/community-operators**

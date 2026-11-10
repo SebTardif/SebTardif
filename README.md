@@ -44,9 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: shield an international number when a later group runs past 15 digits](https://github.com/hushid/hushid/pull/26) in **hushid/hushid**
-- [fix: quiet skipped namespace ACE and keep Windows live cwd](https://github.com/workpen/workpen/pull/346) in **workpen/workpen**
-- [docs: fix getting-started commands that fail on a fresh clone](https://github.com/assura-lang/assura/pull/1754) in **assura-lang/assura**
+- [fix: mask a Doppler token](https://github.com/hushid/hushid/pull/85) in **hushid/hushid**
+- [fix(cli): name each dest-deny JSON kind](https://github.com/workpen/workpen/pull/366) in **workpen/workpen**
+- [fix: treat Coolify 4.7.0 pre-release tags as unsupported](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1058) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,7 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: mask a Supabase secret key and access token](https://github.com/hushid/hushid/pull/153) in **hushid/hushid**
+- [fix: list copy on file_storage stubs that already list add](https://github.com/honepad/honepad/pull/344) in **honepad/honepad**
+- [chore: enlarge the square avatar](https://github.com/hushid/hushid/pull/175) in **hushid/hushid**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

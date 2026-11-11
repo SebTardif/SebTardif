@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: list copy on file_storage stubs that already list add](https://github.com/honepad/honepad/pull/344) in **honepad/honepad**
-- [chore: enlarge the square avatar](https://github.com/hushid/hushid/pull/175) in **hushid/hushid**
+- [feat: keep phone, card, and SIN digits in the same shape](https://github.com/hushid/hushid/pull/182) in **hushid/hushid**
+- [test: reject a failed Changes result in the CI gate](https://github.com/honepad/honepad/pull/345) in **honepad/honepad**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

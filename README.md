@@ -44,8 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: add Dependabot for Cargo and Actions](https://github.com/hushid/hushid/pull/184) in **hushid/hushid**
+- [ci: refresh the fuzz lock without building it](https://github.com/hushid/hushid/pull/199) in **hushid/hushid**
+- [docs: correct the docker hub pull limit note](https://github.com/attune-io/attune/pull/1130) in **attune-io/attune**
 - [test: reject a failed Changes result in the CI gate](https://github.com/honepad/honepad/pull/345) in **honepad/honepad**
+- [fix: keep a saved CLI token on its registry origin](https://github.com/openclaw/clawhub/pull/4525) in **openclaw/clawhub**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

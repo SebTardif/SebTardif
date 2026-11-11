@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: keep phone, card, and SIN digits in the same shape](https://github.com/hushid/hushid/pull/182) in **hushid/hushid**
+- [ci: add Dependabot for Cargo and Actions](https://github.com/hushid/hushid/pull/184) in **hushid/hushid**
 - [test: reject a failed Changes result in the CI gate](https://github.com/honepad/honepad/pull/345) in **honepad/honepad**
 <!-- RECENT-PRS-END -->
 

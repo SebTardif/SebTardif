@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [ci: refresh the fuzz lock without building it](https://github.com/hushid/hushid/pull/199) in **hushid/hushid**
+- [ci: upload coverage on pull requests](https://github.com/hushid/hushid/pull/201) in **hushid/hushid**
 - [docs: correct the docker hub pull limit note](https://github.com/attune-io/attune/pull/1130) in **attune-io/attune**
 - [test: reject a failed Changes result in the CI gate](https://github.com/honepad/honepad/pull/345) in **honepad/honepad**
 - [fix: keep a saved CLI token on its registry origin](https://github.com/openclaw/clawhub/pull/4525) in **openclaw/clawhub**

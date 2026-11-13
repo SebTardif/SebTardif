@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: reject an expired device deny and keep its label](https://github.com/openclaw/clawhub/pull/4553) in **openclaw/clawhub**
 - [feat: add names, a mask, the proxy, and sealed transcripts](https://github.com/hushid/hushid/pull/204) in **hushid/hushid**
-- [feat: show exact package publication state in the CLI](https://github.com/openclaw/clawhub/pull/4537) in **openclaw/clawhub**
 - [docs: correct the docker hub pull limit note](https://github.com/attune-io/attune/pull/1130) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 

@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [test: lock JSON round trips and seal failures](https://github.com/hushid/hushid/pull/213) in **hushid/hushid**
+- [fix: say which token has a non-UTF-8 surface](https://github.com/hushid/hushid/pull/216) in **hushid/hushid**
 - [fix: reject an expired device deny and keep its label](https://github.com/openclaw/clawhub/pull/4553) in **openclaw/clawhub**
 - [docs: correct the docker hub pull limit note](https://github.com/attune-io/attune/pull/1130) in **attune-io/attune**
 <!-- RECENT-PRS-END -->

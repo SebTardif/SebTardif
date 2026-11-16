@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [test: cover the proxy, MCP, NER, and accent paths](https://github.com/hushid/hushid/pull/218) in **hushid/hushid**
 - [fix: bump rmcp and quinn past RustSec advisories](https://github.com/patchloom/patchloom/pull/2730) in **patchloom/patchloom**
-- [fix: read a chat response that closes without a length](https://github.com/hushid/hushid/pull/217) in **hushid/hushid**
 - [fix: reject an expired device deny and keep its label](https://github.com/openclaw/clawhub/pull/4553) in **openclaw/clawhub**
 - [docs: correct the docker hub pull limit note](https://github.com/attune-io/attune/pull/1130) in **attune-io/attune**
 <!-- RECENT-PRS-END -->

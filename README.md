@@ -44,6 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [chore(auth): bump jsonwebtoken to 12](https://github.com/wiremuxhq/wiremux/pull/739) in **wiremuxhq/wiremux**
 - [test: cover the proxy, MCP, NER, and accent paths](https://github.com/hushid/hushid/pull/218) in **hushid/hushid**
 - [fix: bump rmcp and quinn past RustSec advisories](https://github.com/patchloom/patchloom/pull/2730) in **patchloom/patchloom**
 - [fix: reject an expired device deny and keep its label](https://github.com/openclaw/clawhub/pull/4553) in **openclaw/clawhub**

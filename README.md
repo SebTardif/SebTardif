@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: decode a chunked chat request and answer a bad one](https://github.com/hushid/hushid/pull/226) in **hushid/hushid**
+- [fix: name an unresolved extra allow-root](https://github.com/patchloom/patchloom/pull/2739) in **patchloom/patchloom**
+- [fix(cli): find Cargo 1.100 rlibs and patch quinn-udp](https://github.com/assura-lang/assura/pull/1766) in **assura-lang/assura**
+- [fix: bump Go 1.26.10 to 1.26.11 for GO-2026-6859](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1065) in **coolify-terraform/terraform-provider-coolify**
+- [docs: state that startup boosts ignore the resize window](https://github.com/attune-io/attune/pull/1145) in **attune-io/attune**
 - [chore(auth): bump jsonwebtoken to 12](https://github.com/wiremuxhq/wiremux/pull/739) in **wiremuxhq/wiremux**
-- [test: cover the proxy, MCP, NER, and accent paths](https://github.com/hushid/hushid/pull/218) in **hushid/hushid**
-- [fix: bump rmcp and quinn past RustSec advisories](https://github.com/patchloom/patchloom/pull/2730) in **patchloom/patchloom**
-- [fix: reject an expired device deny and keep its label](https://github.com/openclaw/clawhub/pull/4553) in **openclaw/clawhub**
-- [docs: correct the docker hub pull limit note](https://github.com/attune-io/attune/pull/1130) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,11 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: match Coolify public IPv6 and localhost checks](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1071) in **coolify-terraform/terraform-provider-coolify**
-- [ci: approve same-repo pull requests](https://github.com/hushid/hushid/pull/245) in **hushid/hushid**
+- [feat: issue a token without storing the original](https://github.com/hushid/hushid/pull/261) in **hushid/hushid**
+- [fix: do not join a properties comment that ends in a backslash](https://github.com/patchloom/patchloom/pull/2749) in **patchloom/patchloom**
+- [operator attune (0.1.38)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/12047) in **redhat-openshift-ecosystem/community-operators-prod**
+- [operator attune (0.1.38)](https://github.com/k8s-operatorhub/community-operators/pull/9996) in **k8s-operatorhub/community-operators**
+- [ci: set Coolify API rate limit before acceptance starts](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1073) in **coolify-terraform/terraform-provider-coolify**
 - [fix(ci): load the chrono audit ignore from .cargo/audit.toml](https://github.com/assura-lang/assura/pull/1770) in **assura-lang/assura**
-- [docs: describe properties joins and YAML scalar quoting](https://github.com/patchloom/patchloom/pull/2744) in **patchloom/patchloom**
-- [fix: name the live pod uid in the replacement error](https://github.com/attune-io/attune/pull/1165) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

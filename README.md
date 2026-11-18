@@ -44,11 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep a diff plus out of a domestic phone](https://github.com/hushid/hushid/pull/235) in **hushid/hushid**
-- [fix: do not expire a startup boost while the namespace is frozen](https://github.com/attune-io/attune/pull/1164) in **attune-io/attune**
-- [chore: bump clap_complete to 4.6.12](https://github.com/patchloom/patchloom/pull/2741) in **patchloom/patchloom**
-- [fix: accept image scan memory on Coolify 4.7.2](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1068) in **coolify-terraform/terraform-provider-coolify**
-- [fix(cli): find Cargo 1.100 rlibs and patch quinn-udp](https://github.com/assura-lang/assura/pull/1766) in **assura-lang/assura**
+- [fix(ci): load the chrono audit ignore from .cargo/audit.toml](https://github.com/assura-lang/assura/pull/1770) in **assura-lang/assura**
+- [docs: describe properties joins and YAML scalar quoting](https://github.com/patchloom/patchloom/pull/2744) in **patchloom/patchloom**
+- [docs: use the Scorecard score shield](https://github.com/hushid/hushid/pull/242) in **hushid/hushid**
+- [fix: clear server public IPs and reject localhost](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1070) in **coolify-terraform/terraform-provider-coolify**
+- [fix: name the live pod uid in the replacement error](https://github.com/attune-io/attune/pull/1165) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

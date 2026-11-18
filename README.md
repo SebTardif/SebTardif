@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: match Coolify public IPv6 and localhost checks](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1071) in **coolify-terraform/terraform-provider-coolify**
+- [ci: approve same-repo pull requests](https://github.com/hushid/hushid/pull/245) in **hushid/hushid**
 - [fix(ci): load the chrono audit ignore from .cargo/audit.toml](https://github.com/assura-lang/assura/pull/1770) in **assura-lang/assura**
 - [docs: describe properties joins and YAML scalar quoting](https://github.com/patchloom/patchloom/pull/2744) in **patchloom/patchloom**
-- [docs: use the Scorecard score shield](https://github.com/hushid/hushid/pull/242) in **hushid/hushid**
-- [fix: clear server public IPs and reject localhost](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1070) in **coolify-terraform/terraform-provider-coolify**
 - [fix: name the live pod uid in the replacement error](https://github.com/attune-io/attune/pull/1165) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 

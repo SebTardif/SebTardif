@@ -44,8 +44,9 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep the upstream status reason on a chat reply](https://github.com/hushid/hushid/pull/266) in **hushid/hushid**
-- [fix: say when dedupe-headings actually removed a duplicate](https://github.com/patchloom/patchloom/pull/2752) in **patchloom/patchloom**
+- [fix: read a properties value separated by a space or tab](https://github.com/patchloom/patchloom/pull/2756) in **patchloom/patchloom**
+- [docs: a line break in the upstream URL is a 502 before connect](https://github.com/hushid/hushid/pull/268) in **hushid/hushid**
+- [fix: count sidecars declared before an init in the pod envelope](https://github.com/attune-io/attune/pull/1172) in **attune-io/attune**
 - [operator attune (0.1.38)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/12047) in **redhat-openshift-ecosystem/community-operators-prod**
 - [operator attune (0.1.38)](https://github.com/k8s-operatorhub/community-operators/pull/9996) in **k8s-operatorhub/community-operators**
 - [ci: set Coolify API rate limit before acceptance starts](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1073) in **coolify-terraform/terraform-provider-coolify**

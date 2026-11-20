@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: keep a comma or semicolon inside an unquoted filename](https://github.com/argmend/argmend/pull/232) in **argmend/argmend**
+- [docs: name collision and ignore skip fields](https://github.com/craftbag/craftbag/pull/445) in **craftbag/craftbag**
+- [fix: restore a JSON number from the MCP tool as digits](https://github.com/hushid/hushid/pull/279) in **hushid/hushid**
 - [fix: scan an ini section once when dropping omitted keys](https://github.com/patchloom/patchloom/pull/2764) in **patchloom/patchloom**
-- [fix: keep a hash inside an unquoted Windows path](https://github.com/argmend/argmend/pull/227) in **argmend/argmend**
+- [fix(loading): ignore a component import from before stop](https://github.com/openclaw/uirouter/pull/113) in **openclaw/uirouter**
 - [docs: add the 0.1.39 upgrade section](https://github.com/attune-io/attune/pull/1178) in **attune-io/attune**
-- [operator attune (0.1.39)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/12062) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.39)](https://github.com/k8s-operatorhub/community-operators/pull/10006) in **k8s-operatorhub/community-operators**
-- [fix: listen on both loopbacks for localhost](https://github.com/hushid/hushid/pull/273) in **hushid/hushid**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

@@ -44,12 +44,11 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [docs: say which repairs stay off, and skip changelog link checks](https://github.com/argmend/argmend/pull/225) in **argmend/argmend**
-- [fix: keep a Notepad glossary name and a Windows session file](https://github.com/hushid/hushid/pull/272) in **hushid/hushid**
-- [fix: keep the newline when deleting an unterminated last line](https://github.com/patchloom/patchloom/pull/2761) in **patchloom/patchloom**
-- [chore: bump direct go modules reported by go list -m -u](https://github.com/attune-io/attune/pull/1176) in **attune-io/attune**
-- [operator attune (0.1.38)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/12047) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.38)](https://github.com/k8s-operatorhub/community-operators/pull/9996) in **k8s-operatorhub/community-operators**
+- [operator attune (0.1.39)](https://github.com/k8s-operatorhub/community-operators/pull/10006) in **k8s-operatorhub/community-operators**
+- [test: run the ampersand junction delete in windows-smoke](https://github.com/patchloom/patchloom/pull/2762) in **patchloom/patchloom**
+- [fix: listen on both loopbacks for localhost](https://github.com/hushid/hushid/pull/273) in **hushid/hushid**
+- [fix: keep a closing bracket inside an unquoted Windows path](https://github.com/argmend/argmend/pull/226) in **argmend/argmend**
+- [docs: say what a fresh Attune install actually does](https://github.com/attune-io/attune/pull/1177) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

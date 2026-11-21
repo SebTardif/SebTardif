@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep a comma or semicolon inside an unquoted filename](https://github.com/argmend/argmend/pull/232) in **argmend/argmend**
+- [fix: keep path text that repair passes were changing](https://github.com/argmend/argmend/pull/233) in **argmend/argmend**
 - [docs: name collision and ignore skip fields](https://github.com/craftbag/craftbag/pull/445) in **craftbag/craftbag**
 - [fix: restore a JSON number from the MCP tool as digits](https://github.com/hushid/hushid/pull/279) in **hushid/hushid**
+- [fix: bound publishing requests and narrow-screen invitation](https://github.com/openclaw/docs/pull/318) in **openclaw/docs**
+- [fix: label mixed Discord release runs as partial](https://github.com/openclaw/openclaw-rtt/pull/89) in **openclaw/openclaw-rtt**
 - [fix: scan an ini section once when dropping omitted keys](https://github.com/patchloom/patchloom/pull/2764) in **patchloom/patchloom**
-- [fix(loading): ignore a component import from before stop](https://github.com/openclaw/uirouter/pull/113) in **openclaw/uirouter**
-- [docs: add the 0.1.39 upgrade section](https://github.com/attune-io/attune/pull/1178) in **attune-io/attune**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

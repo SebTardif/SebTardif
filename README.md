@@ -44,8 +44,8 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep path text that repair passes were changing](https://github.com/argmend/argmend/pull/233) in **argmend/argmend**
-- [docs: name collision and ignore skip fields](https://github.com/craftbag/craftbag/pull/445) in **craftbag/craftbag**
+- [fix: refuse a tilde parent hidden by a backslash name](https://github.com/craftbag/craftbag/pull/450) in **craftbag/craftbag**
+- [fix: keep comment marks inside single triple quotes](https://github.com/argmend/argmend/pull/235) in **argmend/argmend**
 - [fix: restore a JSON number from the MCP tool as digits](https://github.com/hushid/hushid/pull/279) in **hushid/hushid**
 - [fix: bound publishing requests and narrow-screen invitation](https://github.com/openclaw/docs/pull/318) in **openclaw/docs**
 - [fix: label mixed Discord release runs as partial](https://github.com/openclaw/openclaw-rtt/pull/89) in **openclaw/openclaw-rtt**

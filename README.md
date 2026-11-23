@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [feat: add Coolify 4.8 destroy flags](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1084) in **coolify-terraform/terraform-provider-coolify**
-- [fix: keep a caret inside an unquoted Windows path](https://github.com/argmend/argmend/pull/237) in **argmend/argmend**
-- [fix: pin the library install line at 0.3](https://github.com/craftbag/craftbag/pull/451) in **craftbag/craftbag**
-- [fix: restore a JSON number from the MCP tool as digits](https://github.com/hushid/hushid/pull/279) in **hushid/hushid**
-- [fix: end a silent plugin-request WebSocket preflight within the decision budget](https://github.com/openclaw/openclaw-enterprise/pull/6758) in **openclaw/openclaw-enterprise**
-- [fix: bound publishing requests and narrow-screen invitation](https://github.com/openclaw/docs/pull/318) in **openclaw/docs**
+- [fix: join WScript quoted strings with +](https://github.com/snapif/snapif/pull/289) in **snapif/snapif**
+- [fix(cli): report the checked file and label inconclusive results](https://github.com/assura-lang/assura/pull/1777) in **assura-lang/assura**
+- [feat: align the extension with Patchloom CLI 0.37.10](https://github.com/patchloom/patchloom-vscode/pull/331) in **patchloom/patchloom-vscode**
+- [fix: leave a tilde path unchanged when it climbs past home](https://github.com/canact/canact/pull/408) in **canact/canact**
+- [fix: tell optional string fields to quote a boolean word](https://github.com/craftbag/craftbag/pull/453) in **craftbag/craftbag**
+- [test: cover delete_backups in Terraform and list the secret manager source](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1085) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

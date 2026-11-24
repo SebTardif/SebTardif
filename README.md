@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep a tight return and a column-0 comment as code](https://github.com/canact/canact/pull/412) in **canact/canact**
+- [fix(ci): show when the Coolify channel issue was last checked](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1089) in **coolify-terraform/terraform-provider-coolify**
+- [fix: refuse a directory as the cache path](https://github.com/canact/canact/pull/418) in **canact/canact**
+- [fix: refuse a release merge when the guard cannot read the PR](https://github.com/patchloom/patchloom-vscode/pull/335) in **patchloom/patchloom-vscode**
+- [extensions/regexp: reject the wrong number of arguments](https://github.com/tursodatabase/turso/pull/12345) in **tursodatabase/turso**
 - [test(cli): fail directory check if the reported path is invented](https://github.com/assura-lang/assura/pull/1778) in **assura-lang/assura**
-- [fix: drive the UI command palette through the visible quick input](https://github.com/patchloom/patchloom-vscode/pull/334) in **patchloom/patchloom-vscode**
 - [fix: score JScript strings the host runs](https://github.com/snapif/snapif/pull/291) in **snapif/snapif**
-- [fix: tell optional string fields to quote a boolean word](https://github.com/craftbag/craftbag/pull/453) in **craftbag/craftbag**
-- [test: cover delete_backups in Terraform and list the secret manager source](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1085) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

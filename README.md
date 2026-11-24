@@ -44,10 +44,10 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: join WScript quoted strings with +](https://github.com/snapif/snapif/pull/289) in **snapif/snapif**
-- [fix(cli): report the checked file and label inconclusive results](https://github.com/assura-lang/assura/pull/1777) in **assura-lang/assura**
-- [feat: align the extension with Patchloom CLI 0.37.10](https://github.com/patchloom/patchloom-vscode/pull/331) in **patchloom/patchloom-vscode**
-- [fix: leave a tilde path unchanged when it climbs past home](https://github.com/canact/canact/pull/408) in **canact/canact**
+- [fix: keep a tight return and a column-0 comment as code](https://github.com/canact/canact/pull/412) in **canact/canact**
+- [test(cli): fail directory check if the reported path is invented](https://github.com/assura-lang/assura/pull/1778) in **assura-lang/assura**
+- [fix: drive the UI command palette through the visible quick input](https://github.com/patchloom/patchloom-vscode/pull/334) in **patchloom/patchloom-vscode**
+- [fix: score JScript strings the host runs](https://github.com/snapif/snapif/pull/291) in **snapif/snapif**
 - [fix: tell optional string fields to quote a boolean word](https://github.com/craftbag/craftbag/pull/453) in **craftbag/craftbag**
 - [test: cover delete_backups in Terraform and list the secret manager source](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1085) in **coolify-terraform/terraform-provider-coolify**
 <!-- RECENT-PRS-END -->

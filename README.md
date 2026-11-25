@@ -52,6 +52,10 @@
 - [fix: stop false Strong edits and unmeasured card lines](https://github.com/canact/canact/pull/428) in **canact/canact**
 <!-- RECENT-PRS-END -->
 
+<!-- OPENCLAW-STATS-START -->
+Also contributing across the [openclaw](https://github.com/openclaw) org: 642 merged pull requests in 79 repositories.
+<!-- OPENCLAW-STATS-END -->
+
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)
 
 ## Certifications

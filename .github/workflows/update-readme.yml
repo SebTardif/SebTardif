@@ -1,46 +1,116 @@
 name: Update README
 on:
   schedule:
+    # Every 6 hours. This is the profile refresh, including the OpenClaw counts.
     - cron: '0 */6 * * *'
   workflow_dispatch:
 
 permissions:
   contents: write
 
+concurrency:
+  group: update-readme
+  cancel-in-progress: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
-      - name: Update recent PRs
+      - name: Update contribution lines
         uses: actions/github-script@v7
         with:
           script: |
             const fs = require('fs');
-            // Fetch more PRs than needed so we can deduplicate by repo
+            // Product orgs. Their latest merges are chores, so the six
+            // highlighted lines stay on contributions elsewhere.
+            const ownedOrgs = [
+              'SebTardifLabs',
+              'patchloom',
+              'topside-dev',
+              'coolify-terraform',
+              'attune-io',
+              'blineai',
+              'assura-lang',
+              'craftbag',
+              'honepad',
+              'canact',
+              'workpen',
+              'wiremuxhq',
+              'snapif',
+              'argmend',
+              'hushid',
+            ];
+            const exclude = ['-user:SebTardif', ...ownedOrgs.map((org) => `-org:${org}`)].join(' ');
+
+            function repoOf(item) {
+              return item.repository_url.split('/').slice(-2).join('/');
+            }
+
+            function countPhrase(count, singular, plural) {
+              return `${count} ${count === 1 ? singular : plural}`;
+            }
+
+            const recentQuery = `type:pr author:SebTardif is:merged sort:updated-desc ${exclude}`;
             const { data: prs } = await github.rest.search.issuesAndPullRequests({
-              q: 'type:pr author:SebTardif is:merged sort:created-desc',
-              per_page: 30
+              q: recentQuery,
+              per_page: 30,
             });
-            // Pick the most recent merged PR per repo, up to 6 repos
             const seen = new Set();
             const lines = [];
             for (const pr of prs.items) {
-              const repo = pr.repository_url.split('/').slice(-2).join('/');
-              if (repo.startsWith('SebTardif/')) continue; // skip own repos
+              const repo = repoOf(pr);
               if (seen.has(repo)) continue;
               seen.add(repo);
               lines.push(`- [${pr.title}](${pr.html_url}) in **${repo}**`);
               if (lines.length >= 6) break;
             }
-            let readme = fs.readFileSync('README.md', 'utf8');
-            const updated = readme.replace(
-              /<!-- RECENT-PRS-START -->[\s\S]*<!-- RECENT-PRS-END -->/,
-              `<!-- RECENT-PRS-START -->\n${lines.join('\n')}\n<!-- RECENT-PRS-END -->`
-            );
+            if (lines.length === 0) {
+              core.setFailed('Recent contribution search returned no pull requests');
+              return;
+            }
+
+            const statsQuery = 'author:SebTardif org:openclaw is:pr is:merged';
+            const repos = new Set();
+            let total = 0;
+            for (let page = 1; page <= 10; page += 1) {
+              const { data } = await github.rest.search.issuesAndPullRequests({
+                q: statsQuery,
+                per_page: 100,
+                page,
+              });
+              total = data.total_count;
+              for (const item of data.items) repos.add(repoOf(item));
+              if (data.items.length < 100 || page * 100 >= total) break;
+            }
+            if (!total || repos.size === 0) {
+              core.setFailed('OpenClaw contribution count was empty');
+              return;
+            }
+            const stats = [
+              'Also contributing across the [openclaw](https://github.com/openclaw) org: '
+                + `${countPhrase(total, 'merged pull request', 'merged pull requests')} in `
+                + `${countPhrase(repos.size, 'repository', 'repositories')}.`,
+            ].join('');
+
+            const readme = fs.readFileSync('README.md', 'utf8');
+            const markers = [
+              ['RECENT-PRS', lines.join('\n')],
+              ['OPENCLAW-STATS', stats],
+            ];
+            let updated = readme;
+            for (const [name, body] of markers) {
+              const pattern = new RegExp(`<!-- ${name}-START -->[\\s\\S]*<!-- ${name}-END -->`);
+              if (!pattern.test(updated)) {
+                core.setFailed(`README is missing ${name} markers`);
+                return;
+              }
+              updated = updated.replace(pattern, `<!-- ${name}-START -->\n${body}\n<!-- ${name}-END -->`);
+            }
             if (updated !== readme) {
               fs.writeFileSync('README.md', updated);
-              console.log('README updated with ' + lines.length + ' PRs');
+              console.log(`Updated ${lines.length} recent lines and OpenClaw stats: ${total} in ${repos.size} repos`);
             } else {
               console.log('No changes needed');
             }
@@ -48,4 +118,4 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add README.md && git commit -m "chore: update recent PRs" && git push)
+          git diff --quiet || (git add README.md && git commit -m "chore: update profile contribution lines" && git push)

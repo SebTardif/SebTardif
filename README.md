@@ -36,10 +36,10 @@
 
 ## Current Focus
 
-- Building and contributing to agentic AI frameworks ([OpenClaw](https://github.com/openclaw/openclaw), [NanoClaw](https://github.com/qwibitai/nanoclaw)) and MCP tooling
-- AI-assisted software engineering: vibe coding workflows, agent orchestration, LLM-driven code review and security auditing
+- Building and contributing to [OpenClaw](https://github.com/openclaw/openclaw) and MCP tooling
+- AI-assisted software engineering: agent orchestration, LLM-driven code review and security auditing
 - Security hardening across major OSS projects (Playwright, Terraform, Argo CD)
-- Kubernetes ecosystem tooling (Kubebuilder, Flux, Prometheus Operator, KServe)
+- Kubernetes ecosystem tooling (Kubebuilder, Flux, Prometheus Operator)
 
 ## Recent Open Source Contributions
 

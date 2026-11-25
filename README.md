@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix: keep an ini assignment that uses a colon](https://github.com/patchloom/patchloom/pull/2767) in **patchloom/patchloom**
-- [docs: capitalize Craftbag in English sentences](https://github.com/craftbag/craftbag/pull/456) in **craftbag/craftbag**
-- [fix: authenticate operator metrics and harden the default install](https://github.com/attune-io/attune/pull/1191) in **attune-io/attune**
-- [fix: score shell.deep when a WSH eval chain overflows](https://github.com/snapif/snapif/pull/303) in **snapif/snapif**
-- [ci: pin scorecard-action to v2.6.0](https://github.com/honepad/honepad/pull/355) in **honepad/honepad**
-- [fix: stop false Strong edits and unmeasured card lines](https://github.com/canact/canact/pull/428) in **canact/canact**
+- [vendor: github.com/go-jose/go-jose/v4 v4.1.7 (security)](https://github.com/containerd/containerd/pull/14593) in **containerd/containerd**
+- [fix(agent): return an error when a bundle name is missing from the index](https://github.com/dsx-ai-factory/nvke/pull/2225) in **dsx-ai-factory/nvke**
+- [extensions/regexp: reject the wrong number of arguments](https://github.com/tursodatabase/turso/pull/12345) in **tursodatabase/turso**
+- [New package: Wiremux.Wiremux version 0.9.3](https://github.com/microsoft/winget-pkgs/pull/444315) in **microsoft/winget-pkgs**
+- [fix: end a silent plugin-request WebSocket preflight within the decision budget](https://github.com/openclaw/openclaw-enterprise/pull/6758) in **openclaw/openclaw-enterprise**
+- [docs: Routing Appender security considerations for high-cardinality keys](https://github.com/apache/logging-log4j2/pull/4217) in **apache/logging-log4j2**
 <!-- RECENT-PRS-END -->
 
 <!-- OPENCLAW-STATS-START -->

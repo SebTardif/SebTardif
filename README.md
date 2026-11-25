@@ -63,7 +63,6 @@ Also contributing across the [openclaw](https://github.com/openclaw) org: 642 me
 - Certified Kubernetes Application Developer (CKAD)
 - AWS Certified Solutions Architect & Security Specialty
 - CompTIA Security+
-
 - Claude Code in Action (Anthropic)
 - Agentic AI with LangGraph, CrewAI, AutoGen (IBM)
 - GitHub Copilot (Microsoft)

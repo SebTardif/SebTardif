@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [fix(ci): show when the Coolify channel issue was last checked](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1089) in **coolify-terraform/terraform-provider-coolify**
-- [fix: refuse a directory as the cache path](https://github.com/canact/canact/pull/418) in **canact/canact**
+- [ci: pin scorecard-action to v2.6.0](https://github.com/honepad/honepad/pull/355) in **honepad/honepad**
+- [fix: stop false Strong edits and unmeasured card lines](https://github.com/canact/canact/pull/428) in **canact/canact**
+- [fix: republish chart annotations off the latest image tag](https://github.com/attune-io/attune/pull/1184) in **attune-io/attune**
+- [fix(client): reject HTML and empty version responses](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1090) in **coolify-terraform/terraform-provider-coolify**
 - [fix: refuse a release merge when the guard cannot read the PR](https://github.com/patchloom/patchloom-vscode/pull/335) in **patchloom/patchloom-vscode**
 - [extensions/regexp: reject the wrong number of arguments](https://github.com/tursodatabase/turso/pull/12345) in **tursodatabase/turso**
-- [test(cli): fail directory check if the reported path is invented](https://github.com/assura-lang/assura/pull/1778) in **assura-lang/assura**
-- [fix: score JScript strings the host runs](https://github.com/snapif/snapif/pull/291) in **snapif/snapif**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

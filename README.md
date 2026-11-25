@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: keep an ini assignment that uses a colon](https://github.com/patchloom/patchloom/pull/2767) in **patchloom/patchloom**
+- [docs: capitalize Craftbag in English sentences](https://github.com/craftbag/craftbag/pull/456) in **craftbag/craftbag**
+- [fix: authenticate operator metrics and harden the default install](https://github.com/attune-io/attune/pull/1191) in **attune-io/attune**
+- [fix: score shell.deep when a WSH eval chain overflows](https://github.com/snapif/snapif/pull/303) in **snapif/snapif**
 - [ci: pin scorecard-action to v2.6.0](https://github.com/honepad/honepad/pull/355) in **honepad/honepad**
 - [fix: stop false Strong edits and unmeasured card lines](https://github.com/canact/canact/pull/428) in **canact/canact**
-- [fix: republish chart annotations off the latest image tag](https://github.com/attune-io/attune/pull/1184) in **attune-io/attune**
-- [fix(client): reject HTML and empty version responses](https://github.com/coolify-terraform/terraform-provider-coolify/pull/1090) in **coolify-terraform/terraform-provider-coolify**
-- [fix: refuse a release merge when the guard cannot read the PR](https://github.com/patchloom/patchloom-vscode/pull/335) in **patchloom/patchloom-vscode**
-- [extensions/regexp: reject the wrong number of arguments](https://github.com/tursodatabase/turso/pull/12345) in **tursodatabase/turso**
 <!-- RECENT-PRS-END -->
 
 Also contributing to: [opentofu/opentofu](https://github.com/opentofu/opentofu), [hashicorp/terraform](https://github.com/hashicorp/terraform), [argoproj/argo-cd](https://github.com/argoproj/argo-cd), [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder), [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator), [redis/redis](https://github.com/redis/redis), [git/git](https://github.com/git/git)

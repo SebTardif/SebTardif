@@ -44,12 +44,12 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [operator attune (0.1.40)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/12116) in **redhat-openshift-ecosystem/community-operators-prod**
+- [New version: Craftbag.Craftbag version 0.3.4](https://github.com/microsoft/winget-pkgs/pull/487471) in **microsoft/winget-pkgs**
+- [fix: do not poll a saved query after its tab is destroyed](https://github.com/beekeeper-studio/beekeeper-studio/pull/5155) in **beekeeper-studio/beekeeper-studio**
+- [operator attune (0.1.40)](https://github.com/k8s-operatorhub/community-operators/pull/10052) in **k8s-operatorhub/community-operators**
 - [vendor: github.com/go-jose/go-jose/v4 v4.1.7 (security)](https://github.com/containerd/containerd/pull/14593) in **containerd/containerd**
 - [fix(agent): return an error when a bundle name is missing from the index](https://github.com/dsx-ai-factory/nvke/pull/2225) in **dsx-ai-factory/nvke**
-- [extensions/regexp: reject the wrong number of arguments](https://github.com/tursodatabase/turso/pull/12345) in **tursodatabase/turso**
-- [New package: Wiremux.Wiremux version 0.9.3](https://github.com/microsoft/winget-pkgs/pull/444315) in **microsoft/winget-pkgs**
-- [fix: end a silent plugin-request WebSocket preflight within the decision budget](https://github.com/openclaw/openclaw-enterprise/pull/6758) in **openclaw/openclaw-enterprise**
-- [docs: Routing Appender security considerations for high-cardinality keys](https://github.com/apache/logging-log4j2/pull/4217) in **apache/logging-log4j2**
 <!-- RECENT-PRS-END -->
 
 <!-- OPENCLAW-STATS-START -->

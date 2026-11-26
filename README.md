@@ -44,16 +44,16 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
+- [fix: a portless private gateway canvas page does not load](https://github.com/openclaw/openclaw-windows-node/pull/2230) in **openclaw/openclaw-windows-node**
+- [fix: stop the query elapsed timer when a tab closes](https://github.com/beekeeper-studio/beekeeper-studio/pull/5157) in **beekeeper-studio/beekeeper-studio**
 - [operator attune (0.1.40)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/12116) in **redhat-openshift-ecosystem/community-operators-prod**
 - [New version: Craftbag.Craftbag version 0.3.4](https://github.com/microsoft/winget-pkgs/pull/487471) in **microsoft/winget-pkgs**
-- [fix: do not poll a saved query after its tab is destroyed](https://github.com/beekeeper-studio/beekeeper-studio/pull/5155) in **beekeeper-studio/beekeeper-studio**
 - [operator attune (0.1.40)](https://github.com/k8s-operatorhub/community-operators/pull/10052) in **k8s-operatorhub/community-operators**
 - [vendor: github.com/go-jose/go-jose/v4 v4.1.7 (security)](https://github.com/containerd/containerd/pull/14593) in **containerd/containerd**
-- [fix(agent): return an error when a bundle name is missing from the index](https://github.com/dsx-ai-factory/nvke/pull/2225) in **dsx-ai-factory/nvke**
 <!-- RECENT-PRS-END -->
 
 <!-- OPENCLAW-STATS-START -->
-Also contributing across the [openclaw](https://github.com/openclaw) org: 642 merged pull requests in 79 repositories.
+Also contributing across the [openclaw](https://github.com/openclaw) org: 644 merged pull requests in 79 repositories.
 <!-- OPENCLAW-STATS-END -->
 
 ## Certifications

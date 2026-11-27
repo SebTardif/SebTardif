@@ -45,11 +45,11 @@
 
 <!-- RECENT-PRS-START -->
 - [New version: Wiremux.Wiremux version 0.11.14](https://github.com/microsoft/winget-pkgs/pull/490204) in **microsoft/winget-pkgs**
-- [Keep the routing context when a bearer access token is decrypted](https://github.com/quarkusio/quarkus/pull/58815) in **quarkusio/quarkus**
+- [Fail registerClients when a client registration is rejected](https://github.com/quarkusio/quarkus/pull/58821) in **quarkusio/quarkus**
+- [fix: dispose owned scroll controllers and floating-cursor timer](https://github.com/reqable/re-editor/pull/119) in **reqable/re-editor**
 - [fix: a portless private gateway canvas page does not load](https://github.com/openclaw/openclaw-windows-node/pull/2230) in **openclaw/openclaw-windows-node**
 - [fix: stop the query elapsed timer when a tab closes](https://github.com/beekeeper-studio/beekeeper-studio/pull/5157) in **beekeeper-studio/beekeeper-studio**
 - [operator attune (0.1.40)](https://github.com/redhat-openshift-ecosystem/community-operators-prod/pull/12116) in **redhat-openshift-ecosystem/community-operators-prod**
-- [operator attune (0.1.40)](https://github.com/k8s-operatorhub/community-operators/pull/10052) in **k8s-operatorhub/community-operators**
 <!-- RECENT-PRS-END -->
 
 <!-- OPENCLAW-STATS-START -->

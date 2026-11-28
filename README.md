@@ -44,7 +44,7 @@
 ## Recent Open Source Contributions
 
 <!-- RECENT-PRS-START -->
-- [New version: Wiremux.Wiremux version 0.11.14](https://github.com/microsoft/winget-pkgs/pull/490204) in **microsoft/winget-pkgs**
+- [New version: Wiremux.Wiremux version 0.11.15](https://github.com/microsoft/winget-pkgs/pull/491232) in **microsoft/winget-pkgs**
 - [Fail registerClients when a client registration is rejected](https://github.com/quarkusio/quarkus/pull/58821) in **quarkusio/quarkus**
 - [fix: dispose owned scroll controllers and floating-cursor timer](https://github.com/reqable/re-editor/pull/119) in **reqable/re-editor**
 - [fix: a portless private gateway canvas page does not load](https://github.com/openclaw/openclaw-windows-node/pull/2230) in **openclaw/openclaw-windows-node**
